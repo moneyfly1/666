@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 ss(广移)香港1 - 雷达, server: gymz2.ldldfwq.top, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: b6875bbc-70da-4f77-b8b1-358dd924f0e5, udp: true}
-- {name: 🇭🇰 ss(广移)香港2 - 雷达, server: gymz2.ldldfwq.top, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: b6875bbc-70da-4f77-b8b1-358dd924f0e5, udp: true}
+- {name: 🇭🇰 ss(广移)香港1 - 雷达, server: gymz2.ldldfwq.top, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 4ac9734c-37a9-47d3-9913-236543044dfd, udp: true}
+- {name: 🇭🇰 ss(广移)香港2 - 雷达, server: gymz2.ldldfwq.top, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 4ac9734c-37a9-47d3-9913-236543044dfd, udp: true}
