@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
-- {name: 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
-- {name: 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
-- {name: 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
-- {name: 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
-- {name: 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
+- {name: 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: e014e5c4-73cd-42ac-b429-4c43ce23d5c5, udp: true}
+- {name: 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: e014e5c4-73cd-42ac-b429-4c43ce23d5c5, udp: true}
+- {name: 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: e014e5c4-73cd-42ac-b429-4c43ce23d5c5, udp: true}
+- {name: 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: e014e5c4-73cd-42ac-b429-4c43ce23d5c5, udp: true}
+- {name: 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: e014e5c4-73cd-42ac-b429-4c43ce23d5c5, udp: true}
+- {name: 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 55408, type: ss, cipher: chacha20-ietf-poly1305, password: e014e5c4-73cd-42ac-b429-4c43ce23d5c5, udp: true}
