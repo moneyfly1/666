@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e413f2a5-044e-4f29-9f5b-06edf9f8c8c6, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e413f2a5-044e-4f29-9f5b-06edf9f8c8c6, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e413f2a5-044e-4f29-9f5b-06edf9f8c8c6, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e413f2a5-044e-4f29-9f5b-06edf9f8c8c6, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e413f2a5-044e-4f29-9f5b-06edf9f8c8c6, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e413f2a5-044e-4f29-9f5b-06edf9f8c8c6, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: cf91ca52-a064-4f0e-b0c4-2d1c19453729, udp: true}
