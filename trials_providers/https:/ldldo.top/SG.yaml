@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: be00947d-a03e-4ee7-ad49-f7e4a6e0b569, udp: true}
-- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: be00947d-a03e-4ee7-ad49-f7e4a6e0b569, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 99610c28-c6e9-4abb-9ba7-dd331f237f9b, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 99610c28-c6e9-4abb-9ba7-dd331f237f9b, udp: true}
