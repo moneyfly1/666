@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: b74a58c7-12c7-49d3-8b0d-b05bbef483bf, udp: true}
-- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: b74a58c7-12c7-49d3-8b0d-b05bbef483bf, udp: true}
-- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: b74a58c7-12c7-49d3-8b0d-b05bbef483bf, udp: true}
+- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: ba86b2a8-9223-4bd9-aed6-05d54230215f, udp: true}
+- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: ba86b2a8-9223-4bd9-aed6-05d54230215f, udp: true}
+- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: ba86b2a8-9223-4bd9-aed6-05d54230215f, udp: true}
