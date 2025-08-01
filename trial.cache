@@ -8,17 +8,17 @@
 
 [https://feima.online]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zqhcy981qors@qq.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n\n<title>feima.online | 502: Bad gateway</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Bad gateway</span>\n <span class="code-label">Error code 502</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=feima.online" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2025-08-01 04:12:21 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n \n<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=feima.online" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">San Jose</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=feima.online" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">feima.online</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n</div>\n\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The web server reported a bad gateway error.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n <p class="mb-6">Please try again in a few minutes.</p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">96827f15cad74f08</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">68.220.61.194</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=feima.online" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div>\n</div>\n</body>\n</html>\n')
+更新订阅链接/续费续签失败  获取邮箱失败: can't set attribute 'email'
 
 [https://huasuan666.top]
 buy  pass
-email  e9x5ihyvmv6d@outlook.com
+email  jfqb7r9esz5r@outlook.com
 name  划算机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://jc.huasuan666.top/api/v1/client/subscribe?token=1f1d46c716ee110eb71d96428e12b213
-time  2025-08-01 12:12:41.114555+08:00
+sub_url  https://hs.huasuan666.top/api/v1/client/subscribe?token=0db5510e435c69726b5e531696d9c65e
+time  2025-08-01 14:20:14.513715+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://jf.luxnu.cn]
 buy  pass
@@ -29,7 +29,7 @@ sub_url  https://jfdy.z525.cn/api/jdhg001yyds712?token=ff518fa9d58e55d86b8499911
 time  2025-07-30 20:36:48.938542+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱失败: can't set attribute 'email'
+更新订阅链接/续费续签失败  注册失败(2s4visvmax3l@qq.com): HTTPSConnectionPool(host='jf.luxnu.cn', port=443): Read timed out. (read timeout=30)
 
 [https://qaq3.bailiqun.top]
 buy  pass
@@ -40,139 +40,138 @@ sub_url  https://token4.bailiqun.top/s/694f191ce53df9916836ad2fbba79cb5
 time  2025-08-01 09:43:38.852584+08:00
 type  v2board
 保存base64/clash订阅失败  string indices must be integers
-更新旧订阅失败  (https://qaq3.bailiqun.top/s/694f191ce53df9916836ad2fbba79cb5): 403 Forbidden '{"message":"Account unavailable"}'
+更新旧订阅失败  HTTPSConnectionPool(host='qaq3.bailiqun.top', port=443): Max retries exceeded with url: /s/694f191ce53df9916836ad2fbba79cb5 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='qaq3.bailiqun.top', port=443): Read timed out. (read timeout=30)"))
 
 [https://qy1357.top]
 buy  pass
-email  cgvxbf475c0e@gmail.com
+email  3vv832jold06@qq.com
 name  青云机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://95.qy1357.top/api/v1/client/subscribe?token=1484ffaa9fd153a811224a0d4aed0413
-time  2025-08-01 12:13:08.239900+08:00
+sub_url  https://cu.qy1357.top/api/v1/client/subscribe?token=3c0f57db261b696f2e5198146a9e1bb4
+time  2025-08-01 14:21:19.545391+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://www.cloudwalk.top]
 buy  pass
-email  vhbpz7dfejem@outlook.com
+email  zbfym4wcbb21@outlook.com
 name  𝐂𝐥𝐨𝐮𝐝 𝐖𝐚𝐥𝐤
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloudwk128.cloudwalk.top/api/v1/client/subscribe?token=17f6d06f1c4e1fa9634c6c31d4b34360
-time  2025-08-01 12:13:36.736068+08:00
+sub_url  https://cloudwk128.cloudwalk.top/api/v1/client/subscribe?token=ac82fcab88f6c037707a0cc2f58fc1c7
+time  2025-08-01 14:21:30.908150+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://www.eva2.xyz]
 buy  pass
-email  nov9z3gk6ejr@qq.com
+email  mz4m5t73tgef@qq.com
 name  惊鸿云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dyzydh1.ihuhud555gusaoie.xyz/api/v1/client/subscribe?token=a6e3ac0662eb49504a2891c5d738cc58
-time  2025-08-01 12:13:25.638750+08:00
+sub_url  https://dyzydh1.ihuhud555gusaoie.xyz/api/v1/client/subscribe?token=c09578e390becb8cd53d8fc8178a39ae
+time  2025-08-01 14:21:32.347961+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://www.flylink.cyou]
 buy  pass
-email  zc16j8qlk3c3@outlook.com
+email  ydjdiww6p59p@gmail.com
 name  飞链
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://user.flylink.cyou/api/v1/client/subscribe?token=51c9fdde7ca3f109ebd450c2a3457e68
-time  2025-08-01 12:13:26.777962+08:00
+sub_url  https://wy.flylink.cyou/api/v1/client/subscribe?token=051ae615d6abed2219fed5ce33abbfed
+time  2025-08-01 14:21:31.164585+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://maichongyun.cc]
 buy  pass
-email  p6oycssgw8zc@gmail.com
+email  cfddd9dk5s5u@gmail.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-01 14:17:41+08:00  (剩余 1G 2:04:45.151651)
-sub_url  http://152.53.81.162:5088/api/v1/client/subscribe?token=1fe1aa81bf73d16ed6fccca6e05d2a56
-time  2025-08-01 02:17:45.512626+08:00
+sub_info  0B  1G  2025-08-02 02:20:37+08:00  (剩余 1G 11:59:33.201096)
+sub_url  https://mcapp.yy9866.com/api/v1/client/subscribe?token=99140422fdf513e11eda2cf628a78e31
+time  2025-08-01 14:20:41.772847+08:00
 type  v2board
 
 [https://www.maichongyun.click]
 buy  pass
-email  c9zbfnn5ice0@outlook.com
+email  sljvgapyopgm@qq.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-01 14:18:17+08:00  (剩余 1G 2:04:45.050657)
-sub_url  https://mc.yy9866.com/api/v1/client/subscribe?token=c6ba14b9ef4653b7721574469537c3a1
-time  2025-08-01 02:18:22.243535+08:00
+sub_info  0B  1G  2025-08-02 02:21:36+08:00  (剩余 1G 11:59:42.962212)
+sub_url  https://mcapp.yy9866.com/api/v1/client/subscribe?token=4d5b5da6400b79b119424d6685229b8a
+time  2025-08-01 14:21:41.042760+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
 
 [https://maichongyun.click]
 buy  pass
-email  r2hplit2x6qd@outlook.com
+email  rfh6r63bjpvo@qq.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-01 14:17:42+08:00  (剩余 1G 2:04:34.095385)
-sub_url  https://mcapp.yy9866.com/api/v1/client/subscribe?token=f448edeb4d9947688c08b56534336466
-time  2025-08-01 02:17:46.680265+08:00
+sub_info  0B  1G  2025-08-02 02:20:48+08:00  (剩余 1G 11:59:43.121599)
+sub_url  http://152.53.81.162:5088/api/v1/client/subscribe?token=41c5c522f29901fb4431c7949d76801d
+time  2025-08-01 14:20:53.221951+08:00
 type  v2board
 
 [https://www.maichongyun.xyz]
 buy  pass
-email  g6w9753kex74@qq.com
+email  w6xhwmxp5622@qq.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-01 14:20:41+08:00  (剩余 1G 2:07:00.482337)
-sub_url  https://mc.yy9866.com/api/v1/client/subscribe?token=24bdcc978808323fb1afc984fefc122c
-time  2025-08-01 02:20:45.996125+08:00
+sub_info  0B  1G  2025-08-02 02:21:37+08:00  (剩余 1G 11:59:48.492271)
+sub_url  http://152.53.81.162:5088/api/v1/client/subscribe?token=7a8cf5b93c6e6455884801d8dde0346f
+time  2025-08-01 14:21:42.504001+08:00
 type  v2board
 
 [https://maichongyun.xyz]
 buy  pass
-email  jwb64i5phjoe@outlook.com
+email  0ekjjxyi0jbr@gmail.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-01 14:17:42+08:00  (剩余 1G 2:04:41.878359)
-sub_url  https://mcapp.yy9866.com/api/v1/client/subscribe?token=f8538d9b9d22068926d9900a787662d5
-time  2025-08-01 02:17:46.726420+08:00
+sub_info  0B  1G  2025-08-02 02:20:48+08:00  (剩余 1G 11:59:42.911151)
+sub_url  https://mc.yy9866.com/api/v1/client/subscribe?token=f5a63519fe485d58a18475a8ad11994b
+time  2025-08-01 14:20:53.563528+08:00
 type  v2board
 
 [https://www.maichongyun.cc]
 buy  pass
-email  1oouvj9w0q4x@qq.com
+email  jo75md649on3@outlook.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-01 14:18:21+08:00  (剩余 1G 2:04:41.735710)
-sub_url  https://mc.yy9866.com/api/v1/client/subscribe?token=d76731a0000e27983b6e17a96d32f515
-time  2025-08-01 02:18:25.752396+08:00
+sub_info  0B  1G  2025-08-02 02:22:06+08:00  (剩余 1G 11:59:47.349209)
+sub_url  https://mcapp.yy9866.com/api/v1/client/subscribe?token=f61393acb4e8873ac22e8353aef65c96
+time  2025-08-01 14:22:11.146521+08:00
 type  v2board
 
 [https://di5ji.lat]
 buy  pass
-email  w1vpt3bbmdrt@qq.com
+email  ai4rnq7iquyi@qq.com
 name  第五季机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://diwu.di5ji.lat/api/v1/client/subscribe?token=62900dfd6890e8ee8cfcf67ab31249f5
-time  2025-08-01 12:12:28.398372+08:00
+sub_url  https://di5.di5ji.lat/api/v1/client/subscribe?token=786782a6352bd84e9e543cb7616c9248
+time  2025-08-01 14:20:02.635003+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  string indices must be integers
 
 [https://kk.kywl.eu]
 
 [https://slianvpn.top]
 buy  pass
-email  dkka2igsg5ty@gmail.com
+email  n7ksox3m2ilv@qq.com
 name  ⚡闪连一元公益机场
 node_n  50
-sub_info  0B  2G  2025-08-01 14:13:22+08:00  (剩余 2G 2:00:00.334826)
-sub_url  https://slvp.nxxbbf.com/api/v1/client/subscribe?token=520f87f366ef0bf3bdcf364214cf13f9
-time  2025-08-01 12:13:19.397126+08:00
+sub_info  0B  2G  2025-08-01 16:21:21+08:00  (剩余 2G 1:59:56.672913)
+sub_url  https://slvp.nxxbbf.com/api/v1/client/subscribe?token=d6e51f3aaf7dfa5ba26058e2b3308eee
+time  2025-08-01 14:21:17.875187+08:00
 type  v2board
 
 [https://slian.slianvpn.top]
 buy  pass
-email  oz1zib30kwcz@gmail.com
+email  fq0oq4v5cpep@qq.com
 name  ⚡闪连一元公益机场
 node_n  50
-sub_info  0B  2G  2025-08-01 14:13:22+08:00  (剩余 2G 1:59:54.731143)
-sub_url  https://slvp.nxxbbf.com/api/v1/client/subscribe?token=d98244ab252a1d096e9cc84831eb6c72
-time  2025-08-01 12:13:18.780593+08:00
+sub_info  0B  2G  2025-08-01 16:21:21+08:00  (剩余 2G 1:59:51.759366)
+sub_url  https://slurl.izenny.com/api/v1/client/subscribe?token=823da68fa4617d442d006c2f59cd5be3
+time  2025-08-01 14:21:18.030383+08:00
 type  v2board
 
 [https://xunyungogogo.xyz]
@@ -180,7 +179,7 @@ buy  pass
 email  gvurbfjphc5f@outlook.com
 name  迅云加速
 node_n  33
-sub_info  0B  2G  2025-08-02 09:06:11+08:00  (剩余 2G 20:52:21.493362)
+sub_info  0B  2G  2025-08-02 09:06:11+08:00  (剩余 2G 18:44:16.410580)
 sub_url  https://abcsdf.acwtg.cn/api/v1/client/subscribe?token=3baf7948715174fa3b353a0c3eeb8a73
 time  2025-08-01 09:06:11.565419+08:00
 type  v2board
@@ -189,17 +188,17 @@ type  v2board
 api_host  f8xquxya.cloxy.xyz
 name  Cloxy
 type  v2board
-更新订阅链接/续费续签失败  注册失败(1xreniu0bc60@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ql370skje6kp@outlook.com): 'NoneType' object is not subscriptable
 
 [https://jichang.hanbao.fit]
 
 [https://xiaozhu.luodi666.cc]
 buy  pass
-email  hd9wxv40dg2p@qq.com
+email  d6hl83xz30co@qq.com
 name  小猪科技
-sub_info  0B  200G  2025-08-01 12:14:05+08:00  (剩余 200G 0:00:21.955136)
-sub_url  https://xiaozhu.kkhhddnn.cn/api/v1/client/subscribe?token=90c5c0b49df65355616147f91778946f
-time  2025-08-01 12:13:39.217810+08:00
+sub_info  0B  200G  2025-08-01 14:22:22+08:00  (剩余 200G 0:00:22.608564)
+sub_url  https://xiaozhu.kkhhddnn.cn/api/v1/client/subscribe?token=2150b87b290327a54022237a36e7148c
+time  2025-08-01 14:21:56.222103+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -214,7 +213,7 @@ buy  pass
 email  kf3r7t1ldscb@qq.com
 name  神盾
 node_n  2
-sub_info  0B  100G  2025-08-02 09:43:28+08:00  (剩余 100G 21:30:17.005052)
+sub_info  0B  100G  2025-08-02 09:43:28+08:00  (剩余 100G 19:22:18.792895)
 sub_url  http://tl10.cc/api/v1/client/subscribe?token=8ee3e1f50b2cf5523464b634a72eee25
 time  2025-07-30 09:43:29.286855+08:00
 type  v2board
@@ -228,7 +227,7 @@ sub_info  0B  2G  永不过期  (剩余 2G)
 sub_url  https://kuaiyun66.cn/api/v1/client/subscribe?token=ed127eb0008831e243c3d9e90db93e77
 time  2025-07-30 09:43:32.153348+08:00
 type  v2board
-更新旧订阅失败  invalid literal for int() with base 10: ''
+更新旧订阅失败  int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
 
 [https://hoshinonetwork.dpdns.org]
 
@@ -236,11 +235,11 @@ type  v2board
 
 [https://ldldo.top/]
 buy  pass
-email  1lj6dfwwqb9d@outlook.com
+email  68k8jsz5hb1c@outlook.com
 name  雷达
-sub_info  0B  2G  2025-08-01 14:12:54+08:00  (剩余 2G 1:59:54.375641)
-sub_url  https://ld88.nxxbbf.com/api/v1/client/subscribe?token=d963520da35bf29d700c969f2a754a07
-time  2025-08-01 12:12:55.039682+08:00
+sub_info  0B  2G  2025-08-01 16:20:33+08:00  (剩余 2G 1:59:34.888552)
+sub_url  https://ldld.whtjdasha.com/api/v1/client/subscribe?token=c730303b6f1deb39007b9f49ca4fba3f
+time  2025-08-01 14:20:33.372287+08:00
 type  v2board
 保存base64/clash订阅失败  [Errno 21] Is a directory: 'trials/https://ldldo.top/'
 
@@ -259,7 +258,7 @@ type  v2board
 [https://1112244.xyz]
 name  白嫖机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(iabzqlobsd49@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(vpfoomibmy5u@gmail.com): 'NoneType' object is not subscriptable
 
 [https://1236547.xyz]
 name  无界
@@ -275,12 +274,12 @@ sub_url  https://154.12.191.220/api/v1/client/subscribe?token=c609542762ce49d57f
 time  2025-07-30 14:27:19.024329+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  (https://154.12.191.220/api/v1/client/subscribe?token=c609542762ce49d57fcdc98ae04d4930): 403 Forbidden '{\n "message": "token is error"\n}'
+更新旧订阅失败  {'message': '邮箱或密码错误'}
 
 [https://2025.mypeets.uk]
 name  猪的大飞机-高级版
 type  v2board
-更新订阅链接/续费续签失败  注册失败(no2no7qp5mqx@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(bmvio685lh67@gmail.com): 'NoneType' object is not subscriptable
 
 [https://321654.xyz]
 name  BLACK
@@ -295,7 +294,7 @@ type  v2board
 [https://99vpn.bar]
 name  99吧
 type  v2board
-更新订阅链接/续费续签失败  注册失败(nxddkglwc6kk@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(85vzc5x7k5j4@gmail.com): 'NoneType' object is not subscriptable
 
 [https://a1.libraslink1.xyz]
 name  LibrasCloud
@@ -315,7 +314,7 @@ type  v2board
 [https://aapanel.666mall.top]
 name  星河
 type  v2board
-更新订阅链接/续费续签失败  注册失败(4eye7wvzf20m@gmail.com): HTTPSConnectionPool(host='aapanel.666mall.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff6941f8550>, 'Connection to aapanel.666mall.top timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(hetrwgkn9tfj@gmail.com): HTTPSConnectionPool(host='aapanel.666mall.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fea78e60100>, 'Connection to aapanel.666mall.top timed out. (connect timeout=30)'))
 
 [https://abc.676789.xyz]
 name  某某云
@@ -324,38 +323,38 @@ type  v2board
 
 [https://aip.2992992.xyz]
 buy  pass
-email  5r6w37imo556@gmail.com
+email  qe6pgt0r1cmr@qq.com
 name  ECloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=62a892d6cc473e492699c0e33f8e9b44
-time  2025-08-01 12:12:09.643077+08:00
+sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=ee04e130c2e6a4ea9246fc69931b0b0f
+time  2025-08-01 14:19:53.653329+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://api.2992992.xyz]
 buy  pass
-email  vwevgtsn1vx5@outlook.com
+email  fcdv2nnfbtcu@qq.com
 name  ECloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=2f2fa435dcf2629651446a92f54db7e8
-time  2025-08-01 12:12:14.825237+08:00
+sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=6d9f78efc10ba3699afcc324b4c71912
+time  2025-08-01 14:19:50.704437+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://api.barvpn.com]
 buy  pass
-email  6bt5pp4j2x5k@gmail.com
+email  hclqmwjrmuf8@qq.com
 name  BarVPN
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://api.barvpn.com/api/v1/client/subscribe?token=d6ae6d5069356a5499fef9ce7af4d048
-time  2025-08-01 12:12:10.649975+08:00
+sub_url  https://api.barvpn.com/api/v1/client/subscribe?token=67cf63fc244efa97f0bbd55b695c11ba
+time  2025-08-01 14:19:57.296381+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://app.4399jiasu.com]
 name  4399jisu
 type  v2board
-更新订阅链接/续费续签失败  注册失败(2rrdrumnl0jo@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(551aqeb4092i@gmail.com): 'NoneType' object is not subscriptable
 
 [https://as2.twdns5.com]
 name  Twin Cloud
@@ -364,11 +363,11 @@ type  v2board
 
 [https://asd.xg-hub.icu]
 buy  pass
-email  bzp04mf0ubcj@qq.com
+email  81yznaqkj6fr@qq.com
 name  星港机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://2c.xg-hub.icu/api/v1/client/subscribe?token=1b310db02fe7efa0e30567709f426c01
-time  2025-08-01 12:12:09.363709+08:00
+sub_url  https://2c.xg-hub.icu/api/v1/client/subscribe?token=aa091e83123f2efc35e2600533b9c633
+time  2025-08-01 14:19:51.372938+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -377,37 +376,37 @@ type  v2board
 [https://bento.me/chiikawa-network]
 error  <string>:1 Unexpected "o" at column 6
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rov0n687swhv@outlook.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(roqizth4igit@qq.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [https://bento.me/hoshinonetwork]
 error  <string>:1 Unexpected "o" at column 6
 type  v2board
-更新订阅链接/续费续签失败  注册失败(7wrpmodt2ix4@qq.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(tjcdb89ibjaf@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [https://bento.me/loopycloud]
 error  <string>:1 Unexpected "o" at column 6
 type  v2board
-更新订阅链接/续费续签失败  注册失败(0o68n0fu9kd4@qq.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(2dzd2rnh4oj6@outlook.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [https://board.stablenet.top]
 name  稳联云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(s3tr0415l676@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(wtx1prudjxwr@outlook.com): 'NoneType' object is not subscriptable
 
 [https://by.1997701.xyz]
 buy  pass
-email  k6m921brzmyh@gmail.com
+email  wvg1hhqe328p@outlook.com
 name  BGP
 type  v2board
 更新订阅链接/续费续签失败  {'message': '遇到了些问题，我们正在进行处理'}
 
 [https://byte-mobi.com]
 buy  pass
-email  ku5gqpevjuin@outlook.com
+email  gcah3rydtfyr@qq.com
 name  Swift Link
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://byte-mobi.com/api/v1/client/subscribe?token=65d523236498d8427b743864baa83430
-time  2025-08-01 12:12:22.524682+08:00
+sub_url  https://byte-mobi.com/api/v1/client/subscribe?token=93229ef0013aa8a31f4760cdfae0025e
+time  2025-08-01 14:19:58.328359+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -441,7 +440,7 @@ sub_url  https://gou1.tzg888.top/api/v1/c/s?token=9636cebebffe85a7926e0ac9024b39
 time  2025-07-30 20:36:25.028335+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  (https://gou1.tzg888.top/api/v1/c/s?token=9636cebebffe85a7926e0ac9024b394a): 403 Forbidden '{\n "message": "token is error"\n}'
+更新旧订阅失败  {'message': '邮箱或密码错误'}
 
 [https://gou2.tzg888.top]
 buy  pass
@@ -461,38 +460,38 @@ type  v2board
 
 [https://hbyd.2992992.xyz]
 buy  pass
-email  s5jm8kk5untv@gmail.com
+email  zkxwno3wtyrv@outlook.com
 name  ECloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=1a549bd895a88cde0857b6f657803792
-time  2025-08-01 12:12:30.501815+08:00
+sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=77a1b7e55863fd0bd3565e00c0afdb1b
+time  2025-08-01 14:20:06.809236+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://hbydd.2992992.xyz]
 buy  pass
-email  wwziun9kbc46@gmail.com
+email  2q7mcymbh7tx@outlook.com
 name  ECloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=018ea9c7512f8d8e2cf293b216df431b
-time  2025-08-01 12:12:29.407336+08:00
+sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=8c97e2c5261735a29f50ea27796e845a
+time  2025-08-01 14:20:08.336749+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://hong.gheeclothing.sbs]
 name  溜溜云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(olohht8fgojc@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(51cbijn3672a@outlook.com): 'NoneType' object is not subscriptable
 
 [https://huaguoshankkk.online]
 name  花果山在线
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fh7bowh6aqqr@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ssee3oetmo0x@outlook.com): 'NoneType' object is not subscriptable
 
 [https://kkb.gheeclothing.sbs]
 name  溜溜云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(9i451i3983rp@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(9yhcp57fngf2@qq.com): 'NoneType' object is not subscriptable
 
 [https://kor.v2bvpn.top]
 name  MorckVPN
@@ -509,7 +508,7 @@ type  v2board
 [https://linus.us.kg]
 name  莱纳斯机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(cuv1zlhzlj4e@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(d4xbia3r3obx@qq.com): 'NoneType' object is not subscriptable
 
 [https://lo9.marisa.lol]
 name  魔理沙の雾雨魔法店
@@ -518,11 +517,11 @@ type  v2board
 
 [https://macc.2992992.xyz]
 buy  pass
-email  zo6r5tj2sfiq@gmail.com
+email  ra3nwyv5574s@qq.com
 name  ECloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=88a1a6e70015f3fc8ddbbc05e6347deb
-time  2025-08-01 12:12:52.490819+08:00
+sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=3cc781280103c15641beebbdaa24e028
+time  2025-08-01 14:20:37.527337+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -550,22 +549,22 @@ type  v2board
 [https://new.crosswall.dpdns.org]
 name  New.Gate
 type  v2board
-更新订阅链接/续费续签失败  注册失败(me1gdsmhnva4@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(sj0vt6bcod8z@outlook.com): 'NoneType' object is not subscriptable
 
 [https://nexia.688997.xyz]
 buy  pass
-email  hss82uvndcyy@gmail.com
+email  6bes63k6ervm@outlook.com
 name  Nexia
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://ne688.688997.xyz/api/v1/client/subscribe?token=5df94eb1e4bce6aca960e33cb0d5f498
-time  2025-08-01 12:13:07.823650+08:00
+sub_url  https://ne688.688997.xyz/api/v1/client/subscribe?token=b9a6b72b19c09d587f098bdaf9025796
+time  2025-08-01 14:21:05.847010+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://open.leng.eu.org]
 name  有棱
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ra0nr5i4mp5h@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(46m23q86afyb@gmail.com): 'NoneType' object is not subscriptable
 
 [https://perfectlink.io]
 
@@ -576,7 +575,7 @@ type  v2board
 [https://serv011.20250710.top]
 name  稳联云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(6ld4xlci6xhb@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(1hqwhh09vn7c@outlook.com): 'NoneType' object is not subscriptable
 
 [https://service.fxstar.cc]
 name  福星TK
@@ -586,7 +585,7 @@ type  v2board
 [https://tiancaijichang.xyz]
 name  天才机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(4vn9ur0a9m4w@qq.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (521 <none> '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n<title>tiancaijichang.xyz | 521: Web server is down</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Web server is down</span>\n <span class="code-label">Error code 521</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=tiancaijichang.xyz" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2025-08-01 04:13:14 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n <div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n \n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n \n</div>\n <div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&#38;utm_campaign=tiancaijichang.xyz" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">Portland</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=tiancaijichang.xyz" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n \n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n \n</div>\n <div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">tiancaijichang.xyz</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n \n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n \n</div>\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The web server is not returning a connection. As a result, the web page is not displaying.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n \n <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>\n <p class="mb-6">Please try again in a few minutes.</p>\n\n <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>\n <p><span>Contact your hosting provider letting them know your web server is not responding.</span> <a rel="noopener noreferrer" href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-521/">Additional troubleshooting information</a>.</p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">968280735f0f816e</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">68.220.61.194</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&#38;utm_campaign=tiancaijichang.xyz" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n </div><!-- /.error-footer -->\n\n </div>\n</div>\n</body>\n</html>')
+更新订阅链接/续费续签失败  注册失败(uoq3i9b0zeo9@qq.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (521 <none> '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n<title>tiancaijichang.xyz | 521: Web server is down</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Web server is down</span>\n <span class="code-label">Error code 521</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=tiancaijichang.xyz" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2025-08-01 06:21:15 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n <div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n \n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n \n</div>\n <div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&#38;utm_campaign=tiancaijichang.xyz" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">Los Angeles</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&utm_campaign=tiancaijichang.xyz" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n \n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n \n</div>\n <div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">tiancaijichang.xyz</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n \n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n \n</div>\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The web server is not returning a connection. As a result, the web page is not displaying.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n \n <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>\n <p class="mb-6">Please try again in a few minutes.</p>\n\n <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>\n <p><span>Contact your hosting provider letting them know your web server is not responding.</span> <a rel="noopener noreferrer" href="https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-521/">Additional troubleshooting information</a>.</p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">96833bfaca7ea99e</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">172.182.225.130</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_521&#38;utm_campaign=tiancaijichang.xyz" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n </div><!-- /.error-footer -->\n\n </div>\n</div>\n</body>\n</html>')
 
 [https://twdns5.com]
 name  Twin Cloud
@@ -606,12 +605,12 @@ type  v2board
 [https://vip01.stableconnect.cloud]
 name  稳联云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fjvfx0awqy5d@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(hfppzloinmor@gmail.com): 'NoneType' object is not subscriptable
 
 [https://vl.94charming.com]
 name  CCBoard
 type  v2board
-更新订阅链接/续费续签失败  注册失败(b6727bngfo4o@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(zd64hhghoggd@qq.com): 'NoneType' object is not subscriptable
 
 [https://vpn.tgvpn.icu]
 name  V2Board
@@ -640,7 +639,7 @@ sub_url  https://whygate.com/s/5b9dd82c9d3744b2bed20b72946fda66
 time  2025-08-01 12:13:21.279912+08:00
 type  v2board
 保存base64/clash订阅失败  string indices must be integers
-获取订阅失败  (https://whygate.com/s/5b9dd82c9d3744b2bed20b72946fda66): 403 Forbidden ''
+更新旧订阅失败  (https://whygate.com/s/5b9dd82c9d3744b2bed20b72946fda66): 403 Forbidden ''
 
 [https://whygate.gitbook.io/whygate-docs]
 
@@ -660,7 +659,7 @@ type  v2board
 [https://www.992994.xyz]
 name  黑心云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hndaftbxyvh8@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(kc1ccbrctyc6@qq.com): 'NoneType' object is not subscriptable
 
 [https://www.g94cloud.com]
 
@@ -673,12 +672,12 @@ sub_url  https://www.gudingjiedianip.xyz/api/v1/client/subscribe?token=608d46e4c
 time  2025-07-30 17:19:59.356073+08:00
 type  v2board
 保存base64/clash订阅失败  string indices must be integers
-更新旧订阅失败  HTTPSConnectionPool(host='www.gudingjiedianip.xyz', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=608d46e4c60d3d28d8c38fb93f368991 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff6848ba470>: Failed to resolve 'www.gudingjiedianip.xyz' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='www.gudingjiedianip.xyz', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=608d46e4c60d3d28d8c38fb93f368991 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fea784dfee0>: Failed to resolve 'www.gudingjiedianip.xyz' ([Errno -5] No address associated with hostname)"))
 
 [https://www.hax.qzz.io]
 name  HAX CLOUD
 type  v2board
-更新订阅链接/续费续签失败  注册失败(34i6aftxtwlt@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(jrjuvbci2jgj@gmail.com): 'NoneType' object is not subscriptable
 
 [https://www.huwayun.cc]
 
@@ -695,11 +694,11 @@ type  v2board
 
 [https://www.xiaofeixiang.vip]
 buy  pass
-email  0ldr9j95evhp@outlook.com
+email  6kuvkx7d49wl@outlook.com
 name  小飞象
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://www.xiaofeixiang.vip/api/v1/client/subscribe?token=b8b3be1cc45bb15c657bbf74ade520c4
-time  2025-08-01 12:13:35.280632+08:00
+sub_url  https://www.xiaofeixiang.vip/api/v1/client/subscribe?token=80a9e1339d8e1cb403112556445cd302
+time  2025-08-01 14:21:52.583221+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -720,48 +719,123 @@ type  v2board
 
 [https://zhuooooo.top]
 buy  pass
-email  g147j5hajng7@outlook.com
+email  yufrz990xzr3@outlook.com
 name  卓益6
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://zhuooooo.top/api/v1/client/subscribe?token=0d8f73fc10520526be2c216b53c2fdca
-time  2025-08-01 12:13:50.404808+08:00
+sub_url  https://zhuooooo.top/api/v1/client/subscribe?token=17e1e97249a3450821dab87824c94106
+time  2025-08-01 14:21:56.451765+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://zhuzhu-xia.top]
 name  猪猪侠
 type  v2board
-更新订阅链接/续费续签失败  注册失败(uxxha9oj1d82@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(8lvm4miwn5z2@gmail.com): 'NoneType' object is not subscriptable
 
 [https://zx.698298.xyz]
 name  zx云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(9ok1sdzayboy@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(7lsutsqe04eh@gmail.com): 'NoneType' object is not subscriptable
 
 [https://7yun.sixloy.sbs]
 api_host  7c.7yzzz.lat
 name  7Cloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(8s18xvbnqbd2@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(12t8zylgqdv4@outlook.com): 'NoneType' object is not subscriptable
 
 [https://gsgs.nxxbbf.com]
 buy  pass
-email  btt3s1j4lils@qq.com
+email  i95onvvqbokx@outlook.com
 name  ✨光速机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://gsurl.izenny.com/api/v1/client/subscribe?token=d8a57f8d8eb96d29803b3f08a43f8ca0
-time  2025-08-01 12:12:32.744860+08:00
-type  v2board
-保存base64/clash订阅失败  string indices must be integers
-
-[https://szhz.dport.top]
-buy  pass
-email  h38tkm0952tn@outlook.com
-name  数字航站
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://hz.dport.top/api/v1/client/subscribe?token=f489aecce6ef0d12e0c8f63343f7dc46
-time  2025-08-01 12:13:15.037476+08:00
+sub_url  https://gsurl.izenny.com/api/v1/client/subscribe?token=c20eaa84233ce6d82e3e6e2baddee7e9
+time  2025-08-01 14:20:27.733840+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
+[https://szhz.dport.top]
+buy  pass
+email  loml43tyx2e3@qq.com
+name  数字航站
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://sh.dport.top/api/v1/client/subscribe?token=9795b1e1eb2c7c8ad1ec7aa8c9df7355
+time  2025-08-01 14:21:14.089830+08:00
+type  v2board
+保存base64/clash订阅失败  string indices must be integers
+
 [https://xiaoniu8123.com]
+
+[https://bba.cvivc.com]
+buy  pass
+email  r9aw315cf0se@outlook.com
+name  Haijibro
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://bba.cvivc.com/api/v1/client/subscribe?token=1924fe21c22147ef52171e295ecc122a
+time  2025-08-01 14:19:52.041674+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[https://bento.me/kittycloud]
+error  <string>:1 Unexpected "o" at column 6
+type  v2board
+更新订阅链接/续费续签失败  注册失败(n9ouf0h6zjbv@outlook.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+
+[https://cc.qzvip666.icu]
+buy  pass
+email  80ab04vqggj1@gmail.com
+name  强子加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://cc.qzvip666.icu/api/v1/client/subscribe?token=64c4ed224a40849a537f9d8d169496a1
+time  2025-08-01 14:19:55.938330+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[https://conva.top]
+name  Conva
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: can't set attribute 'email'
+
+[https://conva1.top]
+name  Conva
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: can't set attribute 'email'
+
+[https://network.sbzz.de]
+name  回声计划
+type  v2board
+更新订阅链接/续费续签失败  注册失败(ni9pyyw80b3c@gmail.com): 'NoneType' object is not subscriptable
+
+[https://rove12.bar]
+name  流浪云
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: can't set attribute 'email'
+
+[https://rove31.bar]
+name  流浪云
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: can't set attribute 'email'
+
+[https://srxary.lat]
+name  Srxary
+type  v2board
+更新订阅链接/续费续签失败  注册失败(x6vhbidf9tui@qq.com): 'NoneType' object is not subscriptable
+
+[https://www.77vpn.com]
+buy  pass
+email  y90im449ajc9@gmail.com
+name  77vpn
+node_n  11
+sub_info  0B  200G  2025-08-02 10:21:22+08:00  (剩余 200G 19:59:56.304900)
+sub_url  https://ytr3lducakuew9qz.77vpn.com/api/v1/client/subscribe?token=74658ee016c0626be3efc18dad5b6134
+time  2025-08-01 14:21:22.953758+08:00
+type  v2board
+
+[https://www.congyu.sbs]
+buy  pass
+email  5cc4ck506mte@gmail.com
+name  丛雨机场 Ciallo～
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://www.congyu.sbs/api/a581953225ce2d0066dba41e50c51e22
+time  2025-08-01 14:21:26.542957+08:00
+type  v2board
+保存base64/clash订阅失败  string indices must be integers
