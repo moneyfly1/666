@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: be3c23c6-7a28-4437-a058-5227a6acfca7, udp: true}
-- {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: be3c23c6-7a28-4437-a058-5227a6acfca7, udp: true}
-- {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: be3c23c6-7a28-4437-a058-5227a6acfca7, udp: true}
+- {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 96821968-cda0-4f3f-8a24-ebe93810c0d9, udp: true}
+- {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 96821968-cda0-4f3f-8a24-ebe93810c0d9, udp: true}
+- {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: gy11.gsulink.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 96821968-cda0-4f3f-8a24-ebe93810c0d9, udp: true}

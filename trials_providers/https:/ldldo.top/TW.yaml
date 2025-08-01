@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 ss(广移)台湾1 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: 50f1c587-5df3-4172-b471-60cb97c8dace, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: 50f1c587-5df3-4172-b471-60cb97c8dace, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2-1 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: 50f1c587-5df3-4172-b471-60cb97c8dace, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2-2 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: 50f1c587-5df3-4172-b471-60cb97c8dace, udp: true}
+- {name: 🇹🇼 ss(广移)台湾1 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: 304a11ee-bf1a-4076-bdfb-e95b2440bb93, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: 304a11ee-bf1a-4076-bdfb-e95b2440bb93, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2-1 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: 304a11ee-bf1a-4076-bdfb-e95b2440bb93, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2-2 - 雷达, server: gygyjiqi.sefgswgekt.top, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: 304a11ee-bf1a-4076-bdfb-e95b2440bb93, udp: true}
