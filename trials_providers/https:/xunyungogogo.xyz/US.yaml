@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国01 - 迅云加速, server: node1.cenidcbf.ink, port: 45823, type: ss, cipher: chacha20-ietf-poly1305, password: 7b43c71d-117f-470e-b7e9-24a7ee1eab29, udp: true}
-- {name: 🇺🇸 美国02 - 迅云加速, server: node2.cenidcbf.ink, port: 15628, type: ss, cipher: chacha20-ietf-poly1305, password: 7b43c71d-117f-470e-b7e9-24a7ee1eab29, udp: true}
-- {name: 🇺🇸 美国03 - 迅云加速, server: abc.xunyunnode.sbs, port: 59079, type: ss, cipher: chacha20-ietf-poly1305, password: 7b43c71d-117f-470e-b7e9-24a7ee1eab29, udp: true}
-- {name: 🇺🇸 美国04 - 迅云加速, server: bgc.xunyunnode.sbs, port: 36079, type: ss, cipher: chacha20-ietf-poly1305, password: 7b43c71d-117f-470e-b7e9-24a7ee1eab29, udp: true}
+- {name: 🇺🇸 美国01 - 迅云加速, server: node1.cenidcbf.ink, port: 45823, type: ss, cipher: chacha20-ietf-poly1305, password: 3395d616-079c-4ef2-9794-cd0a460d4eea, udp: true}
+- {name: 🇺🇸 美国02 - 迅云加速, server: node2.cenidcbf.ink, port: 15628, type: ss, cipher: chacha20-ietf-poly1305, password: 3395d616-079c-4ef2-9794-cd0a460d4eea, udp: true}
+- {name: 🇺🇸 美国03 - 迅云加速, server: abc.xunyunnode.sbs, port: 59079, type: ss, cipher: chacha20-ietf-poly1305, password: 3395d616-079c-4ef2-9794-cd0a460d4eea, udp: true}
+- {name: 🇺🇸 美国04 - 迅云加速, server: bgc.xunyunnode.sbs, port: 36079, type: ss, cipher: chacha20-ietf-poly1305, password: 3395d616-079c-4ef2-9794-cd0a460d4eea, udp: true}
