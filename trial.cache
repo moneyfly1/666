@@ -8,15 +8,15 @@
 
 [https://feima.online]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(a1kqsq1s3rsu@outlook.com): HTTPSConnectionPool(host='feima.online', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  获取邮箱失败: can't set attribute 'email'
 
 [https://huasuan666.top]
 buy  pass
-email  7h53zucaetro@gmail.com
+email  ec2g640kzzqo@qq.com
 name  划算机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://hs.huasuan666.top/api/v1/client/subscribe?token=d329f6cabc77488ee5f86c0f7f7d5804
-time  2025-08-02 16:21:08.886864+08:00
+sub_url  https://hs.huasuan666.top/api/v1/client/subscribe?token=fa707d350001a402db6e569aecc8c546
+time  2025-08-02 17:13:06.723632+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -28,57 +28,57 @@ sub_info  0B  0B  永不过期  (剩余 0B)
 sub_url  https://jfdy.z525.cn/api/jdhg001yyds712?token=ff518fa9d58e55d86b84999112c77f7c
 time  2025-07-30 20:36:48.938542+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  string indices must be integers
 更新订阅链接/续费续签失败  获取邮箱失败: can't set attribute 'email'
 
 [https://qaq3.bailiqun.top]
 buy  pass
-email  zwtt3q5xgehy@gmail.com
+email  53hn40vqg1i6@qq.com
 name  利群
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://qaq3.bailiqun.top/s/7e1c986e3be1cecd7f3498fe93b44896
-time  2025-08-02 11:52:56.910180+08:00
+sub_url  https://token1.bailiqun.top/s/bcb64b57f822ae904d2cb001a3ea1331
+time  2025-08-02 17:15:53.245710+08:00
 type  v2board
 保存base64/clash订阅失败  string indices must be integers
-更新旧订阅失败  (https://qaq3.bailiqun.top/s/7e1c986e3be1cecd7f3498fe93b44896): 403 Forbidden '{"message":"Account unavailable"}'
+获取订阅失败  (https://qaq3.bailiqun.top/s/bcb64b57f822ae904d2cb001a3ea1331): 403 Forbidden '{"message":"Account unavailable"}'
 
 [https://qy1357.top]
 buy  pass
-email  u99f9i624xnr@outlook.com
+email  bnescj95c47j@outlook.com
 name  青云机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://95.qy1357.top/api/v1/client/subscribe?token=5a8a0cc513a914a76875219fd207f280
-time  2025-08-02 16:21:52.151987+08:00
+sub_url  https://cu.qy1357.top/api/v1/client/subscribe?token=cc547c809472e5ec16e327388bf2c943
+time  2025-08-02 17:16:53.627187+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://www.cloudwalk.top]
 buy  pass
-email  jq53d938nxwo@outlook.com
+email  klf5f5m9ebku@outlook.com
 name  𝐂𝐥𝐨𝐮𝐝 𝐖𝐚𝐥𝐤
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloudwk128.cloudwalk.top/api/v1/client/subscribe?token=40ac20d7839ffa045b70dbd301ff2858
-time  2025-08-02 16:23:17.231318+08:00
+sub_url  https://cloudwk128.cloudwalk.top/api/v1/client/subscribe?token=319fac5abceb1ebade6e70b3eccf0b05
+time  2025-08-02 17:14:19.494970+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  string indices must be integers
 
 [https://www.eva2.xyz]
 buy  pass
-email  rzsq5wbwnhsn@qq.com
+email  8g464pfup2e9@qq.com
 name  惊鸿云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dyzydh1.ihuhud555gusaoie.xyz/api/v1/client/subscribe?token=f00db4e6ec9bef23df83dd5d9d2fcaa3
-time  2025-08-02 16:22:18.421791+08:00
+sub_url  https://dyzydh1.ihuhud555gusaoie.xyz/api/v1/client/subscribe?token=0f5023260ad34350ead761d673f89205
+time  2025-08-02 17:14:22.412278+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://www.flylink.cyou]
 buy  pass
-email  tk8yuc1rc2h6@qq.com
+email  wbbxb1a2igzo@gmail.com
 name  飞链
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://wy.flylink.cyou/api/v1/client/subscribe?token=bc66784c1483ca0a349116e5d1d21af9
-time  2025-08-02 16:22:18.274343+08:00
+sub_url  https://bbb.flylink.cyou/api/v1/client/subscribe?token=25716cf5fe55885af4779dff55a4764b
+time  2025-08-02 17:14:26.527659+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -87,7 +87,7 @@ buy  pass
 email  o8n94icfm25i@outlook.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-03 02:16:04+08:00  (剩余 1G 9:54:25.710675)
+sub_info  107.4K  1G  2025-08-03 02:16:04+08:00  (剩余 1024M 9:02:35.915077)
 sub_url  https://mc.yy9866.com/api/v1/client/subscribe?token=9469871811ac49697f0d4159394d96b8
 time  2025-08-02 14:16:09.340055+08:00
 type  v2board
@@ -97,7 +97,7 @@ buy  pass
 email  vpys3pipozav@qq.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-03 02:16:58+08:00  (剩余 1G 9:54:30.402198)
+sub_info  107.3K  1G  2025-08-03 02:16:58+08:00  (剩余 1024M 9:02:08.598372)
 sub_url  http://152.53.81.162:5088/api/v1/client/subscribe?token=a6072ffeb1af6d517767a5a3e9c7d05e
 time  2025-08-02 14:17:03.008059+08:00
 type  v2board
@@ -107,7 +107,7 @@ buy  pass
 email  wh66n6bmdw4f@gmail.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-03 02:16:17+08:00  (剩余 1G 9:54:41.292987)
+sub_info  107.4K  1G  2025-08-03 02:16:17+08:00  (剩余 1024M 9:02:33.178699)
 sub_url  https://mc.yy9866.com/api/v1/client/subscribe?token=036fa3d89345c97b769a9c4526182d4b
 time  2025-08-02 14:16:22.485565+08:00
 type  v2board
@@ -117,7 +117,7 @@ buy  pass
 email  uhj96899izq8@qq.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-03 02:16:57+08:00  (剩余 1G 9:54:21.144032)
+sub_info  107.4K  1G  2025-08-03 02:16:57+08:00  (剩余 1024M 9:01:20.230448)
 sub_url  https://mc.yy9866.com/api/v1/client/subscribe?token=b1addf6c25704b3279ba52f597d603dc
 time  2025-08-02 14:17:02.381829+08:00
 type  v2board
@@ -127,7 +127,7 @@ buy  pass
 email  sist1drntqc7@gmail.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-03 02:16:13+08:00  (剩余 1G 9:54:23.613658)
+sub_info  107.5K  1G  2025-08-03 02:16:13+08:00  (剩余 1024M 9:02:35.749184)
 sub_url  https://mcapp.yy9866.com/api/v1/client/subscribe?token=2f1853200bb772120a6be1a8d1209e37
 time  2025-08-02 14:16:18.571965+08:00
 type  v2board
@@ -137,20 +137,20 @@ buy  pass
 email  venvlvarqbns@outlook.com
 name  脉冲云
 node_n  24
-sub_info  0B  1G  2025-08-03 02:17:04+08:00  (剩余 1G 9:54:34.878279)
+sub_info  107.4K  1G  2025-08-03 02:17:04+08:00  (剩余 1024M 9:02:19.897698)
 sub_url  http://152.53.81.162:5088/api/v1/client/subscribe?token=319953942d1582cfc433196f59c99d44
 time  2025-08-02 14:17:09.021063+08:00
 type  v2board
 
 [https://di5ji.lat]
 buy  pass
-email  0meiuqg2j2tx@gmail.com
+email  60r5abfri0y8@outlook.com
 name  第五季机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://diwu.di5ji.lat/api/v1/client/subscribe?token=d4950437cd98403b5a5a7342b2e88b28
-time  2025-08-02 16:20:32.874176+08:00
+sub_url  https://diwu.di5ji.lat/api/v1/client/subscribe?token=353062887ef88f7a36a33a9615b902be
+time  2025-08-02 17:12:50.193114+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://kk.kywl.eu]
 
@@ -159,7 +159,7 @@ buy  pass
 email  q3yvvb0yd675@outlook.com
 name  ⚡闪连一元公益机场
 node_n  50
-sub_info  0B  2G  2025-08-02 18:22:02+08:00  (剩余 2G 2:00:00.246056)
+sub_info  166.1K  2G  2025-08-02 18:22:02+08:00  (剩余 2G 1:08:00.169390)
 sub_url  https://slvp.nxxbbf.com/api/v1/client/subscribe?token=cbb76890ce8be16ea216ca95461f596f
 time  2025-08-02 16:21:59.071982+08:00
 type  v2board
@@ -169,7 +169,7 @@ buy  pass
 email  4953hfqt9jq5@gmail.com
 name  ⚡闪连一元公益机场
 node_n  50
-sub_info  0B  2G  2025-08-02 18:22:06+08:00  (剩余 2G 1:59:57.703496)
+sub_info  165.7K  2G  2025-08-02 18:22:06+08:00  (剩余 2G 1:08:13.043372)
 sub_url  https://slurl.izenny.com/api/v1/client/subscribe?token=02c98add91b59f31f3086115a25083a7
 time  2025-08-02 16:22:02.820110+08:00
 type  v2board
@@ -179,7 +179,7 @@ buy  pass
 email  kkzq5xsvh365@outlook.com
 name  迅云加速
 node_n  33
-sub_info  0B  2G  2025-08-03 08:57:40+08:00  (剩余 2G 16:34:52.809017)
+sub_info  134.3K  2G  2025-08-03 08:57:40+08:00  (剩余 2G 15:42:12.187721)
 sub_url  https://abcsdf.acwtg.cn/api/v1/client/subscribe?token=beac9bec8de22f49edca27f6b41045c8
 time  2025-08-02 08:57:40.936727+08:00
 type  v2board
@@ -188,17 +188,17 @@ type  v2board
 api_host  f8xquxya.cloxy.xyz
 name  Cloxy
 type  v2board
-更新订阅链接/续费续签失败  注册失败(s6y1c464jjry@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(mjgpupiih7n3@qq.com): 'NoneType' object is not subscriptable
 
 [https://jichang.hanbao.fit]
 
 [https://xiaozhu.luodi666.cc]
 buy  pass
-email  vc1jtpl30ik3@gmail.com
+email  tbo34wlroout@gmail.com
 name  小猪科技
-sub_info  0B  200G  2025-08-02 16:23:11+08:00  (剩余 200G 0:00:20.409861)
-sub_url  https://xiaozhu.kkhhddnn.cn/api/v1/client/subscribe?token=b48025d735041aed363da23b13bcde03
-time  2025-08-02 16:22:45.279178+08:00
+sub_info  0B  200G  2025-08-02 17:15:46+08:00  (剩余 200G 0:00:23.535968)
+sub_url  https://xiaozhu.kkhhddnn.cn/api/v1/client/subscribe?token=2e1929e33829d5d1cd73befc4edafcf2
+time  2025-08-02 17:15:19.829359+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -213,7 +213,7 @@ buy  pass
 email  vr340fipb2tm@qq.com
 name  神盾
 node_n  2
-sub_info  0B  100G  2025-08-05 09:20:28+08:00  (剩余 100G 2 days, 16:58:34.811520)
+sub_info  0B  100G  2025-08-05 09:20:28+08:00  (剩余 100G 2 days, 16:06:39.000810)
 sub_url  http://tl10.cc/api/v1/client/subscribe?token=0a920a20cd37a9e3853484f06a7ee223
 time  2025-08-02 09:20:28.621407+08:00
 type  v2board
@@ -238,7 +238,7 @@ buy  pass
 email  mtt8g8ltlvi1@gmail.com
 name  雷达
 node_n  37
-sub_info  0B  2G  2025-08-02 18:24:08+08:00  (剩余 2G 1:59:55.175787)
+sub_info  159.9K  2G  2025-08-02 18:24:08+08:00  (剩余 2G 1:10:51.609713)
 sub_url  https://ld88.nxxbbf.com/api/v1/client/subscribe?token=86c953932b6680081eda31aa6801f1c6
 time  2025-08-02 16:24:08.198432+08:00
 type  v2board
@@ -258,7 +258,7 @@ type  v2board
 [https://1112244.xyz]
 name  白嫖机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(oktjgymhddga@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(yyciv7lbdc6k@gmail.com): 'NoneType' object is not subscriptable
 
 [https://1236547.xyz]
 name  无界
@@ -279,7 +279,7 @@ type  v2board
 [https://2025.mypeets.uk]
 name  猪的大飞机-高级版
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vt9qfb2v9bh9@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(1fstx8u7p52p@gmail.com): 'NoneType' object is not subscriptable
 
 [https://321654.xyz]
 name  BLACK
@@ -294,7 +294,7 @@ type  v2board
 [https://99vpn.bar]
 name  99吧
 type  v2board
-更新订阅链接/续费续签失败  注册失败(3ecvcwelh5s3@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(a49xjjb0apf4@qq.com): 'NoneType' object is not subscriptable
 
 [https://a1.libraslink1.xyz]
 name  LibrasCloud
@@ -314,7 +314,7 @@ type  v2board
 [https://aapanel.666mall.top]
 name  星河
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vknfnuoxxmg5@qq.com): HTTPSConnectionPool(host='aapanel.666mall.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efd389f0b20>, 'Connection to aapanel.666mall.top timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(29m4r3dng44z@qq.com): HTTPSConnectionPool(host='aapanel.666mall.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcd008351b0>, 'Connection to aapanel.666mall.top timed out. (connect timeout=30)'))
 
 [https://abc.676789.xyz]
 name  某某云
@@ -323,33 +323,33 @@ type  v2board
 
 [https://aip.2992992.xyz]
 buy  pass
-email  grjmogcojj5e@gmail.com
+email  k4pz1yb52e7d@outlook.com
 name  ECloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=1f906bff47f1e855695c45c012633d2b
-time  2025-08-02 16:22:19.560832+08:00
+sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=9bb7d0be8ba053db38f45d78fcffc441
+time  2025-08-02 17:12:40.729111+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://api.2992992.xyz]
 buy  pass
-email  molpmrilo4iz@gmail.com
+email  ilvkg829vtpo@outlook.com
 name  ECloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=9ba6a17e15974df0c84c901b90b3fb58
-time  2025-08-02 16:20:18.432484+08:00
+sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=7255ee762cdabc5849e00baa6324a3a3
+time  2025-08-02 17:12:40.482959+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  string indices must be integers
 
 [https://api.barvpn.com]
 buy  pass
-email  qq2gfyj02z7t@gmail.com
+email  y7spqaj03gin@gmail.com
 name  BarVPN
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://api.barvpn.com/api/v1/client/subscribe?token=c7c4e970e5ca1f027b8858e99e0bf3b6
-time  2025-08-02 16:20:19.224329+08:00
+sub_url  https://api.barvpn.com/api/v1/client/subscribe?token=2ae050b4a99ccc63f8f6113cf330c095
+time  2025-08-02 17:12:47.137510+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://app.4399jiasu.com]
 buy  pass
@@ -360,7 +360,7 @@ sub_url  https://4399jiasu.com//api/v1/client/subscribe?token=b4d0805872c6720f87
 time  2025-08-02 14:22:51.283766+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(577zkg13y5pm@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(xcmin0uy9nwj@gmail.com): 'NoneType' object is not subscriptable
 
 [https://as2.twdns5.com]
 name  Twin Cloud
@@ -369,50 +369,50 @@ type  v2board
 
 [https://asd.xg-hub.icu]
 buy  pass
-email  39scm4bqtlsm@gmail.com
+email  o4zo0ng0btxb@qq.com
 name  星港机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://1a.xg-hub.icu/api/v1/client/subscribe?token=51530d9a057c3afa9fe058f89a258e67
-time  2025-08-02 16:20:21.087093+08:00
+sub_url  https://www.xg-hub.icu/api/v1/client/subscribe?token=59c02c697b7e0d5b3a2897fb2e370a6a
+time  2025-08-02 17:12:41.270904+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://bak003.20250710.top]
 
 [https://bento.me/chiikawa-network]
 error  <string>:1 Unexpected "o" at column 6
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rplx3yfycbys@qq.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(q6na5lf3mfs1@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [https://bento.me/hoshinonetwork]
 error  <string>:1 Unexpected "o" at column 6
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pqmdx3qv0lk7@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(injgs3qmpp6y@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [https://bento.me/loopycloud]
 error  <string>:1 Unexpected "o" at column 6
 type  v2board
-更新订阅链接/续费续签失败  注册失败(uvumv76i8bq7@qq.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(0ozthq20a7xu@qq.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [https://board.stablenet.top]
 name  稳联云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jcs9qnf9ezvg@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ug51rv68s6v6@gmail.com): 'NoneType' object is not subscriptable
 
 [https://by.1997701.xyz]
 buy  pass
-email  2l3jcrs9pzkk@gmail.com
+email  4avcg687d46s@qq.com
 name  BGP
 type  v2board
 更新订阅链接/续费续签失败  {'message': '遇到了些问题，我们正在进行处理'}
 
 [https://byte-mobi.com]
 buy  pass
-email  neknnd2nswnj@qq.com
+email  lw2q6mvwe1f7@qq.com
 name  Swift Link
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://byte-mobi.com/api/v1/client/subscribe?token=75db809275fbe8afa3a927f6bce8c4d1
-time  2025-08-02 16:20:26.660428+08:00
+sub_url  https://byte-mobi.com/api/v1/client/subscribe?token=076354753c55398ab270037999e60152
+time  2025-08-02 17:12:48.308084+08:00
 type  v2board
 保存base64/clash订阅失败  string indices must be integers
 
@@ -446,7 +446,7 @@ sub_url  https://gou1.tzg888.top/api/v1/c/s?token=9636cebebffe85a7926e0ac9024b39
 time  2025-07-30 20:36:25.028335+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  (https://gou1.tzg888.top/api/v1/c/s?token=9636cebebffe85a7926e0ac9024b394a): 403 Forbidden '{\n "message": "token is error"\n}'
+更新旧订阅失败  {'message': '邮箱或密码错误'}
 
 [https://gou2.tzg888.top]
 buy  pass
@@ -457,7 +457,7 @@ sub_url  https://gou2.tzg888.top/api/v1/c/s?token=b34b33709979ddb7488e739cf71465
 time  2025-07-30 20:36:23.691535+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  {'message': '邮箱或密码错误'}
+更新旧订阅失败  (https://gou2.tzg888.top/api/v1/c/s?token=b34b33709979ddb7488e739cf714658f): 403 Forbidden '{\n "message": "token is error"\n}'
 
 [https://gz-cloud.top]
 name  狗子云🐾
@@ -466,39 +466,39 @@ type  v2board
 
 [https://hbyd.2992992.xyz]
 buy  pass
-email  ko03xqfim1b6@qq.com
+email  twwngjat7cpk@gmail.com
 name  ECloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=f64c0330fd20af048b57a72837ce1858
-time  2025-08-02 16:21:28.289707+08:00
+sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=21c6eaf79e44a4e80fdc9c6932991fcf
+time  2025-08-02 17:12:58.467392+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://hbydd.2992992.xyz]
 buy  pass
-email  gdnfry2ddtwn@gmail.com
+email  4ogk034sxvvs@gmail.com
 name  ECloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=eb1b90ca51812b01b27b1f9cd9b7f4e4
-time  2025-08-02 16:21:02.575969+08:00
+sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=a0bcf99d9846850bfa1fb5923e464b35
+time  2025-08-02 17:13:01.118395+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://hong.gheeclothing.sbs]
 name  溜溜云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(g91t30s5yeld@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ho278obodaqp@outlook.com): 'NoneType' object is not subscriptable
 
 [https://huaguoshankkk.online]
 api_host  sub.huaguoshankkk.online
 name  花果山在线
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hdgfwda1inwh@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(4b9pqc68do4u@outlook.com): 'NoneType' object is not subscriptable
 
 [https://kkb.gheeclothing.sbs]
 name  溜溜云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(011rl1cf9z6v@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(0rzlspyxyz55@qq.com): 'NoneType' object is not subscriptable
 
 [https://kor.v2bvpn.top]
 name  MorckVPN
@@ -515,7 +515,7 @@ type  v2board
 [https://linus.us.kg]
 name  莱纳斯机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(yvfmxcmb0p73@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(hdfss7xkn6s7@outlook.com): 'NoneType' object is not subscriptable
 
 [https://lo9.marisa.lol]
 name  魔理沙の雾雨魔法店
@@ -524,13 +524,13 @@ type  v2board
 
 [https://macc.2992992.xyz]
 buy  pass
-email  n6sghb3jcnyn@gmail.com
+email  cjjtt59ttcsa@gmail.com
 name  ECloud
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=1732de3ba144ee57bbe079194fc9facc
-time  2025-08-02 16:21:23.412911+08:00
+sub_url  http://142.171.239.38:35568/api/v1/client/subscribe?token=9eb4c4e4324fc77e2fe3e39d8b8f42f6
+time  2025-08-02 17:13:21.284207+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  string indices must be integers
 
 [https://moesaba.cloud]
 buy  pass
@@ -556,22 +556,22 @@ type  v2board
 [https://new.crosswall.dpdns.org]
 name  New.Gate
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ahgenav7iht2@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(uqdipewdbcof@outlook.com): 'NoneType' object is not subscriptable
 
 [https://nexia.688997.xyz]
 buy  pass
-email  51nrccbzi44c@gmail.com
+email  oatr6fu8y08h@qq.com
 name  Nexia
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://ne688.688997.xyz/api/v1/client/subscribe?token=a495df6df64cd5c5c9f4bbb4154bc552
-time  2025-08-02 16:21:46.774833+08:00
+sub_url  https://ne688.688997.xyz/api/v1/client/subscribe?token=07cf8f3df84aa729afd4e2bc48844c7f
+time  2025-08-02 17:13:33.877931+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  string indices must be integers
 
 [https://open.leng.eu.org]
 name  有棱
 type  v2board
-更新订阅链接/续费续签失败  注册失败(600op29j8f2o@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(q26ia7uoduaq@qq.com): 'NoneType' object is not subscriptable
 
 [https://perfectlink.io]
 
@@ -582,7 +582,7 @@ type  v2board
 [https://serv011.20250710.top]
 name  稳联云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(un6znub1kz15@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(b5yc28ncgcu1@gmail.com): 'NoneType' object is not subscriptable
 
 [https://service.fxstar.cc]
 name  福星TK
@@ -592,7 +592,7 @@ type  v2board
 [https://tiancaijichang.xyz]
 name  天才机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(k7jnxqeyxgpt@outlook.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/_next/static/css/b8f00ad1219510e0.css" crossorigin="" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-f126f2e8f77c8f85.js" crossorigin=""/><script src="/_next/static/chunks/fd9d1056-d03af0e963d7a2f3.js" async="" crossorigin=""></script><script src="/_next/static/chunks/69-02072d3a2eb6f573.js" async="" crossorigin=""></script><script src="/_next/static/chunks/main-app-fd01c8e7fbd2f72a.js" async="" crossorigin=""></script><title>404: This page could not be found.</title><title>Facebook ads</title><meta name="description" content="메타광고를 활용한 잠재고객 개발은 고객이 페이스북, 인스타그램, 메신저, 왓츠앱에서 타인과 연락하고 커뮤니티를 찾는 시기를 파악해 신구 고객을 건드린다."/><script src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js" crossorigin="" noModule=""></script></head><body><main class="relative overflow-hidden"><div style="font-family:system-ui,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;;height:100vh;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center"><div><style>body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}</style><h1 class="next-error-h1" style="display:inline-block;margin:0 20px 0 0;padding:0 23px 0 0;font-size:24px;font-weight:500;vertical-align:top;line-height:49px">404</h1><div style="display:inline-block"><h2 style="font-size:14px;font-weight:400;line-height:49px;margin:0">This page could not be found.</h2></div></div></div></main><script src="/_next/static/chunks/webpack-f126f2e8f77c8f85.js" crossorigin="" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,"1:HL[\\"/_next/static/css/b8f00ad1219510e0.css\\",\\"style\\",{\\"crossOrigin\\":\\"\\"}]\\n0:\\"$L2\\"\\n"])</script><script>self.__next_f.push([1,"3:I[7690,[],\\"\\"]\\n5:I[5613,[],\\"\\"]\\n6:I[1778,[],\\"\\"]\\nc:I[8955,[],\\"\\"]\\n7:{\\"fontFamily\\":\\"system-ui,\\\\\\"Segoe UI\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\"Apple Color Emoji\\\\\\",\\\\\\"Segoe UI Emoji\\\\\\"\\",\\"height\\":\\"100vh\\",\\"textAlign\\":\\"center\\",\\"display\\":\\"flex\\",\\"flexDirection\\":\\"column\\",\\"alignItems\\":\\"center\\",\\"justifyContent\\":\\"center\\"}\\n8:{\\"display\\":\\"inline-block\\",\\"margin\\":\\"0 20px 0 0\\",\\"padding\\":\\"0 23px 0 0\\",\\"fontSize\\":24,\\"fontWeight\\":500,\\"verticalAlign\\":\\"top\\",\\"lineHeight\\":\\"49px\\"}\\n9:{\\"display\\":\\"inline-block\\"}\\na:{\\"fontSize\\":14,\\"fontWeight\\":400,\\"lineHeight\\":\\"49px\\",\\"margin\\":0}\\nd:[]\\n"])</script><script>self.__next_f.push([1,"2:[[[\\"$\\",\\"link\\",\\"0\\",{\\"rel\\":\\"stylesheet\\",\\"href\\":\\"/_next/static/css/b8f00ad1219510e0.css\\",\\"precedence\\":\\"next\\",\\"crossOrigin\\":\\"\\"}]],[\\"$\\",\\"$L3\\",null,{\\"buildId\\":\\"4HYMZb4LP6AuRWO087M1_\\",\\"assetPrefix\\":\\"\\",\\"initialCanonicalUrl\\":\\"/_not-found\\",\\"initialTree\\":[\\"\\",{\\"children\\":[\\"__PAGE__\\",{}]},\\"$undefined\\",\\"$undefined\\",true],\\"initialSeedData\\":[\\"\\",{\\"children\\":[\\"__PAGE__\\",{},[\\"$L4\\",[[\\"$\\",\\"title\\",null,{\\"children\\":\\"404: This page could not be found.\\"}],[\\"$\\",\\"div\\",null,{\\"style\\":{\\"fontFamily\\":\\"system-ui,\\\\\\"Segoe UI\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\"Apple Color Emoji\\\\\\",\\\\\\"Segoe UI Emoji\\\\\\"\\",\\"height\\":\\"100vh\\",\\"textAlign\\":\\"center\\",\\"display\\":\\"flex\\",\\"flexDirection\\":\\"column\\",\\"alignItems\\":\\"center\\",\\"justifyContent\\":\\"center\\"},\\"children\\":[\\"$\\",\\"div\\",null,{\\"children\\":[[\\"$\\",\\"style\\",null,{\\"dangerouslySetInnerHTML\\":{\\"__html\\":\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\"}}],[\\"$\\",\\"h1\\",null,{\\"className\\":\\"next-error-h1\\",\\"style\\":{\\"display\\":\\"inline-block\\",\\"margin\\":\\"0 20px 0 0\\",\\"padding\\":\\"0 23px 0 0\\",\\"fontSize\\":24,\\"fontWeight\\":500,\\"verticalAlign\\":\\"top\\",\\"lineHeight\\":\\"49px\\"},\\"children\\":\\"404\\"}],[\\"$\\",\\"div\\",null,{\\"style\\":{\\"display\\":\\"inline-block\\"},\\"children\\":[\\"$\\",\\"h2\\",null,{\\"style\\":{\\"fontSize\\":14,\\"fontWeight\\":400,\\"lineHeight\\":\\"49px\\",\\"margin\\":0},\\"children\\":\\"This page could not be found.\\"}]}]]}]}]],null]]},[null,[\\"$\\",\\"html\\",null,{\\"lang\\":\\"en\\",\\"children\\":[\\"$\\",\\"body\\",null,{\\"children\\":[\\"$\\",\\"main\\",null,{\\"className\\":\\"relative overflow-hidden\\",\\"children\\":[\\"$\\",\\"$L5\\",null,{\\"parallelRouterKey\\":\\"children\\",\\"segmentPath\\":[\\"children\\"],\\"loading\\":\\"$undefined\\",\\"loadingStyles\\":\\"$undefined\\",\\"loadingScripts\\":\\"$undefined\\",\\"hasLoading\\":false,\\"error\\":\\"$undefined\\",\\"errorStyles\\":\\"$undefined\\",\\"errorScripts\\":\\"$undefined\\",\\"template\\":[\\"$\\",\\"$L6\\",null,{}],\\"templateStyles\\":\\"$undefined\\",\\"templateScripts\\":\\"$undefined\\",\\"notFound\\":[[\\"$\\",\\"title\\",null,{\\"children\\":\\"404: This page could not be found.\\"}],[\\"$\\",\\"div\\",null,{\\"style\\":\\"$7\\",\\"children\\":[\\"$\\",\\"div\\",null,{\\"children\\":[[\\"$\\",\\"style\\",null,{\\"dangerouslySetInnerHTML\\":{\\"__html\\":\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\"}}],[\\"$\\",\\"h1\\",null,{\\"className\\":\\"next-error-h1\\",\\"style\\":\\"$8\\",\\"children\\":\\"404\\"}],[\\"$\\",\\"div\\",null,{\\"style\\":\\"$9\\",\\"children\\":[\\"$\\",\\"h2\\",null,{\\"style\\":\\"$a\\",\\"children\\":\\"This page could not be found.\\"}]}]]}]}]],\\"notFoundStyles\\":[],\\"styles\\":null}]}]}]}],null]],\\"initialHead\\":[false,\\"$Lb\\"],\\"globalErrorComponent\\":\\"$c\\",\\"missingSlots\\":\\"$Wd\\"}]]\\n"])</script><script>self.__next_f.push([1,"b:[[\\"$\\",\\"meta\\",\\"0\\",{\\"name\\":\\"viewport\\",\\"content\\":\\"width=device-width, initial-scale=1\\"}],[\\"$\\",\\"meta\\",\\"1\\",{\\"charSet\\":\\"utf-8\\"}],[\\"$\\",\\"title\\",\\"2\\",{\\"children\\":\\"Facebook ads\\"}],[\\"$\\",\\"meta\\",\\"3\\",{\\"name\\":\\"description\\",\\"content\\":\\"메타광고를 활용한 잠재고객 개발은 고객이 페이스북, 인스타그램, 메신저, 왓츠앱에서 타인과 연락하고 커뮤니티를 찾는 시기를 파악해 신구 고객을 건드린다.\\"}]]\\n4:null\\n"])</script><script>self.__next_f.push([1,""])</script></body></html>')
+更新订阅链接/续费续签失败  注册失败(jrizwhwaqe8p@outlook.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/_next/static/css/b8f00ad1219510e0.css" crossorigin="" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-f126f2e8f77c8f85.js" crossorigin=""/><script src="/_next/static/chunks/fd9d1056-d03af0e963d7a2f3.js" async="" crossorigin=""></script><script src="/_next/static/chunks/69-02072d3a2eb6f573.js" async="" crossorigin=""></script><script src="/_next/static/chunks/main-app-fd01c8e7fbd2f72a.js" async="" crossorigin=""></script><title>404: This page could not be found.</title><title>Facebook ads</title><meta name="description" content="메타광고를 활용한 잠재고객 개발은 고객이 페이스북, 인스타그램, 메신저, 왓츠앱에서 타인과 연락하고 커뮤니티를 찾는 시기를 파악해 신구 고객을 건드린다."/><script src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js" crossorigin="" noModule=""></script></head><body><main class="relative overflow-hidden"><div style="font-family:system-ui,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;;height:100vh;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center"><div><style>body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}</style><h1 class="next-error-h1" style="display:inline-block;margin:0 20px 0 0;padding:0 23px 0 0;font-size:24px;font-weight:500;vertical-align:top;line-height:49px">404</h1><div style="display:inline-block"><h2 style="font-size:14px;font-weight:400;line-height:49px;margin:0">This page could not be found.</h2></div></div></div></main><script src="/_next/static/chunks/webpack-f126f2e8f77c8f85.js" crossorigin="" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,"1:HL[\\"/_next/static/css/b8f00ad1219510e0.css\\",\\"style\\",{\\"crossOrigin\\":\\"\\"}]\\n0:\\"$L2\\"\\n"])</script><script>self.__next_f.push([1,"3:I[7690,[],\\"\\"]\\n5:I[5613,[],\\"\\"]\\n6:I[1778,[],\\"\\"]\\nc:I[8955,[],\\"\\"]\\n7:{\\"fontFamily\\":\\"system-ui,\\\\\\"Segoe UI\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\"Apple Color Emoji\\\\\\",\\\\\\"Segoe UI Emoji\\\\\\"\\",\\"height\\":\\"100vh\\",\\"textAlign\\":\\"center\\",\\"display\\":\\"flex\\",\\"flexDirection\\":\\"column\\",\\"alignItems\\":\\"center\\",\\"justifyContent\\":\\"center\\"}\\n8:{\\"display\\":\\"inline-block\\",\\"margin\\":\\"0 20px 0 0\\",\\"padding\\":\\"0 23px 0 0\\",\\"fontSize\\":24,\\"fontWeight\\":500,\\"verticalAlign\\":\\"top\\",\\"lineHeight\\":\\"49px\\"}\\n9:{\\"display\\":\\"inline-block\\"}\\na:{\\"fontSize\\":14,\\"fontWeight\\":400,\\"lineHeight\\":\\"49px\\",\\"margin\\":0}\\nd:[]\\n"])</script><script>self.__next_f.push([1,"2:[[[\\"$\\",\\"link\\",\\"0\\",{\\"rel\\":\\"stylesheet\\",\\"href\\":\\"/_next/static/css/b8f00ad1219510e0.css\\",\\"precedence\\":\\"next\\",\\"crossOrigin\\":\\"\\"}]],[\\"$\\",\\"$L3\\",null,{\\"buildId\\":\\"4HYMZb4LP6AuRWO087M1_\\",\\"assetPrefix\\":\\"\\",\\"initialCanonicalUrl\\":\\"/_not-found\\",\\"initialTree\\":[\\"\\",{\\"children\\":[\\"__PAGE__\\",{}]},\\"$undefined\\",\\"$undefined\\",true],\\"initialSeedData\\":[\\"\\",{\\"children\\":[\\"__PAGE__\\",{},[\\"$L4\\",[[\\"$\\",\\"title\\",null,{\\"children\\":\\"404: This page could not be found.\\"}],[\\"$\\",\\"div\\",null,{\\"style\\":{\\"fontFamily\\":\\"system-ui,\\\\\\"Segoe UI\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\"Apple Color Emoji\\\\\\",\\\\\\"Segoe UI Emoji\\\\\\"\\",\\"height\\":\\"100vh\\",\\"textAlign\\":\\"center\\",\\"display\\":\\"flex\\",\\"flexDirection\\":\\"column\\",\\"alignItems\\":\\"center\\",\\"justifyContent\\":\\"center\\"},\\"children\\":[\\"$\\",\\"div\\",null,{\\"children\\":[[\\"$\\",\\"style\\",null,{\\"dangerouslySetInnerHTML\\":{\\"__html\\":\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\"}}],[\\"$\\",\\"h1\\",null,{\\"className\\":\\"next-error-h1\\",\\"style\\":{\\"display\\":\\"inline-block\\",\\"margin\\":\\"0 20px 0 0\\",\\"padding\\":\\"0 23px 0 0\\",\\"fontSize\\":24,\\"fontWeight\\":500,\\"verticalAlign\\":\\"top\\",\\"lineHeight\\":\\"49px\\"},\\"children\\":\\"404\\"}],[\\"$\\",\\"div\\",null,{\\"style\\":{\\"display\\":\\"inline-block\\"},\\"children\\":[\\"$\\",\\"h2\\",null,{\\"style\\":{\\"fontSize\\":14,\\"fontWeight\\":400,\\"lineHeight\\":\\"49px\\",\\"margin\\":0},\\"children\\":\\"This page could not be found.\\"}]}]]}]}]],null]]},[null,[\\"$\\",\\"html\\",null,{\\"lang\\":\\"en\\",\\"children\\":[\\"$\\",\\"body\\",null,{\\"children\\":[\\"$\\",\\"main\\",null,{\\"className\\":\\"relative overflow-hidden\\",\\"children\\":[\\"$\\",\\"$L5\\",null,{\\"parallelRouterKey\\":\\"children\\",\\"segmentPath\\":[\\"children\\"],\\"loading\\":\\"$undefined\\",\\"loadingStyles\\":\\"$undefined\\",\\"loadingScripts\\":\\"$undefined\\",\\"hasLoading\\":false,\\"error\\":\\"$undefined\\",\\"errorStyles\\":\\"$undefined\\",\\"errorScripts\\":\\"$undefined\\",\\"template\\":[\\"$\\",\\"$L6\\",null,{}],\\"templateStyles\\":\\"$undefined\\",\\"templateScripts\\":\\"$undefined\\",\\"notFound\\":[[\\"$\\",\\"title\\",null,{\\"children\\":\\"404: This page could not be found.\\"}],[\\"$\\",\\"div\\",null,{\\"style\\":\\"$7\\",\\"children\\":[\\"$\\",\\"div\\",null,{\\"children\\":[[\\"$\\",\\"style\\",null,{\\"dangerouslySetInnerHTML\\":{\\"__html\\":\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\"}}],[\\"$\\",\\"h1\\",null,{\\"className\\":\\"next-error-h1\\",\\"style\\":\\"$8\\",\\"children\\":\\"404\\"}],[\\"$\\",\\"div\\",null,{\\"style\\":\\"$9\\",\\"children\\":[\\"$\\",\\"h2\\",null,{\\"style\\":\\"$a\\",\\"children\\":\\"This page could not be found.\\"}]}]]}]}]],\\"notFoundStyles\\":[],\\"styles\\":null}]}]}]}],null]],\\"initialHead\\":[false,\\"$Lb\\"],\\"globalErrorComponent\\":\\"$c\\",\\"missingSlots\\":\\"$Wd\\"}]]\\n"])</script><script>self.__next_f.push([1,"b:[[\\"$\\",\\"meta\\",\\"0\\",{\\"name\\":\\"viewport\\",\\"content\\":\\"width=device-width, initial-scale=1\\"}],[\\"$\\",\\"meta\\",\\"1\\",{\\"charSet\\":\\"utf-8\\"}],[\\"$\\",\\"title\\",\\"2\\",{\\"children\\":\\"Facebook ads\\"}],[\\"$\\",\\"meta\\",\\"3\\",{\\"name\\":\\"description\\",\\"content\\":\\"메타광고를 활용한 잠재고객 개발은 고객이 페이스북, 인스타그램, 메신저, 왓츠앱에서 타인과 연락하고 커뮤니티를 찾는 시기를 파악해 신구 고객을 건드린다.\\"}]]\\n4:null\\n"])</script><script>self.__next_f.push([1,""])</script></body></html>')
 
 [https://twdns5.com]
 name  Twin Cloud
@@ -612,12 +612,12 @@ type  v2board
 [https://vip01.stableconnect.cloud]
 name  稳联云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kz913jihdofm@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(u4jf06e0y6au@qq.com): 'NoneType' object is not subscriptable
 
 [https://vl.94charming.com]
 name  CCBoard
 type  v2board
-更新订阅链接/续费续签失败  注册失败(1pavp0ms0i6a@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(gzo3d3ry40o5@gmail.com): 'NoneType' object is not subscriptable
 
 [https://vpn.tgvpn.icu]
 name  V2Board
@@ -646,7 +646,7 @@ sub_url  https://whygate.com/s/7e4d3dda8119c6afafcff45d63711bea
 time  2025-08-02 16:23:21.087409+08:00
 type  v2board
 保存base64/clash订阅失败  string indices must be integers
-获取订阅失败  (https://whygate.com/s/7e4d3dda8119c6afafcff45d63711bea): 403 Forbidden ''
+更新旧订阅失败  (https://whygate.com/s/7e4d3dda8119c6afafcff45d63711bea): 403 Forbidden ''
 
 [https://whygate.gitbook.io/whygate-docs]
 
@@ -666,7 +666,7 @@ type  v2board
 [https://www.992994.xyz]
 name  黑心云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(1hdex3ojyjud@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ro0tl51l7lf3@gmail.com): 'NoneType' object is not subscriptable
 
 [https://www.g94cloud.com]
 
@@ -679,12 +679,12 @@ sub_url  https://www.gudingjiedianip.xyz/api/v1/client/subscribe?token=608d46e4c
 time  2025-07-30 17:19:59.356073+08:00
 type  v2board
 保存base64/clash订阅失败  string indices must be integers
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK "<br />\n<b>Warning</b>: require_once(): open_basedir restriction in effect. File(/www/wwwroot/SsPanel-Uim/vendor/autoload.php) is not within the allowed path(s): (/www/wwwroot/SsPanel-Uim/public/:/tmp/) in <b>/www/wwwroot/SsPanel-Uim/public/index.php</b> on line <b>12</b><br />\n<br />\n<b>Warning</b>: require_once(/www/wwwroot/SsPanel-Uim/vendor/autoload.php): Failed to open stream: Operation not permitted in <b>/www/wwwroot/SsPanel-Uim/public/index.php</b> on line <b>12</b><br />\n<br />\n<b>Fatal error</b>: Uncaught Error: Failed opening required '/www/wwwroot/SsPanel-Uim/public/../vendor/autoload.php' (include_path='.:/www/server/php/82/lib/php') in /www/wwwroot/SsPanel-Uim/public/index.php:12\nStack trace:\n#0 {main}\n thrown in <b>/www/wwwroot/SsPanel-Uim/public/index.php</b> on line <b>12</b><br />\n")
+更新旧订阅失败  HTTPSConnectionPool(host='www.gudingjiedianip.xyz', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=608d46e4c60d3d28d8c38fb93f368991 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcd008341c0>, 'Connection to www.gudingjiedianip.xyz timed out. (connect timeout=30)'))
 
 [https://www.hax.qzz.io]
 name  HAX CLOUD
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jgnn7tyie9iy@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(0k0jsoakzmpt@outlook.com): 'NoneType' object is not subscriptable
 
 [https://www.huwayun.cc]
 
@@ -701,11 +701,11 @@ type  v2board
 
 [https://www.xiaofeixiang.vip]
 buy  pass
-email  i0v80z7qkeat@outlook.com
+email  zag1hfhk2fr4@qq.com
 name  小飞象
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://www.xiaofeixiang.vip/api/v1/client/subscribe?token=460dd3212867227d454048e28278cd7f
-time  2025-08-02 16:22:39.998127+08:00
+sub_url  https://www.xiaofeixiang.vip/api/v1/client/subscribe?token=092116d2e0398190d9a496f413d84661
+time  2025-08-02 17:15:07.305806+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -726,47 +726,47 @@ type  v2board
 
 [https://zhuooooo.top]
 buy  pass
-email  erd1zlps0okn@gmail.com
+email  ip51b626n800@gmail.com
 name  卓益6
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://zhuooooo.top/api/v1/client/subscribe?token=06a9fce79fa1eef5f52c1c4d15a84e13
-time  2025-08-02 16:23:53.690491+08:00
+sub_url  https://zhuooooo.top/api/v1/client/subscribe?token=c9021594d0ca94340b6a36b1e991df1d
+time  2025-08-02 17:15:34.532531+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://zhuzhu-xia.top]
 name  猪猪侠
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jctwe6fqql32@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(1wg1jfxxo8bk@gmail.com): 'NoneType' object is not subscriptable
 
 [https://zx.698298.xyz]
 name  zx云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(y1i24uoo1zv3@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(sk6shwbx5pf0@qq.com): 'NoneType' object is not subscriptable
 
 [https://7yun.sixloy.sbs]
 api_host  7c.7yzzz.lat
 name  7Cloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vej9862mp9y7@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(39obrjhk0xau@qq.com): 'NoneType' object is not subscriptable
 
 [https://gsgs.nxxbbf.com]
 buy  pass
-email  40w3478k4bv9@qq.com
+email  ncraztx1ngp9@outlook.com
 name  ✨光速机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://gsgs.nxxbbf.com/api/v1/client/subscribe?token=b1312ad55c47fe837b8182d066ba2191
-time  2025-08-02 16:20:54.335733+08:00
+sub_url  https://gsgs.nxxbbf.com/api/v1/client/subscribe?token=6f7fb43a5e55960bfa10ca43b9f61c24
+time  2025-08-02 17:13:03.334170+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  string indices must be integers
 
 [https://szhz.dport.top]
 buy  pass
-email  kvkzlng4zwvx@outlook.com
+email  0mj43vvazb5b@qq.com
 name  数字航站
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sh.dport.top/api/v1/client/subscribe?token=d839511b3d61c3eb488c7e3e3e4bde82
-time  2025-08-02 16:22:00.924637+08:00
+sub_url  https://gw.dport.top/api/v1/client/subscribe?token=613f260623bc400f2b1ed1d02247004b
+time  2025-08-02 17:14:15.284440+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -774,26 +774,26 @@ type  v2board
 
 [https://bba.cvivc.com]
 buy  pass
-email  g6wqo32u66wp@gmail.com
+email  aoyipbfi6574@outlook.com
 name  Haijibro
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://bba.cvivc.com/api/v1/client/subscribe?token=e2795827fb202813de20677f7451f2ca
-time  2025-08-02 16:20:30.849237+08:00
+sub_url  https://bba.cvivc.com/api/v1/client/subscribe?token=efec5f6ee5abe33c81466e3d55de56c5
+time  2025-08-02 17:12:45.352087+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [https://bento.me/kittycloud]
 error  <string>:1 Unexpected "o" at column 6
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vmb47cne7rrb@qq.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(nxtwcytcg6r9@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [https://cc.qzvip666.icu]
 buy  pass
-email  z8h6mgfjr2u1@gmail.com
+email  15i0dkaxjhft@outlook.com
 name  强子加速
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cc.qzvip666.icu/api/v1/client/subscribe?token=4a2d3e7e3dbed67f52a93d016986738e
-time  2025-08-02 16:20:25.559173+08:00
+sub_url  https://cc.qzvip666.icu/api/v1/client/subscribe?token=66063f1e078fc4a51d52aab5db212ce9
+time  2025-08-02 17:13:00.959848+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -810,7 +810,7 @@ type  v2board
 [https://network.sbzz.de]
 name  回声计划
 type  v2board
-更新订阅链接/续费续签失败  注册失败(47eqvj3ala5l@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(8ca4bbaftwe9@outlook.com): 'NoneType' object is not subscriptable
 
 [https://rove12.bar]
 name  流浪云
@@ -825,14 +825,14 @@ type  v2board
 [https://srxary.lat]
 name  Srxary
 type  v2board
-更新订阅链接/续费续签失败  注册失败(tapo9ip89ks3@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(5o5m54y8khvs@gmail.com): 'NoneType' object is not subscriptable
 
 [https://www.77vpn.com]
 buy  pass
 email  y90im449ajc9@gmail.com
 name  77vpn
 node_n  11
-sub_info  0B  200G  2025-08-02 10:21:22+08:00  (剩余 200G -1 day, 17:59:07.780084)
+sub_info  0B  200G  2025-08-02 10:21:22+08:00  (剩余 200G -1 day, 17:07:09.380945)
 sub_url  https://ytr3lducakuew9qz.77vpn.com/api/v1/client/subscribe?token=74658ee016c0626be3efc18dad5b6134
 time  2025-08-01 14:21:22.953758+08:00
 type  v2board
@@ -858,7 +858,7 @@ type  v2board
 [https://airport.brooklynchristopherh.xyz]
 name  炸鱼薯条
 type  v2board
-更新订阅链接/续费续签失败  注册失败(f1gps17bovpc@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(qbx3vjwobg5q@outlook.com): 'NoneType' object is not subscriptable
 
 [https://cctv.vpsc.men]
 name  新贝壳(老用户重新注册)
@@ -872,17 +872,17 @@ type  v2board
 [https://huanxiong.buzz]
 name  浣熊机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fljmsonysqwg@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(6cw9gts133rs@outlook.com): 'NoneType' object is not subscriptable
 
 [https://huanxiong.pics]
 name  浣熊机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(7eepyc237iyy@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(xmprfp71ckoj@outlook.com): 'NoneType' object is not subscriptable
 
 [https://jiu.aiguoyun.com]
 name  爱国云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(04nkpmn979c6@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(fng9ttf4vju0@gmail.com): 'NoneType' object is not subscriptable
 
 [https://link3.cc/fnyun]
 
@@ -891,33 +891,33 @@ type  v2board
 [https://p.xsrv.online]
 name  仙府
 type  v2board
-更新订阅链接/续费续签失败  注册失败(knpi7ookeu14@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(8wb2k3tdjqrt@gmail.com): 'NoneType' object is not subscriptable
 
 [https://portal.mylac.cn]
 name  SuCat
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jpneje88tqkf@outlook.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(8ko95989kbtm@outlook.com): 'NoneType' object is not subscriptable
 
 [https://vpn.luckyumimi.xyz]
 name  月半Cloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(qxwhyy4plxd4@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(6sp7a27voebj@outlook.com): 'NoneType' object is not subscriptable
 
 [https://www.qq.cn.fnyun.co]
 
 [https://www.zwaaa.cc]
 name  凌云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(cegxfftoybb3@qq.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(jfnftz9fun12@outlook.com): 'NoneType' object is not subscriptable
 
 [https://xsrv.top]
 name  仙府
 type  v2board
-更新订阅链接/续费续签失败  注册失败(7i2d98db9vij@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(1uqs1t2nj59j@outlook.com): 'NoneType' object is not subscriptable
 
 [https://yun66.fny6.top]
 buy  pass
-email  19g25uqygplf@gmail.com
+email  e47l3kc63n7t@gmail.com
 name  蜂鸟云
 type  v2board
 更新订阅链接/续费续签失败  {'message': '遇到了些问题，我们正在进行处理'}
