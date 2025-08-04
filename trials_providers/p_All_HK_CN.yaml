@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港-线路1 - 神盾, server: 156.224.77.215, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: f51804e3-a8bf-401b-96ed-fdadfd5ff2af, udp: true}
 - {name: 🇭🇰 香港01 - 迅云加速, server: mo.xunyunnode.sbs, port: 13058, type: ss, cipher: chacha20-ietf-poly1305, password: abd7ee1d-a596-4bf1-b746-4bc2f71e395b, udp: true}
 - {name: 🇭🇰 香港02 - 迅云加速, server: abc.xunyunnode.sbs, port: 55587, type: ss, cipher: chacha20-ietf-poly1305, password: abd7ee1d-a596-4bf1-b746-4bc2f71e395b, udp: true}
 - {name: 🇭🇰 香港03 - 迅云加速, server: qs.xunyunnode.sbs, port: 11976, type: ss, cipher: chacha20-ietf-poly1305, password: abd7ee1d-a596-4bf1-b746-4bc2f71e395b, udp: true}
