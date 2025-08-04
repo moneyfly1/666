@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 2cce628f-6f99-4848-8dcd-343269f89033, udp: true}
-- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 2cce628f-6f99-4848-8dcd-343269f89033, udp: true}
-- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 2cce628f-6f99-4848-8dcd-343269f89033, udp: true}
+- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 3f97a16d-87f9-4e5c-b963-ba531909116d, udp: true}
+- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 3f97a16d-87f9-4e5c-b963-ba531909116d, udp: true}
+- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 3f97a16d-87f9-4e5c-b963-ba531909116d, udp: true}
