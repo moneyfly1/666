@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 80c33821-6a2a-4547-845b-502f54f3b1bc, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 80c33821-6a2a-4547-845b-502f54f3b1bc, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 80c33821-6a2a-4547-845b-502f54f3b1bc, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 80c33821-6a2a-4547-845b-502f54f3b1bc, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 80c33821-6a2a-4547-845b-502f54f3b1bc, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 80c33821-6a2a-4547-845b-502f54f3b1bc, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 5d539b10-a5a4-4a48-9321-8b3289ecec92, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 5d539b10-a5a4-4a48-9321-8b3289ecec92, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 5d539b10-a5a4-4a48-9321-8b3289ecec92, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 5d539b10-a5a4-4a48-9321-8b3289ecec92, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 5d539b10-a5a4-4a48-9321-8b3289ecec92, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 5d539b10-a5a4-4a48-9321-8b3289ecec92, udp: true}

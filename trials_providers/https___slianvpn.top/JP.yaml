@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 557b82f8-fd87-4f90-9278-2a7cf9e3b8d5, udp: true}
-- {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 557b82f8-fd87-4f90-9278-2a7cf9e3b8d5, udp: true}
-- {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 557b82f8-fd87-4f90-9278-2a7cf9e3b8d5, udp: true}
+- {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 329c978a-6745-4289-9e25-957cdcc185ef, udp: true}
+- {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 329c978a-6745-4289-9e25-957cdcc185ef, udp: true}
+- {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 329c978a-6745-4289-9e25-957cdcc185ef, udp: true}
