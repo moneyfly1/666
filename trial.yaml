@@ -33,150 +33,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇸🇬 Singapore-01-st - 脉冲云
-  - 🇸🇬 Singapore-02-wap - 脉冲云
-  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 Singapore-01-st - 脉冲云
-  - 🇸🇬 Singapore-02-wap - 脉冲云
-  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 Singapore-01-st - 脉冲云
-  - 🇸🇬 Singapore-02-wap - 脉冲云
-  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 Singapore-01-st - 脉冲云
-  - 🇸🇬 Singapore-02-wap - 脉冲云
-  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 Singapore-01-st - 脉冲云
-  - 🇸🇬 Singapore-02-wap - 脉冲云
-  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 Singapore-01-st - 脉冲云
-  - 🇸🇬 Singapore-02-wap - 脉冲云
-  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇯🇵 JP-Tokyo-01 - 脉冲云
-  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
-  - 🇯🇵 JP-Tokyo-01 - 脉冲云
-  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
-  - 🇯🇵 JP-Tokyo-01 - 脉冲云
-  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
-  - 🇯🇵 JP-Tokyo-01 - 脉冲云
-  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
-  - 🇯🇵 JP-Tokyo-01 - 脉冲云
-  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
-  - 🇯🇵 JP-Tokyo-01 - 脉冲云
-  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
-  - 🇺🇸 US-Los Angeles-01 - 脉冲云
-  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 US-Los Angeles-01 - 脉冲云
-  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 US-Los Angeles-01 - 脉冲云
-  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 US-Los Angeles-01 - 脉冲云
-  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 US-Los Angeles-01 - 脉冲云
-  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 US-Los Angeles-01 - 脉冲云
-  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
   - 🇮🇪 爱尔兰-都柏林 - 神盾
   - ℹ️ 迅云跳转域名：xyjs.app - 迅云加速
   - 🇬🇧 英国01 - 迅云加速
@@ -219,6 +75,126 @@ proxy-groups:
   - 🇭🇰 香港04 - 迅云加速
   - 🇭🇰 ss(广移)香港1 - 雷达
   - 🇭🇰 ss(广移)香港2 - 雷达
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇸🇬 Singapore-01-st - 脉冲云
+  - 🇸🇬 Singapore-02-wap - 脉冲云
+  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
+  - 🇸🇬 Singapore-01-st - 脉冲云
+  - 🇸🇬 Singapore-02-wap - 脉冲云
+  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
+  - 🇸🇬 Singapore-01-st - 脉冲云
+  - 🇸🇬 Singapore-02-wap - 脉冲云
+  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
+  - 🇸🇬 Singapore-01-st - 脉冲云
+  - 🇸🇬 Singapore-02-wap - 脉冲云
+  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
+  - 🇸🇬 Singapore-01-st - 脉冲云
+  - 🇸🇬 Singapore-02-wap - 脉冲云
+  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
+  - 🇯🇵 JP-Tokyo-01 - 脉冲云
+  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
+  - 🇯🇵 JP-Tokyo-01 - 脉冲云
+  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
+  - 🇯🇵 JP-Tokyo-01 - 脉冲云
+  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
+  - 🇯🇵 JP-Tokyo-01 - 脉冲云
+  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
+  - 🇯🇵 JP-Tokyo-01 - 脉冲云
+  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
+  - 🇺🇸 US-Los Angeles-01 - 脉冲云
+  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
+  - 🇺🇸 US-Los Angeles-01 - 脉冲云
+  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
+  - 🇺🇸 US-Los Angeles-01 - 脉冲云
+  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
+  - 🇺🇸 US-Los Angeles-01 - 脉冲云
+  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
+  - 🇺🇸 US-Los Angeles-01 - 脉冲云
+  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
+  - 🇫🇷 FR-Paris - 脉冲云
+  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU-Sydney - 脉冲云
+  - 🇳🇱 NL-Amsterdam - 脉冲云
+  - 🇨🇦 CA-Toronto - 脉冲云
+  - 🇬🇧 GB-London - 脉冲云
+  - 🇪🇸 ES-Madrid - 脉冲云
+  - 🇮🇹 IT-Milan - 脉冲云
+  - 🇦🇹 AT-Vienna - 脉冲云
+  - 🇩🇪 DE-Nuremberg - 脉冲云
+  - 🇰🇷 KR-Seoul - 脉冲云
+  - 🇫🇷 FR-Paris - 脉冲云
+  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU-Sydney - 脉冲云
+  - 🇳🇱 NL-Amsterdam - 脉冲云
+  - 🇨🇦 CA-Toronto - 脉冲云
+  - 🇬🇧 GB-London - 脉冲云
+  - 🇪🇸 ES-Madrid - 脉冲云
+  - 🇮🇹 IT-Milan - 脉冲云
+  - 🇦🇹 AT-Vienna - 脉冲云
+  - 🇩🇪 DE-Nuremberg - 脉冲云
+  - 🇰🇷 KR-Seoul - 脉冲云
+  - 🇫🇷 FR-Paris - 脉冲云
+  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU-Sydney - 脉冲云
+  - 🇳🇱 NL-Amsterdam - 脉冲云
+  - 🇨🇦 CA-Toronto - 脉冲云
+  - 🇬🇧 GB-London - 脉冲云
+  - 🇪🇸 ES-Madrid - 脉冲云
+  - 🇮🇹 IT-Milan - 脉冲云
+  - 🇦🇹 AT-Vienna - 脉冲云
+  - 🇩🇪 DE-Nuremberg - 脉冲云
+  - 🇰🇷 KR-Seoul - 脉冲云
+  - 🇫🇷 FR-Paris - 脉冲云
+  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU-Sydney - 脉冲云
+  - 🇳🇱 NL-Amsterdam - 脉冲云
+  - 🇨🇦 CA-Toronto - 脉冲云
+  - 🇬🇧 GB-London - 脉冲云
+  - 🇪🇸 ES-Madrid - 脉冲云
+  - 🇮🇹 IT-Milan - 脉冲云
+  - 🇦🇹 AT-Vienna - 脉冲云
+  - 🇩🇪 DE-Nuremberg - 脉冲云
+  - 🇰🇷 KR-Seoul - 脉冲云
+  - 🇫🇷 FR-Paris - 脉冲云
+  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU-Sydney - 脉冲云
+  - 🇳🇱 NL-Amsterdam - 脉冲云
+  - 🇨🇦 CA-Toronto - 脉冲云
+  - 🇬🇧 GB-London - 脉冲云
+  - 🇪🇸 ES-Madrid - 脉冲云
+  - 🇮🇹 IT-Milan - 脉冲云
+  - 🇦🇹 AT-Vienna - 脉冲云
+  - 🇩🇪 DE-Nuremberg - 脉冲云
+  - 🇰🇷 KR-Seoul - 脉冲云
   - 🇯🇵 日本01 - 迅云加速
   - 🇯🇵 日本02 - 迅云加速
   - 🇯🇵 日本03 - 迅云加速
@@ -404,30 +380,6 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
   - 🇭🇰 香港-线路1 - 神盾
   - 🇭🇰 香港01 - 迅云加速
   - 🇭🇰 香港02 - 迅云加速
@@ -435,6 +387,26 @@ proxy-groups:
   - 🇭🇰 香港04 - 迅云加速
   - 🇭🇰 ss(广移)香港1 - 雷达
   - 🇭🇰 ss(广移)香港2 - 雷达
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
   - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场
@@ -479,42 +451,6 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
   - 🇭🇰 香港-线路1 - 神盾
   - 🇭🇰 香港01 - 迅云加速
   - 🇭🇰 香港02 - 迅云加速
@@ -522,6 +458,36 @@ proxy-groups:
   - 🇭🇰 香港04 - 迅云加速
   - 🇭🇰 ss(广移)香港1 - 雷达
   - 🇭🇰 ss(广移)香港2 - 雷达
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
   - 🇹🇼 台湾01 - 迅云加速
   - 🇹🇼 台湾02 - 迅云加速
   - 🇹🇼 台湾03 - 迅云加速
@@ -575,9 +541,6 @@ proxy-groups:
   - 🇸🇬 Singapore-01-st - 脉冲云
   - 🇸🇬 Singapore-02-wap - 脉冲云
   - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 Singapore-01-st - 脉冲云
-  - 🇸🇬 Singapore-02-wap - 脉冲云
-  - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
   - 🇸🇬 新加坡01 - 迅云加速
   - 🇸🇬 新加坡02 - 迅云加速
   - 🇸🇬 新加坡03 - 迅云加速
@@ -602,8 +565,6 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵 JP-Tokyo-01 - 脉冲云
-  - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
   - 🇯🇵 JP-Tokyo-01 - 脉冲云
   - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
   - 🇯🇵 JP-Tokyo-01 - 脉冲云
@@ -644,8 +605,6 @@ proxy-groups:
   - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
   - 🇺🇸 US-Los Angeles-01 - 脉冲云
   - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 US-Los Angeles-01 - 脉冲云
-  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
   - 🇺🇸 美国01 - 迅云加速
   - 🇺🇸 美国02 - 迅云加速
   - 🇺🇸 美国03 - 迅云加速
@@ -666,72 +625,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id008
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
-  - 🇫🇷 FR-Paris - 脉冲云
-  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
-  - 🇦🇺 AU-Sydney - 脉冲云
-  - 🇳🇱 NL-Amsterdam - 脉冲云
-  - 🇨🇦 CA-Toronto - 脉冲云
-  - 🇬🇧 GB-London - 脉冲云
-  - 🇪🇸 ES-Madrid - 脉冲云
-  - 🇮🇹 IT-Milan - 脉冲云
-  - 🇦🇹 AT-Vienna - 脉冲云
-  - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
   - 🇮🇪 爱尔兰-都柏林 - 神盾
   - ℹ️ 迅云跳转域名：xyjs.app - 迅云加速
   - 🇬🇧 英国01 - 迅云加速
@@ -767,6 +660,61 @@ proxy-groups:
   - 🇲🇽 ss(广移)墨西哥2 - 雷达
   - 🇹🇭 ss(广移)泰国1 - 雷达
   - 🇹🇭 ss(广移)泰国2 - 雷达
+  - 🇫🇷 FR-Paris - 脉冲云
+  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU-Sydney - 脉冲云
+  - 🇳🇱 NL-Amsterdam - 脉冲云
+  - 🇨🇦 CA-Toronto - 脉冲云
+  - 🇬🇧 GB-London - 脉冲云
+  - 🇪🇸 ES-Madrid - 脉冲云
+  - 🇮🇹 IT-Milan - 脉冲云
+  - 🇦🇹 AT-Vienna - 脉冲云
+  - 🇩🇪 DE-Nuremberg - 脉冲云
+  - 🇰🇷 KR-Seoul - 脉冲云
+  - 🇫🇷 FR-Paris - 脉冲云
+  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU-Sydney - 脉冲云
+  - 🇳🇱 NL-Amsterdam - 脉冲云
+  - 🇨🇦 CA-Toronto - 脉冲云
+  - 🇬🇧 GB-London - 脉冲云
+  - 🇪🇸 ES-Madrid - 脉冲云
+  - 🇮🇹 IT-Milan - 脉冲云
+  - 🇦🇹 AT-Vienna - 脉冲云
+  - 🇩🇪 DE-Nuremberg - 脉冲云
+  - 🇰🇷 KR-Seoul - 脉冲云
+  - 🇫🇷 FR-Paris - 脉冲云
+  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU-Sydney - 脉冲云
+  - 🇳🇱 NL-Amsterdam - 脉冲云
+  - 🇨🇦 CA-Toronto - 脉冲云
+  - 🇬🇧 GB-London - 脉冲云
+  - 🇪🇸 ES-Madrid - 脉冲云
+  - 🇮🇹 IT-Milan - 脉冲云
+  - 🇦🇹 AT-Vienna - 脉冲云
+  - 🇩🇪 DE-Nuremberg - 脉冲云
+  - 🇰🇷 KR-Seoul - 脉冲云
+  - 🇫🇷 FR-Paris - 脉冲云
+  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU-Sydney - 脉冲云
+  - 🇳🇱 NL-Amsterdam - 脉冲云
+  - 🇨🇦 CA-Toronto - 脉冲云
+  - 🇬🇧 GB-London - 脉冲云
+  - 🇪🇸 ES-Madrid - 脉冲云
+  - 🇮🇹 IT-Milan - 脉冲云
+  - 🇦🇹 AT-Vienna - 脉冲云
+  - 🇩🇪 DE-Nuremberg - 脉冲云
+  - 🇰🇷 KR-Seoul - 脉冲云
+  - 🇫🇷 FR-Paris - 脉冲云
+  - 🇲🇾 MY-Malaysia-PQ - 脉冲云
+  - 🇦🇺 AU-Sydney - 脉冲云
+  - 🇳🇱 NL-Amsterdam - 脉冲云
+  - 🇨🇦 CA-Toronto - 脉冲云
+  - 🇬🇧 GB-London - 脉冲云
+  - 🇪🇸 ES-Madrid - 脉冲云
+  - 🇮🇹 IT-Milan - 脉冲云
+  - 🇦🇹 AT-Vienna - 脉冲云
+  - 🇩🇪 DE-Nuremberg - 脉冲云
+  - 🇰🇷 KR-Seoul - 脉冲云
   - ℹ️ 官网 slvp.nxxbbf.com - ⚡闪连一元公益机场
   - ℹ️ 无法连接到官网重新导入订阅 - ⚡闪连一元公益机场
   - 🇰🇷 韩国 (广港)1 x1 - ⚡闪连一元公益机场
@@ -841,6 +789,8 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
+- {name: 🇮🇪 爱尔兰-都柏林 - 神盾, server: 107.175.187.181, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: a35dc4e2-05af-4885-a252-9960516a5e88, udp: true}
+- {name: 🇭🇰 香港-线路1 - 神盾, server: 156.224.77.215, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: a35dc4e2-05af-4885-a252-9960516a5e88, udp: true}
 - {name: 🇯🇵 JP-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48917, type: ss, cipher: chacha20-ietf-poly1305, password: 2c068e2a-9816-45dd-a319-dd11c9550a80, udp: true}
 - {name: 🇯🇵 JP-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 2c068e2a-9816-45dd-a319-dd11c9550a80, udp: true}
 - {name: 🇸🇬 Singapore-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: 2c068e2a-9816-45dd-a319-dd11c9550a80, udp: true}
@@ -865,8 +815,6 @@ proxies:
 - {name: 🇰🇷 KR-Seoul - 脉冲云, server: gyjd.yy9866.com, port: 27828, type: ss, cipher: chacha20-ietf-poly1305, password: 2c068e2a-9816-45dd-a319-dd11c9550a80, udp: true}
 - {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: 2c068e2a-9816-45dd-a319-dd11c9550a80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: 2c068e2a-9816-45dd-a319-dd11c9550a80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇮🇪 爱尔兰-都柏林 - 神盾, server: 107.175.187.181, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: a35dc4e2-05af-4885-a252-9960516a5e88, udp: true}
-- {name: 🇭🇰 香港-线路1 - 神盾, server: 156.224.77.215, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: a35dc4e2-05af-4885-a252-9960516a5e88, udp: true}
 - {name: 🇯🇵 日本01 - 迅云加速, server: mo.xunyunnode.sbs, port: 38763, type: ss, cipher: chacha20-ietf-poly1305, password: 199169e9-e665-4dc7-a160-bc84e6ca7cc7, udp: true}
 - {name: 🇯🇵 日本02 - 迅云加速, server: abc.xunyunnode.sbs, port: 16720, type: ss, cipher: chacha20-ietf-poly1305, password: 199169e9-e665-4dc7-a160-bc84e6ca7cc7, udp: true}
 - {name: 🇯🇵 日本03 - 迅云加速, server: qs.xunyunnode.sbs, port: 57353, type: ss, cipher: chacha20-ietf-poly1305, password: 199169e9-e665-4dc7-a160-bc84e6ca7cc7, udp: true}
