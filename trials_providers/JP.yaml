@@ -1,24 +1,28 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇯🇵 JP-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48917, type: ss, cipher: chacha20-ietf-poly1305, password: 7a0750b5-e4cf-43aa-8971-60f1a7c714d2, udp: true}
-- &id002 {name: 🇯🇵 JP-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 7a0750b5-e4cf-43aa-8971-60f1a7c714d2, udp: true}
+- &id001 {name: 🇯🇵 JP-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48917, type: ss, cipher: chacha20-ietf-poly1305, password: 77b48516-c3de-4b4e-811d-1e860f61df0e, udp: true}
+- &id002 {name: 🇯🇵 JP-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 77b48516-c3de-4b4e-811d-1e860f61df0e, udp: true}
 - *id001
 - *id002
-- {name: 🇯🇵 日本01 - 迅云加速, server: mo.xunyunnode.sbs, port: 38763, type: ss, cipher: chacha20-ietf-poly1305, password: d8c4d425-f661-4b10-8c85-7c950b784386, udp: true}
-- {name: 🇯🇵 日本02 - 迅云加速, server: abc.xunyunnode.sbs, port: 16720, type: ss, cipher: chacha20-ietf-poly1305, password: d8c4d425-f661-4b10-8c85-7c950b784386, udp: true}
-- {name: 🇯🇵 日本03 - 迅云加速, server: qs.xunyunnode.sbs, port: 57353, type: ss, cipher: chacha20-ietf-poly1305, password: d8c4d425-f661-4b10-8c85-7c950b784386, udp: true}
-- {name: 🇯🇵 日本04 - 迅云加速, server: wa.xunyunnode.sbs, port: 25856, type: ss, cipher: chacha20-ietf-poly1305, password: d8c4d425-f661-4b10-8c85-7c950b784386, udp: true}
-- &id003 {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 1c72e3fa-0e44-42fa-bfb1-65c54cfd4ccb, udp: true}
-- &id004 {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 1c72e3fa-0e44-42fa-bfb1-65c54cfd4ccb, udp: true}
-- &id005 {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 1c72e3fa-0e44-42fa-bfb1-65c54cfd4ccb, udp: true}
+- &id003 {name: 🇯🇵 日本01 - 迅云加速, server: mo.xunyunnode.sbs, port: 38763, type: ss, cipher: chacha20-ietf-poly1305, password: 2de74b4c-4c79-404d-836c-1bb8c7f78985, udp: true}
+- &id004 {name: 🇯🇵 日本02 - 迅云加速, server: abc.xunyunnode.sbs, port: 16720, type: ss, cipher: chacha20-ietf-poly1305, password: 2de74b4c-4c79-404d-836c-1bb8c7f78985, udp: true}
+- &id005 {name: 🇯🇵 日本03 - 迅云加速, server: qs.xunyunnode.sbs, port: 57353, type: ss, cipher: chacha20-ietf-poly1305, password: 2de74b4c-4c79-404d-836c-1bb8c7f78985, udp: true}
+- &id006 {name: 🇯🇵 日本04 - 迅云加速, server: wa.xunyunnode.sbs, port: 25856, type: ss, cipher: chacha20-ietf-poly1305, password: 2de74b4c-4c79-404d-836c-1bb8c7f78985, udp: true}
 - *id003
 - *id004
 - *id005
-- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: gy1.ldldfwq.top, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: f4360512-1200-4d68-b317-3a982a817d09, udp: true}
-- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: gy1.ldldfwq.top, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: f4360512-1200-4d68-b317-3a982a817d09, udp: true}
-- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: gy1.ldldfwq.top, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: f4360512-1200-4d68-b317-3a982a817d09, udp: true}
-- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: gy1.ldldfwq.top, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: f4360512-1200-4d68-b317-3a982a817d09, udp: true}
+- *id006
+- &id007 {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 2985bdb1-73af-4a1c-9ad7-2935940d8fbc, udp: true}
+- &id008 {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 2985bdb1-73af-4a1c-9ad7-2935940d8fbc, udp: true}
+- &id009 {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 2985bdb1-73af-4a1c-9ad7-2935940d8fbc, udp: true}
+- *id007
+- *id008
+- *id009
+- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: gy1.ldldfwq.top, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 6f75e09d-52b2-4a04-b5d7-e347504e9525, udp: true}
+- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: gy1.ldldfwq.top, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 6f75e09d-52b2-4a04-b5d7-e347504e9525, udp: true}
+- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: gy1.ldldfwq.top, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 6f75e09d-52b2-4a04-b5d7-e347504e9525, udp: true}
+- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: gy1.ldldfwq.top, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 6f75e09d-52b2-4a04-b5d7-e347504e9525, udp: true}
 - *id001
 - *id002
 - *id001
@@ -27,3 +31,7 @@ proxies:
 - *id002
 - *id001
 - *id002
+- *id003
+- *id004
+- *id005
+- *id006

@@ -1,30 +1,34 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇸🇬 Singapore-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: 7a0750b5-e4cf-43aa-8971-60f1a7c714d2, udp: true}
-- &id002 {name: 🇸🇬 Singapore-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: 7a0750b5-e4cf-43aa-8971-60f1a7c714d2, udp: true}
-- &id003 {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: 7a0750b5-e4cf-43aa-8971-60f1a7c714d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id001 {name: 🇸🇬 Singapore-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: 77b48516-c3de-4b4e-811d-1e860f61df0e, udp: true}
+- &id002 {name: 🇸🇬 Singapore-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: 77b48516-c3de-4b4e-811d-1e860f61df0e, udp: true}
+- &id003 {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: 77b48516-c3de-4b4e-811d-1e860f61df0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - *id001
 - *id002
 - *id003
-- {name: 🇸🇬 新加坡01 - 迅云加速, server: mo.xunyunnode.sbs, port: 14195, type: ss, cipher: chacha20-ietf-poly1305, password: d8c4d425-f661-4b10-8c85-7c950b784386, udp: true}
-- {name: 🇸🇬 新加坡02 - 迅云加速, server: abc.xunyunnode.sbs, port: 19673, type: ss, cipher: chacha20-ietf-poly1305, password: d8c4d425-f661-4b10-8c85-7c950b784386, udp: true}
-- {name: 🇸🇬 新加坡03 - 迅云加速, server: qs.xunyunnode.sbs, port: 34949, type: ss, cipher: chacha20-ietf-poly1305, password: d8c4d425-f661-4b10-8c85-7c950b784386, udp: true}
-- {name: 🇸🇬 新加坡04 - 迅云加速, server: wa.xunyunnode.sbs, port: 50764, type: ss, cipher: chacha20-ietf-poly1305, password: d8c4d425-f661-4b10-8c85-7c950b784386, udp: true}
-- &id004 {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 1c72e3fa-0e44-42fa-bfb1-65c54cfd4ccb, udp: true}
-- &id005 {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 1c72e3fa-0e44-42fa-bfb1-65c54cfd4ccb, udp: true}
-- &id006 {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 1c72e3fa-0e44-42fa-bfb1-65c54cfd4ccb, udp: true}
-- &id007 {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 1c72e3fa-0e44-42fa-bfb1-65c54cfd4ccb, udp: true}
-- &id008 {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 1c72e3fa-0e44-42fa-bfb1-65c54cfd4ccb, udp: true}
-- &id009 {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 1c72e3fa-0e44-42fa-bfb1-65c54cfd4ccb, udp: true}
+- &id004 {name: 🇸🇬 新加坡01 - 迅云加速, server: mo.xunyunnode.sbs, port: 14195, type: ss, cipher: chacha20-ietf-poly1305, password: 2de74b4c-4c79-404d-836c-1bb8c7f78985, udp: true}
+- &id005 {name: 🇸🇬 新加坡02 - 迅云加速, server: abc.xunyunnode.sbs, port: 19673, type: ss, cipher: chacha20-ietf-poly1305, password: 2de74b4c-4c79-404d-836c-1bb8c7f78985, udp: true}
+- &id006 {name: 🇸🇬 新加坡03 - 迅云加速, server: qs.xunyunnode.sbs, port: 34949, type: ss, cipher: chacha20-ietf-poly1305, password: 2de74b4c-4c79-404d-836c-1bb8c7f78985, udp: true}
+- &id007 {name: 🇸🇬 新加坡04 - 迅云加速, server: wa.xunyunnode.sbs, port: 50764, type: ss, cipher: chacha20-ietf-poly1305, password: 2de74b4c-4c79-404d-836c-1bb8c7f78985, udp: true}
 - *id004
 - *id005
 - *id006
 - *id007
+- &id008 {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 2985bdb1-73af-4a1c-9ad7-2935940d8fbc, udp: true}
+- &id009 {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 2985bdb1-73af-4a1c-9ad7-2935940d8fbc, udp: true}
+- &id010 {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 2985bdb1-73af-4a1c-9ad7-2935940d8fbc, udp: true}
+- &id011 {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 2985bdb1-73af-4a1c-9ad7-2935940d8fbc, udp: true}
+- &id012 {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 2985bdb1-73af-4a1c-9ad7-2935940d8fbc, udp: true}
+- &id013 {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 2985bdb1-73af-4a1c-9ad7-2935940d8fbc, udp: true}
 - *id008
 - *id009
-- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: gy1.ldldfwq.top, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: f4360512-1200-4d68-b317-3a982a817d09, udp: true}
-- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: gy1.ldldfwq.top, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: f4360512-1200-4d68-b317-3a982a817d09, udp: true}
+- *id010
+- *id011
+- *id012
+- *id013
+- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: gy1.ldldfwq.top, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 6f75e09d-52b2-4a04-b5d7-e347504e9525, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: gy1.ldldfwq.top, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 6f75e09d-52b2-4a04-b5d7-e347504e9525, udp: true}
 - *id001
 - *id002
 - *id003
@@ -37,3 +41,7 @@ proxies:
 - *id001
 - *id002
 - *id003
+- *id004
+- *id005
+- *id006
+- *id007
