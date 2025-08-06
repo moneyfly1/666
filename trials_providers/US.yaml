@@ -13,16 +13,16 @@ proxies:
 - *id004
 - *id005
 - *id006
-- &id007 {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: aeaa3766-1b49-4d2d-8482-ec0655d61436, udp: true}
-- &id008 {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: aeaa3766-1b49-4d2d-8482-ec0655d61436, udp: true}
-- &id009 {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: aeaa3766-1b49-4d2d-8482-ec0655d61436, udp: true}
+- &id007 {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 8339ba84-a48c-4e1d-baf1-f9b1ee3854f4, udp: true}
+- &id008 {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 8339ba84-a48c-4e1d-baf1-f9b1ee3854f4, udp: true}
+- &id009 {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 8339ba84-a48c-4e1d-baf1-f9b1ee3854f4, udp: true}
 - *id007
 - *id008
 - *id009
-- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: e55d0501-35b2-45f9-8b3c-8818375581e6, udp: true}
-- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: e55d0501-35b2-45f9-8b3c-8818375581e6, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: e55d0501-35b2-45f9-8b3c-8818375581e6, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: e55d0501-35b2-45f9-8b3c-8818375581e6, udp: true}
+- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 5f8e277d-c8f0-4ef7-ab4d-de96c6a5f7d7, udp: true}
+- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 5f8e277d-c8f0-4ef7-ab4d-de96c6a5f7d7, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 5f8e277d-c8f0-4ef7-ab4d-de96c6a5f7d7, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 5f8e277d-c8f0-4ef7-ab4d-de96c6a5f7d7, udp: true}
 - *id001
 - *id002
 - *id001
