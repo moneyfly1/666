@@ -5,21 +5,24 @@ proxies:
 - &id002 {name: 🇺🇸 US-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: bbb2d831-1573-4d05-9530-76222af4c178, udp: true}
 - *id001
 - *id002
-- &id003 {name: 🇺🇸 美国01 - 迅云加速, server: mo.xunyunnode.sbs, port: 45823, type: ss, cipher: chacha20-ietf-poly1305, password: c691cef4-1167-4d19-8755-5edac966dde7, udp: true}
-- &id004 {name: 🇺🇸 美国02 - 迅云加速, server: abc.xunyunnode.sbs, port: 59079, type: ss, cipher: chacha20-ietf-poly1305, password: c691cef4-1167-4d19-8755-5edac966dde7, udp: true}
-- &id005 {name: 🇺🇸 美国03 - 迅云加速, server: qs.xunyunnode.sbs, port: 15765, type: ss, cipher: chacha20-ietf-poly1305, password: c691cef4-1167-4d19-8755-5edac966dde7, udp: true}
-- &id006 {name: 🇺🇸 美国04 - 迅云加速, server: wa.xunyunnode.sbs, port: 22041, type: ss, cipher: chacha20-ietf-poly1305, password: c691cef4-1167-4d19-8755-5edac966dde7, udp: true}
+- &id003 {name: 🇺🇸 美国01 - 迅云加速, server: mo.xunyunnode.sbs, port: 45823, type: ss, cipher: chacha20-ietf-poly1305, password: 25d16ae7-025b-4562-8a88-495effc5fdba, udp: true}
+- &id004 {name: 🇺🇸 美国02 - 迅云加速, server: abc.xunyunnode.sbs, port: 59079, type: ss, cipher: chacha20-ietf-poly1305, password: 25d16ae7-025b-4562-8a88-495effc5fdba, udp: true}
+- &id005 {name: 🇺🇸 美国03 - 迅云加速, server: qs.xunyunnode.sbs, port: 15765, type: ss, cipher: chacha20-ietf-poly1305, password: 25d16ae7-025b-4562-8a88-495effc5fdba, udp: true}
+- &id006 {name: 🇺🇸 美国04 - 迅云加速, server: wa.xunyunnode.sbs, port: 22041, type: ss, cipher: chacha20-ietf-poly1305, password: 25d16ae7-025b-4562-8a88-495effc5fdba, udp: true}
 - *id003
 - *id004
 - *id005
 - *id006
-- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 787b78ab-0c85-40d0-831b-24fda63f9368, udp: true}
-- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 787b78ab-0c85-40d0-831b-24fda63f9368, udp: true}
-- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 787b78ab-0c85-40d0-831b-24fda63f9368, udp: true}
-- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: fe3fcfe2-af69-462a-875c-7e3019f5373f, udp: true}
-- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: fe3fcfe2-af69-462a-875c-7e3019f5373f, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: fe3fcfe2-af69-462a-875c-7e3019f5373f, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: fe3fcfe2-af69-462a-875c-7e3019f5373f, udp: true}
+- &id007 {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 38e5c79e-043c-4fae-8261-816edb8a299f, udp: true}
+- &id008 {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 38e5c79e-043c-4fae-8261-816edb8a299f, udp: true}
+- &id009 {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 38e5c79e-043c-4fae-8261-816edb8a299f, udp: true}
+- *id007
+- *id008
+- *id009
+- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 9699479b-b274-4e45-84ed-face4d90444d, udp: true}
+- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 9699479b-b274-4e45-84ed-face4d90444d, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 9699479b-b274-4e45-84ed-face4d90444d, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 9699479b-b274-4e45-84ed-face4d90444d, udp: true}
 - {name: 🇺🇸 美国01 - freedom, server: wujrnbitcet.gym0boy.com, port: 59270, type: ss, cipher: aes-256-gcm, password: 6e93f13d-d594-4680-a8d9-6b891ebae990, udp: true}
 - {name: 🇺🇸 美国02 - freedom, server: i2plcwjnhrl6.gym0boy.com, port: 52448, type: ss, cipher: aes-256-gcm, password: 6e93f13d-d594-4680-a8d9-6b891ebae990, udp: true}
 - {name: 🇺🇸 美国03 - freedom, server: wujrnbitcet.gym0boy.com, port: 29646, type: ss, cipher: aes-256-gcm, password: 6e93f13d-d594-4680-a8d9-6b891ebae990, udp: true}
@@ -32,3 +35,7 @@ proxies:
 - *id002
 - *id001
 - *id002
+- *id003
+- *id004
+- *id005
+- *id006
