@@ -146,54 +146,54 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___abcsdf.acwtg.cn/HK.yaml
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___www.pipilines.com/HK.yaml
     interval: 180
-    path: trials_providers/https___abcsdf.acwtg.cn/HK.yaml
+    path: trials_providers/https___www.pipilines.com/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___abcsdf.acwtg.cn/TW.yaml
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___www.pipilines.com/TW.yaml
     interval: 180
-    path: trials_providers/https___abcsdf.acwtg.cn/TW.yaml
+    path: trials_providers/https___www.pipilines.com/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___abcsdf.acwtg.cn/SG.yaml
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___www.pipilines.com/SG.yaml
     interval: 180
-    path: trials_providers/https___abcsdf.acwtg.cn/SG.yaml
+    path: trials_providers/https___www.pipilines.com/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___abcsdf.acwtg.cn/JP.yaml
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___www.pipilines.com/JP.yaml
     interval: 180
-    path: trials_providers/https___abcsdf.acwtg.cn/JP.yaml
+    path: trials_providers/https___www.pipilines.com/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___abcsdf.acwtg.cn/US.yaml
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___www.pipilines.com/US.yaml
     interval: 180
-    path: trials_providers/https___abcsdf.acwtg.cn/US.yaml
+    path: trials_providers/https___www.pipilines.com/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___abcsdf.acwtg.cn/Other.yaml
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___www.pipilines.com/Other.yaml
     interval: 180
-    path: trials_providers/https___abcsdf.acwtg.cn/Other.yaml
+    path: trials_providers/https___www.pipilines.com/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
