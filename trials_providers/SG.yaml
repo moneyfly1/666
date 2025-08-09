@@ -29,6 +29,9 @@ proxies:
 - &id011 {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: b5db0df8-313e-46ac-9690-5e44b37c667d, udp: true}
 - &id012 {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: b5db0df8-313e-46ac-9690-5e44b37c667d, udp: true}
 - &id013 {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: b5db0df8-313e-46ac-9690-5e44b37c667d, udp: true}
+- *id001
+- *id002
+- *id003
 - *id004
 - *id005
 - *id006

@@ -33,6 +33,10 @@ proxies:
 - &id012 {name: 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: b5db0df8-313e-46ac-9690-5e44b37c667d, udp: true}
 - &id013 {name: 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: b5db0df8-313e-46ac-9690-5e44b37c667d, udp: true}
 - &id014 {name: 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: b5db0df8-313e-46ac-9690-5e44b37c667d, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
 - {name: 🇭🇰 香港-线路1 - 神盾, server: 156.224.77.215, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: a493e09f-7a63-4a28-be83-39ab12175a3a, udp: true}
 - *id005
 - *id006
