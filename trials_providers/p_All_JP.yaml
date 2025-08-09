@@ -5,7 +5,7 @@ proxies:
 - {name: 🇯🇵 日本02 - freedom, server: i2plcwjnhrl6.gym0boy.com, port: 22609, type: ss, cipher: aes-256-gcm, password: 251712fc-0e2e-4ae3-839f-4b3b19bd1046, udp: true}
 - {name: 🇯🇵 日本03 - freedom, server: wujrnbitcet.gym0boy.com, port: 49812, type: ss, cipher: aes-256-gcm, password: 251712fc-0e2e-4ae3-839f-4b3b19bd1046, udp: true}
 - {name: 🇯🇵 日本04 - freedom, server: i2plcwjnhrl6.gym0boy.com, port: 28799, type: ss, cipher: aes-256-gcm, password: 251712fc-0e2e-4ae3-839f-4b3b19bd1046, udp: true}
-- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: gy1.ldldfwq.top, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 189e56c7-104b-497f-bc40-3101c5de0eff, udp: true}
-- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: gy1.ldldfwq.top, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 189e56c7-104b-497f-bc40-3101c5de0eff, udp: true}
-- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: gy1.ldldfwq.top, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 189e56c7-104b-497f-bc40-3101c5de0eff, udp: true}
-- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: gy1.ldldfwq.top, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 189e56c7-104b-497f-bc40-3101c5de0eff, udp: true}
+- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: gy1.ldldfwq.top, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: c726de18-6ed6-487d-9837-8e74e6fee816, udp: true}
+- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: gy1.ldldfwq.top, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: c726de18-6ed6-487d-9837-8e74e6fee816, udp: true}
+- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: gy1.ldldfwq.top, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: c726de18-6ed6-487d-9837-8e74e6fee816, udp: true}
+- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: gy1.ldldfwq.top, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: c726de18-6ed6-487d-9837-8e74e6fee816, udp: true}
