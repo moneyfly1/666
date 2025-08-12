@@ -11,9 +11,15 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
+  - 🇭🇰 ‍香港
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
@@ -21,19 +27,17 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇯🇵日本之一 - 免费机场
-  - 🇺🇸美国之一 - 免费机场
-  - 🇺🇸美国之二 - 免费机场
-  - 🇩🇪德国之一 - 免费机场
-  - 🇩🇪德国之二 - 免费机场
-  - 🇧🇬保加之一 - 免费机场
+  use: &id001
+  - HK
+  - SG
+  - JP
+  - US
+  - Other
+  - p_All_CN
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -50,16 +54,22 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
+  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
@@ -70,46 +80,110 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  tolerance: 100
+  use: &id002
+  - HK
+- name: 🇨🇳 ‍中国
+  type: url-test
+  tolerance: 100
+  use: &id003
+  - HK
+  - p_All_CN
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  tolerance: 100
+  use: &id004
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇯🇵日本之一 - 免费机场
+  use: &id005
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id003
-  - 🇺🇸美国之一 - 免费机场
-  - 🇺🇸美国之二 - 免费机场
+  use: &id006
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id004
-  - 🇩🇪德国之一 - 免费机场
-  - 🇩🇪德国之二 - 免费机场
-  - 🇧🇬保加之一 - 免费机场
+  use: &id007
+  - Other
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  use: *id002
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  use: *id003
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  use: *id004
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id002
+  use: *id005
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id003
+  use: *id006
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id004
-proxies:
-- {name: 🇩🇪德国之一 - 免费机场, server: 185.183.181.242, port: 5968, type: ss, cipher: chacha20-ietf-poly1305, password: 636212bf-8982-4b68-a8ea-3655a6000f4d, udp: true}
-- {name: 🇩🇪德国之二 - 免费机场, server: 31.22.10.139, port: 1569, type: ss, cipher: chacha20-ietf-poly1305, password: 636212bf-8982-4b68-a8ea-3655a6000f4d, udp: true}
-- {name: 🇺🇸美国之一 - 免费机场, server: 23.27.176.120, port: 23589, type: ss, cipher: chacha20-ietf-poly1305, password: 636212bf-8982-4b68-a8ea-3655a6000f4d, udp: true}
-- {name: 🇺🇸美国之二 - 免费机场, server: 45.132.74.212, port: 45743, type: ss, cipher: chacha20-ietf-poly1305, password: 636212bf-8982-4b68-a8ea-3655a6000f4d, udp: true}
-- {name: 🇯🇵日本之一 - 免费机场, server: 23.27.201.149, port: 23472, type: ss, cipher: chacha20-ietf-poly1305, password: 636212bf-8982-4b68-a8ea-3655a6000f4d, udp: true}
-- {name: 🇧🇬保加之一 - 免费机场, server: 193.9.47.81, port: 19347, type: ss, cipher: chacha20-ietf-poly1305, password: 636212bf-8982-4b68-a8ea-3655a6000f4d, udp: true}
+  use: *id007
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___maichongyun.cc/HK.yaml
+    interval: 180
+    path: trials_providers/https___maichongyun.cc/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___maichongyun.cc/SG.yaml
+    interval: 180
+    path: trials_providers/https___maichongyun.cc/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___maichongyun.cc/JP.yaml
+    interval: 180
+    path: trials_providers/https___maichongyun.cc/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___maichongyun.cc/US.yaml
+    interval: 180
+    path: trials_providers/https___maichongyun.cc/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___maichongyun.cc/Other.yaml
+    interval: 180
+    path: trials_providers/https___maichongyun.cc/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  p_All_CN:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___maichongyun.cc/p_All_CN.yaml
+    interval: 180
+    path: trials_providers/https___maichongyun.cc/p_All_CN.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

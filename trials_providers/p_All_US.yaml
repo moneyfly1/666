@@ -1,9 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 223a83a2-1292-4571-b943-79e8260b137f, udp: true}
-- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 223a83a2-1292-4571-b943-79e8260b137f, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 223a83a2-1292-4571-b943-79e8260b137f, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 223a83a2-1292-4571-b943-79e8260b137f, udp: true}
-- {name: 🇺🇸美国之一 - 免费机场, server: 23.27.176.120, port: 23589, type: ss, cipher: chacha20-ietf-poly1305, password: 636212bf-8982-4b68-a8ea-3655a6000f4d, udp: true}
-- {name: 🇺🇸美国之二 - 免费机场, server: 45.132.74.212, port: 45743, type: ss, cipher: chacha20-ietf-poly1305, password: 636212bf-8982-4b68-a8ea-3655a6000f4d, udp: true}
+- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 8b2a0d33-5cdd-4a2a-b4b1-73a866492f80, udp: true}
+- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 8b2a0d33-5cdd-4a2a-b4b1-73a866492f80, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 8b2a0d33-5cdd-4a2a-b4b1-73a866492f80, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 8b2a0d33-5cdd-4a2a-b4b1-73a866492f80, udp: true}
