@@ -2,19 +2,12 @@
 ---
 proxies:
 - {name: 🇺🇸 USA - Nexus VPN, server: usa-node.nexusvpn.app, port: 443, type: trojan, password: 9ae69060-d0a2-4b43-b7ab-2f67c8e92c33, sni: usa-node.nexusvpn.app, skip-cert-verify: true, udp: true}
-- &id001 {name: 🇺🇸 US-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: b7e74298-c49e-42c0-8922-15fbc942bd72, udp: true}
-- &id002 {name: 🇺🇸 US-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: b7e74298-c49e-42c0-8922-15fbc942bd72, udp: true}
-- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 90c736c2-03d2-4398-bcf2-9b9dc7edbbfe, udp: true}
-- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 90c736c2-03d2-4398-bcf2-9b9dc7edbbfe, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 90c736c2-03d2-4398-bcf2-9b9dc7edbbfe, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 90c736c2-03d2-4398-bcf2-9b9dc7edbbfe, udp: true}
-- &id003 {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: c83205b9-1019-4d21-8448-f57d0f4f66ca, udp: true}
-- &id004 {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: c83205b9-1019-4d21-8448-f57d0f4f66ca, udp: true}
-- &id005 {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slsl.slianvpn.top, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: c83205b9-1019-4d21-8448-f57d0f4f66ca, udp: true}
+- &id001 {name: 🇺🇸 US-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: b040ce2e-70e9-4320-b347-064c55d41e92, udp: true}
+- &id002 {name: 🇺🇸 US-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: b040ce2e-70e9-4320-b347-064c55d41e92, udp: true}
+- {name: 🇺🇸 美国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - *id001
 - *id002
-- *id003
-- *id004
-- *id005
+- *id001
+- *id002
 - *id001
 - *id002
