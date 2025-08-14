@@ -21,4 +21,3 @@ proxies:
 - {name: 🇲🇽 ss(广移)墨西哥2 - 雷达, server: gy1.ldldfwq.top, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: 817b7a55-799e-48d0-b520-9a9644a1553a, udp: true}
 - {name: 🇹🇭 ss(广移)泰国1 - 雷达, server: gy1.ldldfwq.top, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: 817b7a55-799e-48d0-b520-9a9644a1553a, udp: true}
 - {name: 🇹🇭 ss(广移)泰国2 - 雷达, server: gy1.ldldfwq.top, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: 817b7a55-799e-48d0-b520-9a9644a1553a, udp: true}
-- {name: 🇮🇪 爱尔兰-都柏林 - 神盾, server: 107.175.187.181, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: 02bc0394-a9eb-467c-832e-47d47a8e6e50, udp: true}
