@@ -1,16 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇺🇸 US-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: b040ce2e-70e9-4320-b347-064c55d41e92, udp: true}
-- &id002 {name: 🇺🇸 US-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: b040ce2e-70e9-4320-b347-064c55d41e92, udp: true}
-- {name: 🇺🇸 美国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- *id001
-- *id002
 - {name: 🇺🇸 ss(广移)美国1 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 742c6793-ff54-4735-bd20-2b3423cda1a4, udp: true}
 - {name: 🇺🇸 ss(广移)美国2 - 雷达, server: gy1.ldldfwq.top, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 742c6793-ff54-4735-bd20-2b3423cda1a4, udp: true}
 - {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 742c6793-ff54-4735-bd20-2b3423cda1a4, udp: true}
 - {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: gy1.ldldfwq.top, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 742c6793-ff54-4735-bd20-2b3423cda1a4, udp: true}
-- *id001
-- *id002
-- *id001
-- *id002
