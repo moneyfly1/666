@@ -29,7 +29,6 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id001
-  - p_All_US
   - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
   - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
   - p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN
@@ -58,6 +57,7 @@ proxy-groups:
   - p_All_JP
   - p_All_HK_CN
   - p_All_SG
+  - p_All_US
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -147,11 +147,11 @@ proxy-groups:
   type: url-test
   tolerance: 300
   use: &id006
+  - p_All_All_All_All_US_US_US_US
+  - p_All_All_All_All_US_US_US_US
+  - p_All_All_All_All_US_US_US_US
+  - p_All_All_All_All_US_US_US_US
   - p_All_US
-  - p_All_All_All_All_US_US_US_US
-  - p_All_All_All_All_US_US_US_US
-  - p_All_All_All_All_US_US_US_US
-  - p_All_All_All_All_US_US_US_US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 100
@@ -180,15 +180,6 @@ proxy-groups:
   type: select
   use: *id007
 proxy-providers:
-  p_All_US:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/p_All_US.yaml
-    interval: 180
-    path: trials_providers/p_All_US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
   p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN:
     type: http
     url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/p_All_All_All_All_HK_HK_HK_HK_CN_CN_CN_CN.yaml
@@ -275,6 +266,15 @@ proxy-providers:
     url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/p_All_SG.yaml
     interval: 180
     path: trials_providers/p_All_SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  p_All_US:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/p_All_US.yaml
+    interval: 180
+    path: trials_providers/p_All_US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

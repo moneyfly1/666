@@ -31,8 +31,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇺🇸 USA - Nexus VPN
-  - 🇺🇸 美国核心节点-01 - 快云加速
   - 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
@@ -144,6 +142,7 @@ proxy-groups:
   - 🇭🇰 香港-线路1 - 神盾
   - 🇸🇬 新加坡核心节点-01 - 快云加速
   - 🇸🇬 新加坡边缘节点-02 - 快云加速
+  - 🇺🇸 美国核心节点-01 - 快云加速
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -290,16 +289,15 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id006
-  - 🇺🇸 USA - Nexus VPN
+  - 🇺🇸 US-Los Angeles-01 - 脉冲云
+  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
+  - 🇺🇸 US-Los Angeles-01 - 脉冲云
+  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
+  - 🇺🇸 US-Los Angeles-01 - 脉冲云
+  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
+  - 🇺🇸 US-Los Angeles-01 - 脉冲云
+  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
   - 🇺🇸 美国核心节点-01 - 快云加速
-  - 🇺🇸 US-Los Angeles-01 - 脉冲云
-  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 US-Los Angeles-01 - 脉冲云
-  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 US-Los Angeles-01 - 脉冲云
-  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 US-Los Angeles-01 - 脉冲云
-  - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -376,7 +374,6 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
-- {name: 🇺🇸 USA - Nexus VPN, server: usa-node.nexusvpn.app, port: 443, type: trojan, password: 9ae69060-d0a2-4b43-b7ab-2f67c8e92c33, sni: usa-node.nexusvpn.app, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 Singapore-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: b040ce2e-70e9-4320-b347-064c55d41e92, udp: true}
 - {name: 🇸🇬 Singapore-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: b040ce2e-70e9-4320-b347-064c55d41e92, udp: true}
 - {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: b040ce2e-70e9-4320-b347-064c55d41e92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

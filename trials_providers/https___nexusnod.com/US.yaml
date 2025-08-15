@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 USA - Nexus VPN, server: usa-node.nexusvpn.app, port: 443, type: trojan, password: 9ae69060-d0a2-4b43-b7ab-2f67c8e92c33, sni: usa-node.nexusvpn.app, skip-cert-verify: true, udp: true}
