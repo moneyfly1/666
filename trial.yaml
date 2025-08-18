@@ -33,10 +33,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇭🇰 HK-PQ(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 HK2-PQ(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
@@ -133,12 +129,6 @@ proxy-groups:
   - 🇦🇹 AT-Vienna - 脉冲云
   - 🇩🇪 DE-Nuremberg - 脉冲云
   - 🇰🇷 KR-Seoul - 脉冲云
-  - ℹ️ 官网:kuaiyun666.xyz - 快云加速
-  - ℹ️ 客服qq:1586932845 - 快云加速
-  - ℹ️ 节点超时请更新订阅 - 快云加速
-  - 🇰🇷 韩国核心节点-01 - 快云加速
-  - 🇹🇭 泰国核心节点-01 - 快云加速
-  - 🇮🇩 印度尼西亚边缘节点-01 - 快云加速
   - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
   - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
   - 🇰🇷 ss(广移)韩国1 - 雷达
@@ -159,28 +149,65 @@ proxy-groups:
   - 🇲🇽 ss(广移)墨西哥2 - 雷达
   - 🇹🇭 ss(广移)泰国1 - 雷达
   - 🇹🇭 ss(广移)泰国2 - 雷达
-  - 🇮🇪 爱尔兰-都柏林 - 神盾
-  - 🇯🇵 日本办公VPN-5G - 快云加速
-  - 🇯🇵 日本边缘节点-01 - 快云加速
-  - 🇯🇵 日本边缘节点-02 - 快云加速
+  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
+  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
+  - 🇰🇷 ss(广移)韩国1 - 雷达
+  - 🇰🇷 ss(广移)韩国2 - 雷达
+  - 🇲🇾 ss(广移)马来西亚1 - 雷达
+  - 🇲🇾 ss(广移)马来西亚2 - 雷达
+  - 🇮🇱 ss(广移)以色列1 - 雷达
+  - 🇮🇱 ss(广移)以色列2 - 雷达
+  - 🇮🇳 ss(广移)印度1 - 雷达
+  - 🇮🇳 ss(广移)印度2 - 雷达
+  - 🇹🇷 ss(广移)土耳其1 - 雷达
+  - 🇹🇷 ss(广移)土耳其2 - 雷达
+  - 🇮🇸 ss(广移)冰岛1 - 雷达
+  - 🇮🇸 ss(广移)冰岛2 - 雷达
+  - 🇧🇷 ss(广移) 巴西1 - 雷达
+  - 🇧🇷 ss(广移)巴西2 - 雷达
+  - 🇲🇽 ss(广移)墨西哥1 - 雷达
+  - 🇲🇽 ss(广移)墨西哥2 - 雷达
+  - 🇹🇭 ss(广移)泰国1 - 雷达
+  - 🇹🇭 ss(广移)泰国2 - 雷达
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
+  - 🇸🇬 ss(广移)新加坡 1 - 雷达
+  - 🇸🇬 ss(广移)新加坡 2 - 雷达
+  - 🇸🇬 ss(广移)新加坡 1 - 雷达
+  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇯🇵 ss(广移)日本1 - 雷达
   - 🇯🇵 ss(广移)日本2 - 雷达
   - 🇯🇵 ss(广移)日本4 - 雷达
   - 🇯🇵 ss(广移)日本3 - 雷达
-  - 🇭🇰 香港网关-01 - 快云加速
-  - 🇭🇰 香港网关-02 - 快云加速
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
-  - 🇭🇰 香港-线路1 - 神盾
-  - 🇸🇬 新加坡核心节点-01 - 快云加速
-  - 🇸🇬 新加坡边缘节点-02 - 快云加速
-  - 🇸🇬 ss(广移)新加坡 1 - 雷达
-  - 🇸🇬 ss(广移)新加坡 2 - 雷达
-  - 🇺🇸 美国核心节点-01 - 快云加速
+  - 🇯🇵 ss(广移)日本1 - 雷达
+  - 🇯🇵 ss(广移)日本2 - 雷达
+  - 🇯🇵 ss(广移)日本4 - 雷达
+  - 🇯🇵 ss(广移)日本3 - 雷达
+  - 🇹🇼 ss(广移)台湾1 - 雷达
+  - 🇹🇼 ss(广移)台湾2 - 雷达
+  - 🇹🇼 ss(广移)台湾2-1 - 雷达
+  - 🇹🇼 ss(广移)台湾2-2 - 雷达
+  - 🇹🇼 ss(广移)台湾1 - 雷达
+  - 🇹🇼 ss(广移)台湾2 - 雷达
+  - 🇹🇼 ss(广移)台湾2-1 - 雷达
+  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇺🇸 ss(广移)美国1 - 雷达
   - 🇺🇸 ss(广移)美国2 - 雷达
   - 🇺🇸 ss(广移)美国2-1 - 雷达
   - 🇺🇸 ss(广移)美国2-2 - 雷达
+  - 🇺🇸 ss(广移)美国1 - 雷达
+  - 🇺🇸 ss(广移)美国2 - 雷达
+  - 🇺🇸 ss(广移)美国2-1 - 雷达
+  - 🇺🇸 ss(广移)美国2-2 - 雷达
+  - 🇮🇪 爱尔兰-都柏林 - 神盾
+  - 🇭🇰 香港-线路1 - 神盾
+  - 🇹🇼 台湾高速节点 - 新云游
+  - 🇹🇼 台湾高速节点2 - 新云游
+  - 🇹🇼 台湾高速节点3 - 新云游
+  - 🇺🇸 美国高速节点1 - 新云游
+  - 🇨🇳 中国联通节点1 - 新云游
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -252,8 +279,8 @@ proxy-groups:
   - 🇭🇰 HK2-PQ(官网:maichongvpn.com) - 脉冲云
   - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
   - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 香港网关-01 - 快云加速
-  - 🇭🇰 香港网关-02 - 快云加速
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 ss(广移)香港1 - 雷达
   - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 香港-线路1 - 神盾
@@ -267,45 +294,60 @@ proxy-groups:
   - 🇹🇼 ss(广移)台湾2 - 雷达
   - 🇹🇼 ss(广移)台湾2-1 - 雷达
   - 🇹🇼 ss(广移)台湾2-2 - 雷达
+  - 🇹🇼 ss(广移)台湾1 - 雷达
+  - 🇹🇼 ss(广移)台湾2 - 雷达
+  - 🇹🇼 ss(广移)台湾2-1 - 雷达
+  - 🇹🇼 ss(广移)台湾2-2 - 雷达
+  - 🇹🇼 台湾高速节点 - 新云游
+  - 🇹🇼 台湾高速节点2 - 新云游
+  - 🇹🇼 台湾高速节点3 - 新云游
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
+  - 🇭🇰 HK-PQ(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-PQ(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-PQ(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-PQ(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-PQ(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-PQ(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 HK-PQ(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 HK2-PQ(官网:maichongvpn.com) - 脉冲云
+  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
+  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇨🇳 CN-TaiBei-01 - 脉冲云
+  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇹🇼 ss(广移)台湾1 - 雷达
   - 🇹🇼 ss(广移)台湾2 - 雷达
   - 🇹🇼 ss(广移)台湾2-1 - 雷达
   - 🇹🇼 ss(广移)台湾2-2 - 雷达
-  - 🇭🇰 HK-PQ(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-PQ(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-PQ(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-PQ(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-PQ(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-PQ(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 HK-PQ(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 HK2-PQ(官网:maichongvpn.com) - 脉冲云
-  - 🇭🇰 AK香港-新疆国外节点 - 脉冲云
-  - 🇭🇰 WAP香港-新疆国外节点 - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇨🇳 CN-TaiBei-01 - 脉冲云
-  - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
-  - 🇭🇰 香港网关-01 - 快云加速
-  - 🇭🇰 香港网关-02 - 快云加速
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
+  - 🇹🇼 ss(广移)台湾1 - 雷达
+  - 🇹🇼 ss(广移)台湾2 - 雷达
+  - 🇹🇼 ss(广移)台湾2-1 - 雷达
+  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇭🇰 香港-线路1 - 神盾
+  - 🇹🇼 台湾高速节点 - 新云游
+  - 🇹🇼 台湾高速节点2 - 新云游
+  - 🇹🇼 台湾高速节点3 - 新云游
+  - 🇨🇳 中国联通节点1 - 新云游
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -324,8 +366,8 @@ proxy-groups:
   - 🇸🇬 Singapore-01-st - 脉冲云
   - 🇸🇬 Singapore-02-wap - 脉冲云
   - 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云
-  - 🇸🇬 新加坡核心节点-01 - 快云加速
-  - 🇸🇬 新加坡边缘节点-02 - 快云加速
+  - 🇸🇬 ss(广移)新加坡 1 - 雷达
+  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 ss(广移)新加坡 1 - 雷达
   - 🇸🇬 ss(广移)新加坡 2 - 雷达
 - name: 🇯🇵 ‍日本
@@ -342,9 +384,10 @@ proxy-groups:
   - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
   - 🇯🇵 JP-Tokyo-01 - 脉冲云
   - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
-  - 🇯🇵 日本办公VPN-5G - 快云加速
-  - 🇯🇵 日本边缘节点-01 - 快云加速
-  - 🇯🇵 日本边缘节点-02 - 快云加速
+  - 🇯🇵 ss(广移)日本1 - 雷达
+  - 🇯🇵 ss(广移)日本2 - 雷达
+  - 🇯🇵 ss(广移)日本4 - 雷达
+  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇯🇵 ss(广移)日本1 - 雷达
   - 🇯🇵 ss(广移)日本2 - 雷达
   - 🇯🇵 ss(广移)日本4 - 雷达
@@ -363,11 +406,15 @@ proxy-groups:
   - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
   - 🇺🇸 US-Los Angeles-01 - 脉冲云
   - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
-  - 🇺🇸 美国核心节点-01 - 快云加速
   - 🇺🇸 ss(广移)美国1 - 雷达
   - 🇺🇸 ss(广移)美国2 - 雷达
   - 🇺🇸 ss(广移)美国2-1 - 雷达
   - 🇺🇸 ss(广移)美国2-2 - 雷达
+  - 🇺🇸 ss(广移)美国1 - 雷达
+  - 🇺🇸 ss(广移)美国2 - 雷达
+  - 🇺🇸 ss(广移)美国2-1 - 雷达
+  - 🇺🇸 ss(广移)美国2-2 - 雷达
+  - 🇺🇸 美国高速节点1 - 新云游
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -418,12 +465,26 @@ proxy-groups:
   - 🇦🇹 AT-Vienna - 脉冲云
   - 🇩🇪 DE-Nuremberg - 脉冲云
   - 🇰🇷 KR-Seoul - 脉冲云
-  - ℹ️ 官网:kuaiyun666.xyz - 快云加速
-  - ℹ️ 客服qq:1586932845 - 快云加速
-  - ℹ️ 节点超时请更新订阅 - 快云加速
-  - 🇰🇷 韩国核心节点-01 - 快云加速
-  - 🇹🇭 泰国核心节点-01 - 快云加速
-  - 🇮🇩 印度尼西亚边缘节点-01 - 快云加速
+  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
+  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
+  - 🇰🇷 ss(广移)韩国1 - 雷达
+  - 🇰🇷 ss(广移)韩国2 - 雷达
+  - 🇲🇾 ss(广移)马来西亚1 - 雷达
+  - 🇲🇾 ss(广移)马来西亚2 - 雷达
+  - 🇮🇱 ss(广移)以色列1 - 雷达
+  - 🇮🇱 ss(广移)以色列2 - 雷达
+  - 🇮🇳 ss(广移)印度1 - 雷达
+  - 🇮🇳 ss(广移)印度2 - 雷达
+  - 🇹🇷 ss(广移)土耳其1 - 雷达
+  - 🇹🇷 ss(广移)土耳其2 - 雷达
+  - 🇮🇸 ss(广移)冰岛1 - 雷达
+  - 🇮🇸 ss(广移)冰岛2 - 雷达
+  - 🇧🇷 ss(广移) 巴西1 - 雷达
+  - 🇧🇷 ss(广移)巴西2 - 雷达
+  - 🇲🇽 ss(广移)墨西哥1 - 雷达
+  - 🇲🇽 ss(广移)墨西哥2 - 雷达
+  - 🇹🇭 ss(广移)泰国1 - 雷达
+  - 🇹🇭 ss(广移)泰国2 - 雷达
   - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
   - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
   - 🇰🇷 ss(广移)韩国1 - 雷达
@@ -491,58 +552,49 @@ proxies:
 - {name: 🇰🇷 KR-Seoul - 脉冲云, server: gyjd.yy9866.com, port: 27828, type: ss, cipher: chacha20-ietf-poly1305, password: 7eda7cd3-070c-4619-93a6-bba9f54af640, udp: true}
 - {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: 7eda7cd3-070c-4619-93a6-bba9f54af640, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: 7eda7cd3-070c-4619-93a6-bba9f54af640, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇸🇬 新加坡核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 17869, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇸🇬 新加坡边缘节点-02 - 快云加速, server: ddns.kuaiyun1.cn, port: 43147, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本办公VPN-5G - 快云加速, server: 35.77.85.111, port: 15697, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本边缘节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本边缘节点-02 - 快云加速, server: ddns.kuaiyun1.cn, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: ℹ️ 官网:kuaiyun666.xyz - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: ℹ️ 客服qq:1586932845 - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: ℹ️ 节点超时请更新订阅 - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇭🇰 香港网关-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 32975, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇭🇰 香港网关-02 - 快云加速, server: ddns.kuaiyun1.cn, port: 15815, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇺🇸 美国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇰🇷 韩国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 30967, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇹🇭 泰国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 48494, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇮🇩 印度尼西亚边缘节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 22665, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: ℹ️ 无法连接请到官网导入订阅更新 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: ℹ️ 试用1小时 请到官网新购套餐 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇭🇰 ss(广移)香港1 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇭🇰 ss(广移)香港2 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇹🇼 ss(广移)台湾1 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2-1 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2-2 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇰🇷 ss(广移)韩国1 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇰🇷 ss(广移)韩国2 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇲🇾 ss(广移)马来西亚1 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇲🇾 ss(广移)马来西亚2 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇮🇱 ss(广移)以色列1 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇮🇱 ss(广移)以色列2 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇮🇳 ss(广移)印度1 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇮🇳 ss(广移)印度2 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇹🇷 ss(广移)土耳其1 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇹🇷 ss(广移)土耳其2 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇮🇸 ss(广移)冰岛1 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇮🇸 ss(广移)冰岛2 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇧🇷 ss(广移) 巴西1 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇧🇷 ss(广移)巴西2 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇲🇽 ss(广移)墨西哥1 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇲🇽 ss(广移)墨西哥2 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇹🇭 ss(广移)泰国1 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇹🇭 ss(广移)泰国2 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: ℹ️ 无法连接请到官网导入订阅更新 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: ℹ️ 试用1小时 请到官网新购套餐 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇭🇰 ss(广移)香港1 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇭🇰 ss(广移)香港2 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇹🇼 ss(广移)台湾1 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2-1 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2-2 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇰🇷 ss(广移)韩国1 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇰🇷 ss(广移)韩国2 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇲🇾 ss(广移)马来西亚1 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇲🇾 ss(广移)马来西亚2 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇮🇱 ss(广移)以色列1 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇮🇱 ss(广移)以色列2 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇮🇳 ss(广移)印度1 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇮🇳 ss(广移)印度2 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇹🇷 ss(广移)土耳其1 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇹🇷 ss(广移)土耳其2 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇮🇸 ss(广移)冰岛1 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇮🇸 ss(广移)冰岛2 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇧🇷 ss(广移) 巴西1 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇧🇷 ss(广移)巴西2 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇲🇽 ss(广移)墨西哥1 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇲🇽 ss(广移)墨西哥2 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇹🇭 ss(广移)泰国1 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- {name: 🇹🇭 ss(广移)泰国2 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
 - {name: 🇮🇪 爱尔兰-都柏林 - 神盾, server: 107.175.187.181, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: ee37e3f9-4e52-47cc-8269-a34a5f23f23b, udp: true}
 - {name: 🇭🇰 香港-线路1 - 神盾, server: 156.224.77.215, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: ee37e3f9-4e52-47cc-8269-a34a5f23f23b, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: e25fc114-e844-41de-bae0-4c3100a2f9da, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: e25fc114-e844-41de-bae0-4c3100a2f9da, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: e25fc114-e844-41de-bae0-4c3100a2f9da, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: e25fc114-e844-41de-bae0-4c3100a2f9da, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: e25fc114-e844-41de-bae0-4c3100a2f9da, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

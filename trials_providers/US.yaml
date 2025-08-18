@@ -3,14 +3,18 @@
 proxies:
 - &id001 {name: 🇺🇸 US-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: 7eda7cd3-070c-4619-93a6-bba9f54af640, udp: true}
 - &id002 {name: 🇺🇸 US-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: 7eda7cd3-070c-4619-93a6-bba9f54af640, udp: true}
-- {name: 🇺🇸 美国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- &id003 {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- &id004 {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- &id005 {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
+- &id006 {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 4b087258-a745-4e1c-9e9d-94ff551095d8, udp: true}
 - *id001
 - *id002
-- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: e119d959-f81f-4af4-ad78-28675d3209ce, udp: true}
+- *id003
+- *id004
+- *id005
+- *id006
 - *id001
 - *id002
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: e25fc114-e844-41de-bae0-4c3100a2f9da, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - *id001
 - *id002
