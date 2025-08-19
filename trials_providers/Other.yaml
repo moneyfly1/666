@@ -18,26 +18,26 @@ proxies:
 - {name: 🇰🇷 韩国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 30967, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇹🇭 泰国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 48494, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇮🇩 印度尼西亚边缘节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 22665, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- &id012 {name: ℹ️ 无法连接请到官网导入订阅更新 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id013 {name: ℹ️ 试用1小时 请到官网新购套餐 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id014 {name: 🇰🇷 ss(广移)韩国1 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id015 {name: 🇰🇷 ss(广移)韩国2 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id016 {name: 🇲🇾 ss(广移)马来西亚1 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id017 {name: 🇲🇾 ss(广移)马来西亚2 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id018 {name: 🇮🇱 ss(广移)以色列1 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id019 {name: 🇮🇱 ss(广移)以色列2 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id020 {name: 🇮🇳 ss(广移)印度1 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id021 {name: 🇮🇳 ss(广移)印度2 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id022 {name: 🇹🇷 ss(广移)土耳其1 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id023 {name: 🇹🇷 ss(广移)土耳其2 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id024 {name: 🇮🇸 ss(广移)冰岛1 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id025 {name: 🇮🇸 ss(广移)冰岛2 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id026 {name: 🇧🇷 ss(广移) 巴西1 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id027 {name: 🇧🇷 ss(广移)巴西2 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id028 {name: 🇲🇽 ss(广移)墨西哥1 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id029 {name: 🇲🇽 ss(广移)墨西哥2 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id030 {name: 🇹🇭 ss(广移)泰国1 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
-- &id031 {name: 🇹🇭 ss(广移)泰国2 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: 6346043c-0168-4855-b43f-8259d70c508f, udp: true}
+- &id012 {name: ℹ️ 无法连接请到官网导入订阅更新 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id013 {name: ℹ️ 试用1小时 请到官网新购套餐 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id014 {name: 🇰🇷 ss(广移)韩国1 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id015 {name: 🇰🇷 ss(广移)韩国2 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id016 {name: 🇲🇾 ss(广移)马来西亚1 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id017 {name: 🇲🇾 ss(广移)马来西亚2 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id018 {name: 🇮🇱 ss(广移)以色列1 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id019 {name: 🇮🇱 ss(广移)以色列2 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id020 {name: 🇮🇳 ss(广移)印度1 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id021 {name: 🇮🇳 ss(广移)印度2 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id022 {name: 🇹🇷 ss(广移)土耳其1 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id023 {name: 🇹🇷 ss(广移)土耳其2 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id024 {name: 🇮🇸 ss(广移)冰岛1 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id025 {name: 🇮🇸 ss(广移)冰岛2 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id026 {name: 🇧🇷 ss(广移) 巴西1 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id027 {name: 🇧🇷 ss(广移)巴西2 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id028 {name: 🇲🇽 ss(广移)墨西哥1 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id029 {name: 🇲🇽 ss(广移)墨西哥2 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id030 {name: 🇹🇭 ss(广移)泰国1 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
+- &id031 {name: 🇹🇭 ss(广移)泰国2 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: d8a6dba6-59f9-4d43-87b0-75bb7670f9cc, udp: true}
 - *id001
 - *id002
 - *id003
