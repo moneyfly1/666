@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国 - 仙路湾, server: sfneran.vxzjv.xyz, port: 46771, type: ss, cipher: aes-128-gcm, password: 984aa9df-e0d3-400e-93f4-55f3c5e3bc0a, udp: true}
