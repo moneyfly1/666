@@ -4,3 +4,5 @@ proxies:
 - {name: 🇸🇬 Singapore-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: 3f755c14-9e2b-4123-85fa-1fbde64aec86, udp: true}
 - {name: 🇸🇬 Singapore-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: 3f755c14-9e2b-4123-85fa-1fbde64aec86, udp: true}
 - {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: 3f755c14-9e2b-4123-85fa-1fbde64aec86, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: c0b7a5d4-ae8f-48ea-92c3-5127e69b2dc3, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: c0b7a5d4-ae8f-48ea-92c3-5127e69b2dc3, udp: true}

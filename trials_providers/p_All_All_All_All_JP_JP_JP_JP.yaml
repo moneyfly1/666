@@ -3,3 +3,7 @@
 proxies:
 - {name: 🇯🇵 JP-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48917, type: ss, cipher: chacha20-ietf-poly1305, password: 3f755c14-9e2b-4123-85fa-1fbde64aec86, udp: true}
 - {name: 🇯🇵 JP-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 3f755c14-9e2b-4123-85fa-1fbde64aec86, udp: true}
+- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: c0b7a5d4-ae8f-48ea-92c3-5127e69b2dc3, udp: true}
+- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: c0b7a5d4-ae8f-48ea-92c3-5127e69b2dc3, udp: true}
+- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: c0b7a5d4-ae8f-48ea-92c3-5127e69b2dc3, udp: true}
+- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: c0b7a5d4-ae8f-48ea-92c3-5127e69b2dc3, udp: true}
