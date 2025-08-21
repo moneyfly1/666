@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: c126d86e-7425-4b8c-9d99-6da57fa9b9fc, udp: true}
-- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: c126d86e-7425-4b8c-9d99-6da57fa9b9fc, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: c126d86e-7425-4b8c-9d99-6da57fa9b9fc, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: c126d86e-7425-4b8c-9d99-6da57fa9b9fc, udp: true}
+- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: af47f261-262a-4ad3-97a4-f15c0bec1905, udp: true}
+- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: af47f261-262a-4ad3-97a4-f15c0bec1905, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: af47f261-262a-4ad3-97a4-f15c0bec1905, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: af47f261-262a-4ad3-97a4-f15c0bec1905, udp: true}

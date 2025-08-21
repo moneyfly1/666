@@ -1,6 +1,7 @@
 %YAML 1.1
 ---
 proxies:
+- {name: '🇺🇸 美国_更新订阅_邮箱: vanify@proton.me - CloudSurf', server: 154.19.242.140, port: 10000, type: ss, cipher: aes-256-gcm, password: 904b5abf-87c0-4849-bba1-534199bcf9db, udp: true}
 - {name: 🇺🇸 美国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇺🇸 美国-v6|01 - 悦云, server: dmitv61.616626.xyz, port: 22305, type: vmess, uuid: ea5a892a-2af0-4295-a0eb-33693db66625, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国01 - 悦云, server: vir732.189.ovh, port: 10026, type: trojan, password: ea5a892a-2af0-4295-a0eb-33693db66625, sni: vir732.189.ovh, skip-cert-verify: true, udp: true}
@@ -9,4 +10,4 @@ proxies:
 - {name: 🇺🇸 美国04 - 悦云, server: layercloud.189.ovh, port: 10021, type: trojan, password: ea5a892a-2af0-4295-a0eb-33693db66625, sni: layercloud.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国05 - 悦云, server: advin.189.ovh, port: 10027, type: trojan, password: ea5a892a-2af0-4295-a0eb-33693db66625, sni: advin.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国07 - 悦云, server: vir694.189.ovh, port: 10021, type: trojan, password: ea5a892a-2af0-4295-a0eb-33693db66625, sni: vir694.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: c0b2a30d-91ba-43f5-9dc8-2e00f58da472, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 86835c7e-9eb9-482f-9b00-c419d1065d7f, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
