@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48917, type: ss, cipher: chacha20-ietf-poly1305, password: 195d9357-e0d1-476d-b44a-9500d615984d, udp: true}
-- {name: 🇯🇵 JP-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 195d9357-e0d1-476d-b44a-9500d615984d, udp: true}
-- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 32d148b9-6707-46a8-9928-cb281f2f6105, udp: true}
-- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 32d148b9-6707-46a8-9928-cb281f2f6105, udp: true}
-- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 32d148b9-6707-46a8-9928-cb281f2f6105, udp: true}
-- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 32d148b9-6707-46a8-9928-cb281f2f6105, udp: true}
+- {name: 🇯🇵 JP-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48917, type: ss, cipher: chacha20-ietf-poly1305, password: 8336693e-1a3b-49a3-a11c-b810b35ae867, udp: true}
+- {name: 🇯🇵 JP-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 8336693e-1a3b-49a3-a11c-b810b35ae867, udp: true}
+- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: bd04152f-4013-46da-831b-f97f374a5d6c, udp: true}
+- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: bd04152f-4013-46da-831b-f97f374a5d6c, udp: true}
+- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: bd04152f-4013-46da-831b-f97f374a5d6c, udp: true}
+- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: bd04152f-4013-46da-831b-f97f374a5d6c, udp: true}
