@@ -13,4 +13,4 @@ proxies:
 - {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: efec824a-8ecc-40c2-913d-83298a04ba65, udp: true}
 - {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: efec824a-8ecc-40c2-913d-83298a04ba65, udp: true}
 - {name: 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场, server: mgmg2.casvre.top, port: 5601, type: ss, cipher: chacha20-ietf-poly1305, password: efec824a-8ecc-40c2-913d-83298a04ba65, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 8bfbd1ed-1ffb-4f82-aa4f-02d7efbdf026, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 06817fd0-3169-4d07-a26f-b3233e62e9fa, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
