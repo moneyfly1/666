@@ -35,6 +35,6 @@ proxies:
 - *id004
 - *id005
 - *id006
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 8cb3c256-c835-468c-a3aa-06355ad8e685, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 9391ad1d-69a6-49fc-971e-cd216eb868e5, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
 - *id001
 - *id002
