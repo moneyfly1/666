@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 US-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3d83fa-3314-4610-a58e-201f18a4bb97, udp: true}
-- {name: 🇺🇸 US-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: 3f3d83fa-3314-4610-a58e-201f18a4bb97, udp: true}
-- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: bd17c05b-a70c-4ee6-839d-85af5fb068ba, udp: true}
-- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: bd17c05b-a70c-4ee6-839d-85af5fb068ba, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: bd17c05b-a70c-4ee6-839d-85af5fb068ba, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: bd17c05b-a70c-4ee6-839d-85af5fb068ba, udp: true}
