@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 2188a9a8-ed96-4f4a-8ba6-cdeb22765cf2, udp: true}
-- {name: 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 2188a9a8-ed96-4f4a-8ba6-cdeb22765cf2, udp: true}
-- {name: 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 2188a9a8-ed96-4f4a-8ba6-cdeb22765cf2, udp: true}
-- {name: 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 2188a9a8-ed96-4f4a-8ba6-cdeb22765cf2, udp: true}
-- {name: 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 2188a9a8-ed96-4f4a-8ba6-cdeb22765cf2, udp: true}
-- {name: 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 2188a9a8-ed96-4f4a-8ba6-cdeb22765cf2, udp: true}
+- {name: 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 315c7c7a-107c-4a4a-bc6a-66cf0f9323c4, udp: true}
+- {name: 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 315c7c7a-107c-4a4a-bc6a-66cf0f9323c4, udp: true}
+- {name: 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 315c7c7a-107c-4a4a-bc6a-66cf0f9323c4, udp: true}
+- {name: 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 315c7c7a-107c-4a4a-bc6a-66cf0f9323c4, udp: true}
+- {name: 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 315c7c7a-107c-4a4a-bc6a-66cf0f9323c4, udp: true}
+- {name: 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 315c7c7a-107c-4a4a-bc6a-66cf0f9323c4, udp: true}
