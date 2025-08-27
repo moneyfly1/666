@@ -9,8 +9,8 @@ proxies:
 - {name: 🇺🇸 美国04 - 悦云, server: layercloud.189.ovh, port: 10021, type: trojan, password: d2b723c3-5f02-46ac-9dd3-5b02e05bd7af, sni: layercloud.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国05 - 悦云, server: advin.189.ovh, port: 10027, type: trojan, password: d2b723c3-5f02-46ac-9dd3-5b02e05bd7af, sni: advin.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国07 - 悦云, server: vir694.189.ovh, port: 10021, type: trojan, password: d2b723c3-5f02-46ac-9dd3-5b02e05bd7af, sni: vir694.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: f04c4a1c-d2fd-4cd3-a1b6-98be3cc55fad, udp: true}
-- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: f04c4a1c-d2fd-4cd3-a1b6-98be3cc55fad, udp: true}
-- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: f04c4a1c-d2fd-4cd3-a1b6-98be3cc55fad, udp: true}
-- {name: 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场, server: mgmg2.casvre.top, port: 5601, type: ss, cipher: chacha20-ietf-poly1305, password: f04c4a1c-d2fd-4cd3-a1b6-98be3cc55fad, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 571431a3-b996-4694-9840-109add6f56fb, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 5e403851-c652-446f-93a0-242c31988ebf, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 4421dc05-d879-4595-b6cd-bdfaf451e581, udp: true}
+- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 4421dc05-d879-4595-b6cd-bdfaf451e581, udp: true}
+- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 4421dc05-d879-4595-b6cd-bdfaf451e581, udp: true}
+- {name: 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场, server: mgmg2.casvre.top, port: 5601, type: ss, cipher: chacha20-ietf-poly1305, password: 4421dc05-d879-4595-b6cd-bdfaf451e581, udp: true}
