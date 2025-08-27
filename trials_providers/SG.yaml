@@ -1,25 +1,28 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇸🇬 Singapore-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: f654bdaa-653d-4d73-9b21-631fcb6b1766, udp: true}
-- &id002 {name: 🇸🇬 Singapore-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: f654bdaa-653d-4d73-9b21-631fcb6b1766, udp: true}
-- &id003 {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: f654bdaa-653d-4d73-9b21-631fcb6b1766, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id001 {name: 🇸🇬 Singapore-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: 8e87a779-ed10-4146-9aed-97bd8fd85264, udp: true}
+- &id002 {name: 🇸🇬 Singapore-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: 8e87a779-ed10-4146-9aed-97bd8fd85264, udp: true}
+- &id003 {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: 8e87a779-ed10-4146-9aed-97bd8fd85264, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇸🇬 新加坡核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 17869, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇸🇬 新加坡边缘节点-02 - 快云加速, server: ddns.kuaiyun1.cn, port: 43147, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - *id001
 - *id002
 - *id003
-- &id004 {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: d0f355d7-9d31-410c-9600-9e9a2ceead83, udp: true}
-- &id005 {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: d0f355d7-9d31-410c-9600-9e9a2ceead83, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 979f2937-52a8-4871-ad49-f8120b53275d, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 979f2937-52a8-4871-ad49-f8120b53275d, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 979f2937-52a8-4871-ad49-f8120b53275d, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 979f2937-52a8-4871-ad49-f8120b53275d, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 979f2937-52a8-4871-ad49-f8120b53275d, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 979f2937-52a8-4871-ad49-f8120b53275d, udp: true}
+- &id004 {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 5490a518-e81d-489a-852b-fa605e7c911a, udp: true}
+- &id005 {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 5490a518-e81d-489a-852b-fa605e7c911a, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e8f35602-72b7-4026-9138-7a767cd4291a, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e8f35602-72b7-4026-9138-7a767cd4291a, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e8f35602-72b7-4026-9138-7a767cd4291a, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e8f35602-72b7-4026-9138-7a767cd4291a, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e8f35602-72b7-4026-9138-7a767cd4291a, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: e8f35602-72b7-4026-9138-7a767cd4291a, udp: true}
 - *id001
 - *id002
 - *id003
+- {name: 🇸🇬 新加坡-高速-A - 蓝猫加速, server: s3.lmjiasu.xyz, port: 11003, type: ss, cipher: chacha20-ietf-poly1305, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, udp: true}
+- {name: 🇸🇬 新加坡-高速-B - 蓝猫加速, server: v3.lmjiasu.xyz, port: 12003, type: vmess, uuid: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v3.lmjiasu.xyz, network: ws, ws-opts: {path: /lmjiasu, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇸🇬 新加坡-高速-C - 蓝猫加速, server: t3.lmjiasu.xyz, port: 13003, type: trojan, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, sni: t3.lmjiasu.xyz, skip-cert-verify: true, udp: true}
 - *id004
 - *id005
 - *id001

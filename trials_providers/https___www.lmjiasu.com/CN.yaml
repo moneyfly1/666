@@ -1,0 +1,13 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港-高速-B - 蓝猫加速, server: v1.lmjiasu.xyz, port: 12001, type: vmess, uuid: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v1.lmjiasu.xyz, network: ws, ws-opts: {path: /lmjiasu, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇭🇰 香港-高速-C - 蓝猫加速, server: t1.lmjiasu.xyz, port: 13001, type: trojan, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, sni: t1.lmjiasu.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-高速-D - 蓝猫加速, server: s2.lmjiasu.xyz, port: 11002, type: ss, cipher: chacha20-ietf-poly1305, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, udp: true}
+- {name: 🇭🇰 香港-高速-E - 蓝猫加速, server: v2.lmjiasu.xyz, port: 12002, type: vmess, uuid: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v2.lmjiasu.xyz, network: ws, ws-opts: {path: /lmjiasu, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇭🇰 香港-高速-F - 蓝猫加速, server: t2.lmjiasu.xyz, port: 13002, type: trojan, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, sni: t2.lmjiasu.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-高速-A - 蓝猫加速, server: s1.lmjiasu.xyz, port: 11001, type: ss, cipher: chacha20-ietf-poly1305, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, udp: true}
+- {name: 🇭🇰 香港-高速-免流-A - 蓝猫加速, server: 103.85.72.152, port: 61001, type: ss, cipher: chacha20-ietf-poly1305, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, udp: true}
+- {name: 🇭🇰 香港-高速-免流-D - 蓝猫加速, server: s7.lmjiasu.xyz, port: 11000, type: ss, cipher: chacha20-ietf-poly1305, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, udp: true}
+- {name: 🇭🇰 香港-高速-免流-F - 蓝猫加速, server: t7.lmjiasu.xyz, port: 13000, type: trojan, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, sni: t7.lmjiasu.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-高速-免流-E - 蓝猫加速, server: v7.lmjiasu.xyz, port: 12000, type: vmess, uuid: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v7.lmjiasu.xyz, network: ws, ws-opts: {path: /lmjiasu, headers: {Host: www.bing.com}}, udp: true}

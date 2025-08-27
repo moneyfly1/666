@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国-洛杉矶-A - 蓝猫加速, server: s4.lmjiasu.xyz, port: 11004, type: ss, cipher: chacha20-ietf-poly1305, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, udp: true}
+- {name: 🇺🇸 美国-洛杉矶-B - 蓝猫加速, server: v4.lmjiasu.xyz, port: 12004, type: vmess, uuid: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v4.lmjiasu.xyz, network: ws, ws-opts: {path: /lmjiasu, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇺🇸 美国-洛杉矶-C - 蓝猫加速, server: t4.lmjiasu.xyz, port: 13004, type: trojan, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, sni: t4.lmjiasu.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-纽约-A - 蓝猫加速, server: s5.lmjiasu.xyz, port: 11005, type: ss, cipher: chacha20-ietf-poly1305, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, udp: true}
+- {name: 🇺🇸 美国-纽约-B - 蓝猫加速, server: v5.lmjiasu.xyz, port: 12005, type: vmess, uuid: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v5.lmjiasu.xyz, network: ws, ws-opts: {path: /lmjiasu, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇺🇸 美国-纽约-C - 蓝猫加速, server: t5.lmjiasu.xyz, port: 13005, type: trojan, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, sni: t5.lmjiasu.xyz, skip-cert-verify: true, udp: true}

@@ -2,15 +2,21 @@
 ---
 proxies:
 - {name: 🇺🇸 美国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇺🇸 美国-v6|01 - 悦云, server: dmitv61.616626.xyz, port: 22305, type: vmess, uuid: 63575c63-e37e-4c68-bed6-36a8454ba60d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国01 - 悦云, server: vir732.189.ovh, port: 10026, type: trojan, password: 63575c63-e37e-4c68-bed6-36a8454ba60d, sni: vir732.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02 - 悦云, server: vir11.189.ovh, port: 10022, type: trojan, password: 63575c63-e37e-4c68-bed6-36a8454ba60d, sni: vir11.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-v6|01 - 悦云 2, server: crun6.668918.xyz, port: 22308, type: vmess, uuid: 63575c63-e37e-4c68-bed6-36a8454ba60d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国04 - 悦云, server: layercloud.189.ovh, port: 10021, type: trojan, password: 63575c63-e37e-4c68-bed6-36a8454ba60d, sni: layercloud.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国05 - 悦云, server: advin.189.ovh, port: 10027, type: trojan, password: 63575c63-e37e-4c68-bed6-36a8454ba60d, sni: advin.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国07 - 悦云, server: vir694.189.ovh, port: 10021, type: trojan, password: 63575c63-e37e-4c68-bed6-36a8454ba60d, sni: vir694.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 979f2937-52a8-4871-ad49-f8120b53275d, udp: true}
-- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 979f2937-52a8-4871-ad49-f8120b53275d, udp: true}
-- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 979f2937-52a8-4871-ad49-f8120b53275d, udp: true}
-- {name: 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场, server: mgmg2.casvre.top, port: 5601, type: ss, cipher: chacha20-ietf-poly1305, password: 979f2937-52a8-4871-ad49-f8120b53275d, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 62122dce-097f-4ee2-b221-8192b25e2704, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-v6|01 - 悦云, server: dmitv61.616626.xyz, port: 22305, type: vmess, uuid: d2b723c3-5f02-46ac-9dd3-5b02e05bd7af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01 - 悦云, server: vir732.189.ovh, port: 10026, type: trojan, password: d2b723c3-5f02-46ac-9dd3-5b02e05bd7af, sni: vir732.189.ovh, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国02 - 悦云, server: vir11.189.ovh, port: 10022, type: trojan, password: d2b723c3-5f02-46ac-9dd3-5b02e05bd7af, sni: vir11.189.ovh, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-v6|01 - 悦云 2, server: crun6.668918.xyz, port: 22308, type: vmess, uuid: d2b723c3-5f02-46ac-9dd3-5b02e05bd7af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国04 - 悦云, server: layercloud.189.ovh, port: 10021, type: trojan, password: d2b723c3-5f02-46ac-9dd3-5b02e05bd7af, sni: layercloud.189.ovh, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国05 - 悦云, server: advin.189.ovh, port: 10027, type: trojan, password: d2b723c3-5f02-46ac-9dd3-5b02e05bd7af, sni: advin.189.ovh, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国07 - 悦云, server: vir694.189.ovh, port: 10021, type: trojan, password: d2b723c3-5f02-46ac-9dd3-5b02e05bd7af, sni: vir694.189.ovh, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: e8f35602-72b7-4026-9138-7a767cd4291a, udp: true}
+- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: e8f35602-72b7-4026-9138-7a767cd4291a, udp: true}
+- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: e8f35602-72b7-4026-9138-7a767cd4291a, udp: true}
+- {name: 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场, server: mgmg2.casvre.top, port: 5601, type: ss, cipher: chacha20-ietf-poly1305, password: e8f35602-72b7-4026-9138-7a767cd4291a, udp: true}
+- {name: 🇺🇸 美国-洛杉矶-A - 蓝猫加速, server: s4.lmjiasu.xyz, port: 11004, type: ss, cipher: chacha20-ietf-poly1305, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, udp: true}
+- {name: 🇺🇸 美国-洛杉矶-B - 蓝猫加速, server: v4.lmjiasu.xyz, port: 12004, type: vmess, uuid: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v4.lmjiasu.xyz, network: ws, ws-opts: {path: /lmjiasu, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇺🇸 美国-洛杉矶-C - 蓝猫加速, server: t4.lmjiasu.xyz, port: 13004, type: trojan, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, sni: t4.lmjiasu.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-纽约-A - 蓝猫加速, server: s5.lmjiasu.xyz, port: 11005, type: ss, cipher: chacha20-ietf-poly1305, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, udp: true}
+- {name: 🇺🇸 美国-纽约-B - 蓝猫加速, server: v5.lmjiasu.xyz, port: 12005, type: vmess, uuid: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: v5.lmjiasu.xyz, network: ws, ws-opts: {path: /lmjiasu, headers: {Host: www.bing.com}}, udp: true}
+- {name: 🇺🇸 美国-纽约-C - 蓝猫加速, server: t5.lmjiasu.xyz, port: 13005, type: trojan, password: b1617240-1eb3-4c12-b0f4-cbe7c6ade5ec, sni: t5.lmjiasu.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 182a1ecc-0920-4404-a740-12301a62c768, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
