@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [ss]联通线路-美国 - 机场', server: zz002.airport.lat, port: 26111, type: ss, cipher: aes-128-gcm, password: 364ae0fd-8e38-4e83-a1fa-e581414725f7, udp: true}
-- {name: '🇺🇸 [ss]直连-美国 - 机场', server: us01.airport.lat, port: 20830, type: ss, cipher: aes-128-gcm, password: 364ae0fd-8e38-4e83-a1fa-e581414725f7, udp: true}
+- {name: '🇺🇸 [ss]联通线路-美国 - 机场', server: zz002.airport.lat, port: 26111, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
+- {name: '🇺🇸 [ss]直连-美国 - 机场', server: us01.airport.lat, port: 20830, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}

@@ -9,6 +9,10 @@ proxies:
 - {name: 🇺🇸 美国04 - 悦云, server: layercloud.189.ovh, port: 10021, type: trojan, password: 5dbbc339-5bee-43a9-8a8d-93ea53c46399, sni: layercloud.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国05 - 悦云, server: advin.189.ovh, port: 10027, type: trojan, password: 5dbbc339-5bee-43a9-8a8d-93ea53c46399, sni: advin.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国07 - 悦云, server: vir694.189.ovh, port: 10021, type: trojan, password: 5dbbc339-5bee-43a9-8a8d-93ea53c46399, sni: vir694.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: b987896b-864d-4490-a3b7-259d49ec84da, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [ss]联通线路-美国 - 机场', server: zz002.airport.lat, port: 26111, type: ss, cipher: aes-128-gcm, password: 364ae0fd-8e38-4e83-a1fa-e581414725f7, udp: true}
-- {name: '🇺🇸 [ss]直连-美国 - 机场', server: us01.airport.lat, port: 20830, type: ss, cipher: aes-128-gcm, password: 364ae0fd-8e38-4e83-a1fa-e581414725f7, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 3eab43fe-5868-48cb-8150-54794d08e93e, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: cf8a3f2e-de40-47ed-be0e-ac84461fe501, udp: true}
+- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: cf8a3f2e-de40-47ed-be0e-ac84461fe501, udp: true}
+- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: cf8a3f2e-de40-47ed-be0e-ac84461fe501, udp: true}
+- {name: 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场, server: mgmg2.casvre.top, port: 5601, type: ss, cipher: chacha20-ietf-poly1305, password: cf8a3f2e-de40-47ed-be0e-ac84461fe501, udp: true}
+- {name: '🇺🇸 [ss]联通线路-美国 - 机场', server: zz002.airport.lat, port: 26111, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
+- {name: '🇺🇸 [ss]直连-美国 - 机场', server: us01.airport.lat, port: 20830, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
