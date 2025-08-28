@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇭🇰 [ss]联通线路-香港-02 - 机场', server: zz002.airport.lat, port: 20841, type: ss, cipher: aes-128-gcm, password: 37335a81-c9e3-4400-9293-d223ed0b90f4, udp: true}
+- {name: '🇭🇰 [ss]联通线路-香港-01 - 机场', server: zz002.airport.lat, port: 25389, type: ss, cipher: aes-128-gcm, password: 37335a81-c9e3-4400-9293-d223ed0b90f4, udp: true}
+- {name: '🇭🇰 [ss]直连-香港-01 - 机场', server: hk1.airport.lat, port: 1000, type: ss, cipher: aes-128-gcm, password: 37335a81-c9e3-4400-9293-d223ed0b90f4, udp: true}
+- {name: '🇭🇰 [ss]直连-香港-02 - 机场', server: hk01.airport.lat, port: 20840, type: ss, cipher: aes-128-gcm, password: 37335a81-c9e3-4400-9293-d223ed0b90f4, udp: true}
