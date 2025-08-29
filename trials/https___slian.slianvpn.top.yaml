@@ -12,11 +12,15 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -29,52 +33,57 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 [ss]联通线路-香港-02 - 机场
-  - 🇭🇰 [ss]联通线路-香港-01 - 机场
-  - 🇭🇰 [ss]直连-香港-01 - 机场
-  - 🇭🇰 [ss]直连-香港-02 - 机场
-  - 🇸🇬 [ss]联通线路-新加坡-02 - 机场
-  - 🇸🇬 [ss]直连-新加坡-02 - 机场
-  - 🇯🇵 [ss]联通线路-日本 - 机场
-  - 🇯🇵 [ss]直连-日本 - 机场
-  - 🇺🇸 [ss]联通线路-美国 - 机场
-  - 🇺🇸 [ss]直连-美国 - 机场
-  - 🇹🇭 [ss]联通线路-泰国 - 机场
-  - 🇲🇾 [ss]联通线路-马来西亚 - 机场
-  - 🇻🇳 [ss]联通线路-越南 - 机场
-  - 🇮🇹 [ss]联通线路-意大利 - 机场
-  - 🇮🇩 [ss]联通线路-印度尼西亚 - 机场
-  - 🇷🇺 [ss]联通线路-俄罗斯 - 机场
-  - 🇩🇪 [ss]联通线路-德国 - 机场
-  - 🇫🇷 [ss]联通线路-法国 - 机场
-  - 🇫🇮 [ss]联通线路-芬兰 - 机场
-  - 🇰🇿 [ss]联通线路-哈萨克斯坦 - 机场
-  - 🇰🇷 [ss]联通线路-韩国 - 机场
-  - 🇳🇱 [ss]联通线路-荷兰 - 机场
-  - 🇷🇴 [ss]联通线路-罗马尼亚 - 机场
-  - 🇵🇹 [ss]联通线路-葡萄牙 - 机场
-  - '[ss]联通线路-阿拉伯联合酋长国 - 机场'
-  - 🇸🇪 [ss]联通线路-瑞典 - 机场
-  - 🇹🇷 [ss]联通线路-土耳其 - 机场
-  - 🇪🇸 [ss]联通线路-西班牙 - 机场
-  - '[ss]直连-阿拉伯联合酋长国 - 机场'
-  - 🇩🇪 [ss]直连-德国 - 机场
-  - 🇷🇺 [ss]直连-俄罗斯 - 机场
-  - 🇫🇷 [ss]直连-法国 - 机场
-  - 🇫🇮 [ss]直连-芬兰 - 机场
-  - 🇰🇿 [ss]直连-哈萨克斯坦 - 机场
-  - 🇰🇷 [ss]直连-韩国 - 机场
-  - 🇳🇱 [ss]直连-荷兰 - 机场
-  - 🇷🇴 [ss]直连-罗马尼亚 - 机场
-  - 🇲🇾 [ss]直连-马来西亚 - 机场
-  - 🇵🇹 [ss]直连-葡萄牙 - 机场
-  - 🇸🇪 [ss]直连-瑞典 - 机场
-  - 🇹🇭 [ss]直连-泰国 - 机场
-  - 🇹🇷 [ss]直连-土耳其 - 机场
-  - 🇪🇸 [ss]直连-西班牙 - 机场
-  - 🇮🇹 [ss]直连-意大利 - 机场
-  - 🇮🇩 [ss]直连-印度尼西亚 - 机场
-  - 🇻🇳 [ss]直连-越南 - 机场
+  - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场
+  - 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场
+  - 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场
+  - 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场
+  - ℹ️ 官网 slvp.nxxbbf.com - ⚡闪连一元公益机场
+  - ℹ️ 无法连接到官网重新导入订阅 - ⚡闪连一元公益机场
+  - 🇰🇷 韩国 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇰🇷 韩国 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇰🇷 韩国 (广港)3x1 - ⚡闪连一元公益机场
+  - 🇹🇷 土耳其 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇹🇷 土耳其 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇹🇷 土耳其 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇮🇸 冰岛 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇮🇸 冰岛 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇮🇸 冰岛 (广港)3x1 - ⚡闪连一元公益机场
+  - 🇮🇳 印度 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇮🇳 印度 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇮🇳 印度 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇧🇷 巴西 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇧🇷 巴西 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇧🇷 巴西 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇮🇱 以色列 (广港)1x1 - ⚡闪连一元公益机场
+  - 🇮🇱 以色列 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇮🇱 以色列 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇲🇽 墨西哥 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇲🇽 墨西哥 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇲🇽 墨西哥 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场
+  - 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场
+  - 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -95,18 +104,24 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
@@ -124,138 +139,178 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 [ss]联通线路-香港-02 - 机场
-  - 🇭🇰 [ss]联通线路-香港-01 - 机场
-  - 🇭🇰 [ss]直连-香港-01 - 机场
-  - 🇭🇰 [ss]直连-香港-02 - 机场
-- name: 🇸🇬 ‍新加坡
+  - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
+- name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇸🇬 [ss]联通线路-新加坡-02 - 机场
-  - 🇸🇬 [ss]直连-新加坡-02 - 机场
-- name: 🇯🇵 ‍日本
+  - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
+- name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇯🇵 [ss]联通线路-日本 - 机场
-  - 🇯🇵 [ss]直连-日本 - 机场
+  - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
+  - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
+  - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场
+  - 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id006
+  - 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场
+  - 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场
+  - 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id005
-  - 🇺🇸 [ss]联通线路-美国 - 机场
-  - 🇺🇸 [ss]直连-美国 - 机场
+  proxies: &id007
+  - 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id006
-  - 🇹🇭 [ss]联通线路-泰国 - 机场
-  - 🇲🇾 [ss]联通线路-马来西亚 - 机场
-  - 🇻🇳 [ss]联通线路-越南 - 机场
-  - 🇮🇹 [ss]联通线路-意大利 - 机场
-  - 🇮🇩 [ss]联通线路-印度尼西亚 - 机场
-  - 🇷🇺 [ss]联通线路-俄罗斯 - 机场
-  - 🇩🇪 [ss]联通线路-德国 - 机场
-  - 🇫🇷 [ss]联通线路-法国 - 机场
-  - 🇫🇮 [ss]联通线路-芬兰 - 机场
-  - 🇰🇿 [ss]联通线路-哈萨克斯坦 - 机场
-  - 🇰🇷 [ss]联通线路-韩国 - 机场
-  - 🇳🇱 [ss]联通线路-荷兰 - 机场
-  - 🇷🇴 [ss]联通线路-罗马尼亚 - 机场
-  - 🇵🇹 [ss]联通线路-葡萄牙 - 机场
-  - '[ss]联通线路-阿拉伯联合酋长国 - 机场'
-  - 🇸🇪 [ss]联通线路-瑞典 - 机场
-  - 🇹🇷 [ss]联通线路-土耳其 - 机场
-  - 🇪🇸 [ss]联通线路-西班牙 - 机场
-  - '[ss]直连-阿拉伯联合酋长国 - 机场'
-  - 🇩🇪 [ss]直连-德国 - 机场
-  - 🇷🇺 [ss]直连-俄罗斯 - 机场
-  - 🇫🇷 [ss]直连-法国 - 机场
-  - 🇫🇮 [ss]直连-芬兰 - 机场
-  - 🇰🇿 [ss]直连-哈萨克斯坦 - 机场
-  - 🇰🇷 [ss]直连-韩国 - 机场
-  - 🇳🇱 [ss]直连-荷兰 - 机场
-  - 🇷🇴 [ss]直连-罗马尼亚 - 机场
-  - 🇲🇾 [ss]直连-马来西亚 - 机场
-  - 🇵🇹 [ss]直连-葡萄牙 - 机场
-  - 🇸🇪 [ss]直连-瑞典 - 机场
-  - 🇹🇭 [ss]直连-泰国 - 机场
-  - 🇹🇷 [ss]直连-土耳其 - 机场
-  - 🇪🇸 [ss]直连-西班牙 - 机场
-  - 🇮🇹 [ss]直连-意大利 - 机场
-  - 🇮🇩 [ss]直连-印度尼西亚 - 机场
-  - 🇻🇳 [ss]直连-越南 - 机场
+  proxies: &id008
+  - ℹ️ 官网 slvp.nxxbbf.com - ⚡闪连一元公益机场
+  - ℹ️ 无法连接到官网重新导入订阅 - ⚡闪连一元公益机场
+  - 🇰🇷 韩国 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇰🇷 韩国 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇰🇷 韩国 (广港)3x1 - ⚡闪连一元公益机场
+  - 🇹🇷 土耳其 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇹🇷 土耳其 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇹🇷 土耳其 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇮🇸 冰岛 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇮🇸 冰岛 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇮🇸 冰岛 (广港)3x1 - ⚡闪连一元公益机场
+  - 🇮🇳 印度 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇮🇳 印度 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇮🇳 印度 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇧🇷 巴西 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇧🇷 巴西 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇧🇷 巴西 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇮🇱 以色列 (广港)1x1 - ⚡闪连一元公益机场
+  - 🇮🇱 以色列 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇮🇱 以色列 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇲🇽 墨西哥 (广港)1 x1 - ⚡闪连一元公益机场
+  - 🇲🇽 墨西哥 (广港)2 x1 - ⚡闪连一元公益机场
+  - 🇲🇽 墨西哥 (广港)3 x1 - ⚡闪连一元公益机场
+  - 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场
+  - 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场
+  - 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   proxies: *id003
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id005
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: '🇭🇰 [ss]联通线路-香港-02 - 机场', server: zz002.airport.lat, port: 20841, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇭🇰 [ss]联通线路-香港-01 - 机场', server: zz002.airport.lat, port: 25389, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇸🇬 [ss]联通线路-新加坡-02 - 机场', server: zz002.airport.lat, port: 47026, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇯🇵 [ss]联通线路-日本 - 机场', server: zz002.airport.lat, port: 43123, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇹🇭 [ss]联通线路-泰国 - 机场', server: zz002.airport.lat, port: 31579, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇺🇸 [ss]联通线路-美国 - 机场', server: zz002.airport.lat, port: 26111, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇲🇾 [ss]联通线路-马来西亚 - 机场', server: zz002.airport.lat, port: 37083, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇻🇳 [ss]联通线路-越南 - 机场', server: zz002.airport.lat, port: 51196, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇮🇹 [ss]联通线路-意大利 - 机场', server: zz002.airport.lat, port: 20081, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇮🇩 [ss]联通线路-印度尼西亚 - 机场', server: zz002.airport.lat, port: 11009, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇷🇺 [ss]联通线路-俄罗斯 - 机场', server: zz002.airport.lat, port: 22524, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇩🇪 [ss]联通线路-德国 - 机场', server: zz002.airport.lat, port: 36617, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇫🇷 [ss]联通线路-法国 - 机场', server: zz002.airport.lat, port: 21160, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇫🇮 [ss]联通线路-芬兰 - 机场', server: zz002.airport.lat, port: 14037, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇰🇿 [ss]联通线路-哈萨克斯坦 - 机场', server: zz002.airport.lat, port: 34739, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇰🇷 [ss]联通线路-韩国 - 机场', server: zz002.airport.lat, port: 21140, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇳🇱 [ss]联通线路-荷兰 - 机场', server: zz002.airport.lat, port: 26491, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇷🇴 [ss]联通线路-罗马尼亚 - 机场', server: zz002.airport.lat, port: 38271, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇵🇹 [ss]联通线路-葡萄牙 - 机场', server: zz002.airport.lat, port: 22947, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '[ss]联通线路-阿拉伯联合酋长国 - 机场', server: zz002.airport.lat, port: 42699, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇸🇪 [ss]联通线路-瑞典 - 机场', server: zz002.airport.lat, port: 51492, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇹🇷 [ss]联通线路-土耳其 - 机场', server: zz002.airport.lat, port: 35695, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇪🇸 [ss]联通线路-西班牙 - 机场', server: zz002.airport.lat, port: 40913, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '[ss]直连-阿拉伯联合酋长国 - 机场', server: ae01.airport.lat, port: 20910, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇩🇪 [ss]直连-德国 - 机场', server: de01.airport.lat, port: 20200, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇷🇺 [ss]直连-俄罗斯 - 机场', server: ru01.airport.lat, port: 20580, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇫🇷 [ss]直连-法国 - 机场', server: fr01.airport.lat, port: 21160, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇫🇮 [ss]直连-芬兰 - 机场', server: fi01.airport.lat, port: 20810, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇰🇿 [ss]直连-哈萨克斯坦 - 机场', server: kz01.airport.lat, port: 20890, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇰🇷 [ss]直连-韩国 - 机场', server: kr01.airport.lat, port: 21140, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇳🇱 [ss]直连-荷兰 - 机场', server: nl01.airport.lat, port: 20740, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇷🇴 [ss]直连-罗马尼亚 - 机场', server: ro01.airport.lat, port: 20750, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇲🇾 [ss]直连-马来西亚 - 机场', server: my01.airport.lat, port: 20020, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇺🇸 [ss]直连-美国 - 机场', server: us01.airport.lat, port: 20830, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇵🇹 [ss]直连-葡萄牙 - 机场', server: pt01.airport.lat, port: 20610, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇯🇵 [ss]直连-日本 - 机场', server: jp01.airport.lat, port: 20730, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇸🇪 [ss]直连-瑞典 - 机场', server: se01.airport.lat, port: 22490, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇹🇭 [ss]直连-泰国 - 机场', server: th01.airport.lat, port: 20180, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇹🇷 [ss]直连-土耳其 - 机场', server: tr01.airport.lat, port: 20820, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇪🇸 [ss]直连-西班牙 - 机场', server: es01.airport.lat, port: 20600, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇭🇰 [ss]直连-香港-01 - 机场', server: hk1.airport.lat, port: 1000, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇭🇰 [ss]直连-香港-02 - 机场', server: hk01.airport.lat, port: 20840, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇸🇬 [ss]直连-新加坡-02 - 机场', server: sg01.airport.lat, port: 20850, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇮🇹 [ss]直连-意大利 - 机场', server: it01.airport.lat, port: 20080, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇮🇩 [ss]直连-印度尼西亚 - 机场', server: id01.airport.lat, port: 20900, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
-- {name: '🇻🇳 [ss]直连-越南 - 机场', server: vn01.airport.lat, port: 20870, type: ss, cipher: aes-128-gcm, password: 3f2c3777-fa5c-472e-83d7-bb42cfc9f14b, udp: true}
+- {name: ℹ️ 官网 slvp.nxxbbf.com - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: ℹ️ 无法连接到官网重新导入订阅 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇰🇷 韩国 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 43295, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇰🇷 韩国 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 43295, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇰🇷 韩国 (广港)3x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 43295, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇷 土耳其 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 54693, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇷 土耳其 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 54693, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇷 土耳其 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 54693, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇮🇸 冰岛 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 32009, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇮🇸 冰岛 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 32009, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇮🇸 冰岛 (广港)3x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 32009, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇮🇳 印度 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 17254, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇮🇳 印度 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 17254, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇮🇳 印度 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 17254, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇧🇷 巴西 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 57577, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇧🇷 巴西 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 57577, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇧🇷 巴西 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 57577, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇮🇱 以色列 (广港)1x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 30348, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇮🇱 以色列 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 30348, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇮🇱 以色列 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 30348, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇲🇽 墨西哥 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 48907, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇲🇽 墨西哥 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 48907, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇲🇽 墨西哥 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 48907, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
+- {name: 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场, server: mgmg2.casvre.top, port: 5601, type: ss, cipher: chacha20-ietf-poly1305, password: eb2eaf29-704a-4988-bf6c-8270d8731053, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
