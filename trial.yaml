@@ -48,6 +48,26 @@ proxy-groups:
   - 🇩🇪 德国-v6|03*0.5倍率 - 悦云
   - 🇳🇱 【荷兰05】*0.5倍率 - 悦云
   - 🇩🇪 【德国06】*0.5倍率 - 悦云
+  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
+  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
+  - 🇰🇷 ss(广移)韩国1 - 雷达
+  - 🇰🇷 ss(广移)韩国2 - 雷达
+  - 🇲🇾 ss(广移)马来西亚1 - 雷达
+  - 🇲🇾 ss(广移)马来西亚2 - 雷达
+  - 🇮🇱 ss(广移)以色列1 - 雷达
+  - 🇮🇱 ss(广移)以色列2 - 雷达
+  - 🇮🇳 ss(广移)印度1 - 雷达
+  - 🇮🇳 ss(广移)印度2 - 雷达
+  - 🇹🇷 ss(广移)土耳其1 - 雷达
+  - 🇹🇷 ss(广移)土耳其2 - 雷达
+  - 🇮🇸 ss(广移)冰岛1 - 雷达
+  - 🇮🇸 ss(广移)冰岛2 - 雷达
+  - 🇧🇷 ss(广移) 巴西1 - 雷达
+  - 🇧🇷 ss(广移)巴西2 - 雷达
+  - 🇲🇽 ss(广移)墨西哥1 - 雷达
+  - 🇲🇽 ss(广移)墨西哥2 - 雷达
+  - 🇹🇭 ss(广移)泰国1 - 雷达
+  - 🇹🇭 ss(广移)泰国2 - 雷达
   - 🇮🇪 爱尔兰-都柏林 - 神盾
   - soga002 - v2b123
   - soga001 - v2b123
@@ -80,6 +100,10 @@ proxy-groups:
   - 🇯🇵 日本01 - 悦云
   - 🇯🇵 日本02 - 悦云
   - 🇯🇵 日本03 - 悦云
+  - 🇯🇵 ss(广移)日本1 - 雷达
+  - 🇯🇵 ss(广移)日本2 - 雷达
+  - 🇯🇵 ss(广移)日本4 - 雷达
+  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇯🇵 [电信专线] 日本 x A区 - 南北云
   - 🇯🇵 [联通专线] 日本 x A区 - 南北云
   - 🇯🇵 [移动专线] 日本 x A区 - 南北云
@@ -91,12 +115,16 @@ proxy-groups:
   - 🇭🇰 香港-v6|08 - 悦云
   - 🇭🇰 香港-v4|02 - 悦云
   - 🇭🇰 香港03 - 悦云
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 香港-线路1 - 神盾
   - 🇭🇰 [电信专线] 香港 x A区 - 南北云
   - 🇭🇰 [联通专线] 香港 x A区 - 南北云
   - 🇭🇰 [移动专线] 香港 x A区 - 南北云
   - 🇸🇬 新加坡核心节点-01 - 快云加速
   - 🇸🇬 新加坡边缘节点-02 - 快云加速
+  - 🇸🇬 ss(广移)新加坡 1 - 雷达
+  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 [电信专线] 新加坡 x A区 - 南北云
   - 🇸🇬 [联通专线] 新加坡 x A区 - 南北云
   - 🇸🇬 [移动专线] 新加坡 x A区 - 南北云
@@ -108,6 +136,10 @@ proxy-groups:
   - 🇺🇸 美国04 - 悦云
   - 🇺🇸 美国05 - 悦云
   - 🇺🇸 美国07 - 悦云
+  - 🇺🇸 ss(广移)美国1 - 雷达
+  - 🇺🇸 ss(广移)美国2 - 雷达
+  - 🇺🇸 ss(广移)美国2-1 - 雷达
+  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇺🇸 美国高速节点1 - 新云游
   - 🇺🇸 [电信专线] 美国 x A区 - 南北云
   - 🇺🇸 [联通专线] 美国 x A区 - 南北云
@@ -246,26 +278,6 @@ proxy-groups:
   - 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场
-  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
-  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
-  - 🇰🇷 ss(广移)韩国1 - 雷达
-  - 🇰🇷 ss(广移)韩国2 - 雷达
-  - 🇲🇾 ss(广移)马来西亚1 - 雷达
-  - 🇲🇾 ss(广移)马来西亚2 - 雷达
-  - 🇮🇱 ss(广移)以色列1 - 雷达
-  - 🇮🇱 ss(广移)以色列2 - 雷达
-  - 🇮🇳 ss(广移)印度1 - 雷达
-  - 🇮🇳 ss(广移)印度2 - 雷达
-  - 🇹🇷 ss(广移)土耳其1 - 雷达
-  - 🇹🇷 ss(广移)土耳其2 - 雷达
-  - 🇮🇸 ss(广移)冰岛1 - 雷达
-  - 🇮🇸 ss(广移)冰岛2 - 雷达
-  - 🇧🇷 ss(广移) 巴西1 - 雷达
-  - 🇧🇷 ss(广移)巴西2 - 雷达
-  - 🇲🇽 ss(广移)墨西哥1 - 雷达
-  - 🇲🇽 ss(广移)墨西哥2 - 雷达
-  - 🇹🇭 ss(广移)泰国1 - 雷达
-  - 🇹🇭 ss(广移)泰国2 - 雷达
   - ℹ️ 官网 slvp.nxxbbf.com - ⚡闪连一元公益机场
   - ℹ️ 无法连接到官网重新导入订阅 - ⚡闪连一元公益机场
   - 🇰🇷 韩国 (广港)1 x1 - ⚡闪连一元公益机场
@@ -292,108 +304,60 @@ proxy-groups:
   - 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场
-  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
-  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
-  - 🇰🇷 ss(广移)韩国1 - 雷达
-  - 🇰🇷 ss(广移)韩国2 - 雷达
-  - 🇲🇾 ss(广移)马来西亚1 - 雷达
-  - 🇲🇾 ss(广移)马来西亚2 - 雷达
-  - 🇮🇱 ss(广移)以色列1 - 雷达
-  - 🇮🇱 ss(广移)以色列2 - 雷达
-  - 🇮🇳 ss(广移)印度1 - 雷达
-  - 🇮🇳 ss(广移)印度2 - 雷达
-  - 🇹🇷 ss(广移)土耳其1 - 雷达
-  - 🇹🇷 ss(广移)土耳其2 - 雷达
-  - 🇮🇸 ss(广移)冰岛1 - 雷达
-  - 🇮🇸 ss(广移)冰岛2 - 雷达
-  - 🇧🇷 ss(广移) 巴西1 - 雷达
-  - 🇧🇷 ss(广移)巴西2 - 雷达
-  - 🇲🇽 ss(广移)墨西哥1 - 雷达
-  - 🇲🇽 ss(广移)墨西哥2 - 雷达
-  - 🇹🇭 ss(广移)泰国1 - 雷达
-  - 🇹🇭 ss(广移)泰国2 - 雷达
   - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场
-  - 🇸🇬 ss(广移)新加坡 1 - 雷达
-  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场
-  - 🇸🇬 ss(广移)新加坡 1 - 雷达
-  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场
-  - 🇯🇵 ss(广移)日本1 - 雷达
-  - 🇯🇵 ss(广移)日本2 - 雷达
-  - 🇯🇵 ss(广移)日本4 - 雷达
-  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场
-  - 🇯🇵 ss(广移)日本1 - 雷达
-  - 🇯🇵 ss(广移)日本2 - 雷达
-  - 🇯🇵 ss(广移)日本4 - 雷达
-  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
+  - 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场
+  - 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
+  - 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场
   - 🇹🇼 ss(广移)台湾1 - 雷达
   - 🇹🇼 ss(广移)台湾2 - 雷达
   - 🇹🇼 ss(广移)台湾2-1 - 雷达
   - 🇹🇼 ss(广移)台湾2-2 - 雷达
-  - 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场
-  - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
-  - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
-  - 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场
-  - 🇺🇸 ss(广移)美国1 - 雷达
-  - 🇺🇸 ss(广移)美国2 - 雷达
-  - 🇺🇸 ss(广移)美国2-1 - 雷达
-  - 🇺🇸 ss(广移)美国2-2 - 雷达
-  - 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场
-  - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
-  - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
-  - 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场
-  - 🇺🇸 ss(广移)美国1 - 雷达
-  - 🇺🇸 ss(广移)美国2 - 雷达
-  - 🇺🇸 ss(广移)美国2-1 - 雷达
-  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇹🇼 台湾高速节点 - 新云游
   - 🇹🇼 台湾高速节点2 - 新云游
   - 🇹🇼 台湾高速节点3 - 新云游
@@ -467,6 +431,8 @@ proxy-groups:
   - 🇭🇰 香港-v6|08 - 悦云
   - 🇭🇰 香港-v4|02 - 悦云
   - 🇭🇰 香港03 - 悦云
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 香港-线路1 - 神盾
   - 🇭🇰 [电信专线] 香港 x A区 - 南北云
   - 🇭🇰 [联通专线] 香港 x A区 - 南北云
@@ -501,16 +467,12 @@ proxy-groups:
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -523,10 +485,6 @@ proxy-groups:
   - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场
@@ -557,6 +515,8 @@ proxy-groups:
   - 🇭🇰 香港-v6|08 - 悦云
   - 🇭🇰 香港-v4|02 - 悦云
   - 🇭🇰 香港03 - 悦云
+  - 🇭🇰 ss(广移)香港1 - 雷达
+  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 香港-线路1 - 神盾
   - 🇭🇰 [电信专线] 香港 x A区 - 南北云
   - 🇭🇰 [联通专线] 香港 x A区 - 南北云
@@ -599,26 +559,18 @@ proxy-groups:
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场
   - 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场
-  - 🇭🇰 ss(广移)香港1 - 雷达
-  - 🇭🇰 ss(广移)香港2 - 雷达
   - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场
-  - 🇹🇼 ss(广移)台湾1 - 雷达
-  - 🇹🇼 ss(广移)台湾2 - 雷达
-  - 🇹🇼 ss(广移)台湾2-1 - 雷达
-  - 🇹🇼 ss(广移)台湾2-2 - 雷达
   - 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场
   - 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场
@@ -647,6 +599,8 @@ proxy-groups:
   proxies: &id005
   - 🇸🇬 新加坡核心节点-01 - 快云加速
   - 🇸🇬 新加坡边缘节点-02 - 快云加速
+  - 🇸🇬 ss(广移)新加坡 1 - 雷达
+  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 [电信专线] 新加坡 x A区 - 南北云
   - 🇸🇬 [联通专线] 新加坡 x A区 - 南北云
   - 🇸🇬 [移动专线] 新加坡 x A区 - 南北云
@@ -668,16 +622,12 @@ proxy-groups:
   - 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场
-  - 🇸🇬 ss(广移)新加坡 1 - 雷达
-  - 🇸🇬 ss(广移)新加坡 2 - 雷达
   - 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场
   - 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场
-  - 🇸🇬 ss(广移)新加坡 1 - 雷达
-  - 🇸🇬 ss(广移)新加坡 2 - 雷达
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -695,6 +645,10 @@ proxy-groups:
   - 🇯🇵 日本01 - 悦云
   - 🇯🇵 日本02 - 悦云
   - 🇯🇵 日本03 - 悦云
+  - 🇯🇵 ss(广移)日本1 - 雷达
+  - 🇯🇵 ss(广移)日本2 - 雷达
+  - 🇯🇵 ss(广移)日本4 - 雷达
+  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇯🇵 [电信专线] 日本 x A区 - 南北云
   - 🇯🇵 [联通专线] 日本 x A区 - 南北云
   - 🇯🇵 [移动专线] 日本 x A区 - 南北云
@@ -709,17 +663,9 @@ proxy-groups:
   - 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场
-  - 🇯🇵 ss(广移)日本1 - 雷达
-  - 🇯🇵 ss(广移)日本2 - 雷达
-  - 🇯🇵 ss(广移)日本4 - 雷达
-  - 🇯🇵 ss(广移)日本3 - 雷达
   - 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场
   - 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场
-  - 🇯🇵 ss(广移)日本1 - 雷达
-  - 🇯🇵 ss(广移)日本2 - 雷达
-  - 🇯🇵 ss(广移)日本4 - 雷达
-  - 🇯🇵 ss(广移)日本3 - 雷达
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -734,6 +680,10 @@ proxy-groups:
   - 🇺🇸 美国04 - 悦云
   - 🇺🇸 美国05 - 悦云
   - 🇺🇸 美国07 - 悦云
+  - 🇺🇸 ss(广移)美国1 - 雷达
+  - 🇺🇸 ss(广移)美国2 - 雷达
+  - 🇺🇸 ss(广移)美国2-1 - 雷达
+  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇺🇸 美国高速节点1 - 新云游
   - 🇺🇸 [电信专线] 美国 x A区 - 南北云
   - 🇺🇸 [联通专线] 美国 x A区 - 南北云
@@ -750,18 +700,10 @@ proxy-groups:
   - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场
-  - 🇺🇸 ss(广移)美国1 - 雷达
-  - 🇺🇸 ss(广移)美国2 - 雷达
-  - 🇺🇸 ss(广移)美国2-1 - 雷达
-  - 🇺🇸 ss(广移)美国2-2 - 雷达
   - 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场
   - 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场
-  - 🇺🇸 ss(广移)美国1 - 雷达
-  - 🇺🇸 ss(广移)美国2 - 雷达
-  - 🇺🇸 ss(广移)美国2-1 - 雷达
-  - 🇺🇸 ss(广移)美国2-2 - 雷达
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -783,6 +725,26 @@ proxy-groups:
   - 🇩🇪 德国-v6|03*0.5倍率 - 悦云
   - 🇳🇱 【荷兰05】*0.5倍率 - 悦云
   - 🇩🇪 【德国06】*0.5倍率 - 悦云
+  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
+  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
+  - 🇰🇷 ss(广移)韩国1 - 雷达
+  - 🇰🇷 ss(广移)韩国2 - 雷达
+  - 🇲🇾 ss(广移)马来西亚1 - 雷达
+  - 🇲🇾 ss(广移)马来西亚2 - 雷达
+  - 🇮🇱 ss(广移)以色列1 - 雷达
+  - 🇮🇱 ss(广移)以色列2 - 雷达
+  - 🇮🇳 ss(广移)印度1 - 雷达
+  - 🇮🇳 ss(广移)印度2 - 雷达
+  - 🇹🇷 ss(广移)土耳其1 - 雷达
+  - 🇹🇷 ss(广移)土耳其2 - 雷达
+  - 🇮🇸 ss(广移)冰岛1 - 雷达
+  - 🇮🇸 ss(广移)冰岛2 - 雷达
+  - 🇧🇷 ss(广移) 巴西1 - 雷达
+  - 🇧🇷 ss(广移)巴西2 - 雷达
+  - 🇲🇽 ss(广移)墨西哥1 - 雷达
+  - 🇲🇽 ss(广移)墨西哥2 - 雷达
+  - 🇹🇭 ss(广移)泰国1 - 雷达
+  - 🇹🇭 ss(广移)泰国2 - 雷达
   - 🇮🇪 爱尔兰-都柏林 - 神盾
   - soga002 - v2b123
   - soga001 - v2b123
@@ -878,26 +840,6 @@ proxy-groups:
   - 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场
-  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
-  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
-  - 🇰🇷 ss(广移)韩国1 - 雷达
-  - 🇰🇷 ss(广移)韩国2 - 雷达
-  - 🇲🇾 ss(广移)马来西亚1 - 雷达
-  - 🇲🇾 ss(广移)马来西亚2 - 雷达
-  - 🇮🇱 ss(广移)以色列1 - 雷达
-  - 🇮🇱 ss(广移)以色列2 - 雷达
-  - 🇮🇳 ss(广移)印度1 - 雷达
-  - 🇮🇳 ss(广移)印度2 - 雷达
-  - 🇹🇷 ss(广移)土耳其1 - 雷达
-  - 🇹🇷 ss(广移)土耳其2 - 雷达
-  - 🇮🇸 ss(广移)冰岛1 - 雷达
-  - 🇮🇸 ss(广移)冰岛2 - 雷达
-  - 🇧🇷 ss(广移) 巴西1 - 雷达
-  - 🇧🇷 ss(广移)巴西2 - 雷达
-  - 🇲🇽 ss(广移)墨西哥1 - 雷达
-  - 🇲🇽 ss(广移)墨西哥2 - 雷达
-  - 🇹🇭 ss(广移)泰国1 - 雷达
-  - 🇹🇭 ss(广移)泰国2 - 雷达
   - ℹ️ 官网 slvp.nxxbbf.com - ⚡闪连一元公益机场
   - ℹ️ 无法连接到官网重新导入订阅 - ⚡闪连一元公益机场
   - 🇰🇷 韩国 (广港)1 x1 - ⚡闪连一元公益机场
@@ -924,26 +866,6 @@ proxy-groups:
   - 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场
   - 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场
-  - ℹ️ 无法连接请到官网导入订阅更新 - 雷达
-  - ℹ️ 试用1小时 请到官网新购套餐 - 雷达
-  - 🇰🇷 ss(广移)韩国1 - 雷达
-  - 🇰🇷 ss(广移)韩国2 - 雷达
-  - 🇲🇾 ss(广移)马来西亚1 - 雷达
-  - 🇲🇾 ss(广移)马来西亚2 - 雷达
-  - 🇮🇱 ss(广移)以色列1 - 雷达
-  - 🇮🇱 ss(广移)以色列2 - 雷达
-  - 🇮🇳 ss(广移)印度1 - 雷达
-  - 🇮🇳 ss(广移)印度2 - 雷达
-  - 🇹🇷 ss(广移)土耳其1 - 雷达
-  - 🇹🇷 ss(广移)土耳其2 - 雷达
-  - 🇮🇸 ss(广移)冰岛1 - 雷达
-  - 🇮🇸 ss(广移)冰岛2 - 雷达
-  - 🇧🇷 ss(广移) 巴西1 - 雷达
-  - 🇧🇷 ss(广移)巴西2 - 雷达
-  - 🇲🇽 ss(广移)墨西哥1 - 雷达
-  - 🇲🇽 ss(广移)墨西哥2 - 雷达
-  - 🇹🇭 ss(广移)泰国1 - 雷达
-  - 🇹🇭 ss(广移)泰国2 - 雷达
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -1007,57 +929,57 @@ proxies:
 - {name: 🇩🇪 DE-Nuremberg - 脉冲云, server: gyjd.yy9866.com, port: 22425, type: ss, cipher: chacha20-ietf-poly1305, password: 7b8f2946-64ae-4f83-9090-01df83af4cb8, udp: true}
 - {name: 🇰🇷 KR-Seoul - 脉冲云, server: gyjd.yy9866.com, port: 27828, type: ss, cipher: chacha20-ietf-poly1305, password: 7b8f2946-64ae-4f83-9090-01df83af4cb8, udp: true}
 - {name: 🇬🇧 OR英国-新疆国外节点 - 脉冲云, server: 79.72.95.9, port: 18419, type: vmess, uuid: 7b8f2946-64ae-4f83-9090-01df83af4cb8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场, server: mgmg2.casvre.top, port: 5601, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: ℹ️ 官网 slvp.nxxbbf.com - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: ℹ️ 无法连接到官网重新导入订阅 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇰🇷 韩国 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 43295, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇰🇷 韩国 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 43295, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇰🇷 韩国 (广港)3x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 43295, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇷 土耳其 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 54693, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇷 土耳其 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 54693, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇷 土耳其 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 54693, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇮🇸 冰岛 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 32009, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇮🇸 冰岛 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 32009, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇮🇸 冰岛 (广港)3x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 32009, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇮🇳 印度 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 17254, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇮🇳 印度 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 17254, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇮🇳 印度 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 17254, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇧🇷 巴西 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 57577, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇧🇷 巴西 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 57577, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇧🇷 巴西 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 57577, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇮🇱 以色列 (广港)1x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 30348, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇮🇱 以色列 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 30348, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇮🇱 以色列 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 30348, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇲🇽 墨西哥 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 48907, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇲🇽 墨西哥 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 48907, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇲🇽 墨西哥 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 48907, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
-- {name: 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: 085ce180-5f17-4ef0-a298-494a4b464e99, udp: true}
+- {name: 🇯🇵 日本1(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇯🇵 日本2(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇯🇵 日本3(广新) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 53387, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇺🇸 中转美国1(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇺🇸 中转美国2(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇺🇸 中转美国3(动态) x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 40063, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇺🇸 polo 美国 2 - ⚡闪连一元公益机场, server: mgmg2.casvre.top, port: 5601, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇼 台湾解锁 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇼 台湾解锁 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇼 台湾解锁 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇼 台湾解锁 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇼 台湾解锁 (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇼 台湾解锁 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 14187, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: ℹ️ 官网 slvp.nxxbbf.com - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: ℹ️ 无法连接到官网重新导入订阅 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇰🇷 韩国 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 43295, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇰🇷 韩国 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 43295, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇰🇷 韩国 (广港)3x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 43295, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇷 土耳其 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 54693, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇷 土耳其 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 54693, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇷 土耳其 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 54693, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇮🇸 冰岛 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 32009, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇮🇸 冰岛 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 32009, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇮🇸 冰岛 (广港)3x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 32009, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇮🇳 印度 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 17254, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇮🇳 印度 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 17254, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇮🇳 印度 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 17254, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇧🇷 巴西 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 57577, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇧🇷 巴西 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 57577, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇧🇷 巴西 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 57577, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇮🇱 以色列 (广港)1x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 30348, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇮🇱 以色列 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 30348, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇮🇱 以色列 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 30348, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇲🇽 墨西哥 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 48907, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇲🇽 墨西哥 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 48907, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇲🇽 墨西哥 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 48907, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇭 泰国 (广新)1  x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇭 泰国 (广新) 2  x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
+- {name: 🇹🇭 泰国 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 28675, type: ss, cipher: chacha20-ietf-poly1305, password: f9e485f8-5879-4b01-9442-ca783c885bd0, udp: true}
 - {name: 🇯🇵 日本-v6|02 - 悦云, server: greenchais2.668918.xyz, port: 22307, type: vmess, uuid: 2b6e452c-74cf-4097-8df9-c1800fdf17e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|04 - 悦云, server: greenip1.668918.xyz, port: 22306, type: vmess, uuid: 2b6e452c-74cf-4097-8df9-c1800fdf17e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|05 - 悦云, server: greenip2.668918.xyz, port: 22307, type: vmess, uuid: 2b6e452c-74cf-4097-8df9-c1800fdf17e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -1088,87 +1010,87 @@ proxies:
 - {name: 🇩🇪 德国-v6|03*0.5倍率 - 悦云, server: netcp3.616626.xyz, port: 22307, type: vmess, uuid: 2b6e452c-74cf-4097-8df9-c1800fdf17e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇳🇱 【荷兰05】*0.5倍率 - 悦云, server: nara.189.ovh, port: 10027, type: trojan, password: 2b6e452c-74cf-4097-8df9-c1800fdf17e2, sni: nara.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 【德国06】*0.5倍率 - 悦云, server: netcp4.616626.xyz, port: 10027, type: trojan, password: 2b6e452c-74cf-4097-8df9-c1800fdf17e2, sni: netcp4.616626.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇭🇰 ss(广移)香港1 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇭🇰 ss(广移)香港2 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇹🇼 ss(广移)台湾1 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2-1 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2-2 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: ℹ️ 无法连接请到官网导入订阅更新 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: ℹ️ 试用1小时 请到官网新购套餐 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇰🇷 ss(广移)韩国1 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇰🇷 ss(广移)韩国2 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇲🇾 ss(广移)马来西亚1 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇲🇾 ss(广移)马来西亚2 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇮🇱 ss(广移)以色列1 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇮🇱 ss(广移)以色列2 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇮🇳 ss(广移)印度1 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇮🇳 ss(广移)印度2 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇹🇷 ss(广移)土耳其1 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇹🇷 ss(广移)土耳其2 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇮🇸 ss(广移)冰岛1 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇮🇸 ss(广移)冰岛2 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇧🇷 ss(广移) 巴西1 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇧🇷 ss(广移)巴西2 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇲🇽 ss(广移)墨西哥1 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇲🇽 ss(广移)墨西哥2 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇹🇭 ss(广移)泰国1 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
-- {name: 🇹🇭 ss(广移)泰国2 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: aae62f96-54da-48d4-acd5-970b0b8605f9, udp: true}
+- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇭🇰 ss(广移)香港1 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇭🇰 ss(广移)香港2 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇹🇼 ss(广移)台湾1 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2-1 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2-2 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: ℹ️ 无法连接请到官网导入订阅更新 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: ℹ️ 试用1小时 请到官网新购套餐 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇰🇷 ss(广移)韩国1 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇰🇷 ss(广移)韩国2 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇲🇾 ss(广移)马来西亚1 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇲🇾 ss(广移)马来西亚2 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇮🇱 ss(广移)以色列1 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇮🇱 ss(广移)以色列2 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇮🇳 ss(广移)印度1 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇮🇳 ss(广移)印度2 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇹🇷 ss(广移)土耳其1 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇹🇷 ss(广移)土耳其2 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇮🇸 ss(广移)冰岛1 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇮🇸 ss(广移)冰岛2 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇧🇷 ss(广移) 巴西1 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇧🇷 ss(广移)巴西2 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇲🇽 ss(广移)墨西哥1 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇲🇽 ss(广移)墨西哥2 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇹🇭 ss(广移)泰国1 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
+- {name: 🇹🇭 ss(广移)泰国2 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: 0ba276b2-cbcb-41cd-a255-3f3a19f0959b, udp: true}
 - {name: 🇭🇰 香港-线路1 - 神盾, server: 156.224.77.215, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: 45bc84f0-c6eb-4284-9b89-58ad6b562959, udp: true}
 - {name: 🇮🇪 爱尔兰-都柏林 - 神盾, server: 107.175.187.181, port: 22800, type: ss, cipher: chacha20-ietf-poly1305, password: 45bc84f0-c6eb-4284-9b89-58ad6b562959, udp: true}
-- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: c5244c68-8aeb-40de-8eaa-d6beb80d6576, udp: true}
-- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: c5244c68-8aeb-40de-8eaa-d6beb80d6576, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 83492407-3b70-4609-8a38-05519c9be275, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 83492407-3b70-4609-8a38-05519c9be275, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 83492407-3b70-4609-8a38-05519c9be275, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 83492407-3b70-4609-8a38-05519c9be275, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 83492407-3b70-4609-8a38-05519c9be275, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇮🇳 [电信专线] 印度 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59069, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇮🇳 [联通专线] 印度 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50369, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇮🇳 [移动专线] 印度 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 54274, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇧🇷 [电信专线] 巴西 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59469, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇧🇷 [联通专线] 巴西 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57609, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇧🇷 [移动专线] 巴西 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 53131, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇻🇳 [电信专线] 越南 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52384, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇻🇳 [联通专线] 越南 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55774, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇻🇳 [移动专线] 越南 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58537, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇩🇪 [电信专线] 德国 xA区 - 南北云', server: zf-ct.bgblwow.org, port: 54881, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇩🇪 [联通专线] 德国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 51577, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇩🇪 [移动专线] 德国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58056, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇰🇷 [电信专线] 韩国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 57459, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇰🇷 [联通专线] 韩国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55064, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇰🇷 [移动专线] 韩国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55782, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇫🇷 [电信专线] 法国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59720, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇫🇷 [联通专线] 法国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50748, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
-- {name: '🇫🇷 [移动专线] 法国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59741, type: ss, cipher: chacha20-ietf-poly1305, password: 3bdbd2fd-ba0b-4ee3-a849-95609043f620, udp: true}
+- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: 5aa22e7c-a7bf-48b9-b716-4850aaf11042, udp: true}
+- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: 5aa22e7c-a7bf-48b9-b716-4850aaf11042, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: aa6b70b0-a7df-4240-83a8-4f82e6c121bf, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: aa6b70b0-a7df-4240-83a8-4f82e6c121bf, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: aa6b70b0-a7df-4240-83a8-4f82e6c121bf, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: aa6b70b0-a7df-4240-83a8-4f82e6c121bf, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: aa6b70b0-a7df-4240-83a8-4f82e6c121bf, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇮🇳 [电信专线] 印度 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59069, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇮🇳 [联通专线] 印度 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50369, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇮🇳 [移动专线] 印度 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 54274, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇧🇷 [电信专线] 巴西 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59469, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇧🇷 [联通专线] 巴西 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57609, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇧🇷 [移动专线] 巴西 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 53131, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇻🇳 [电信专线] 越南 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52384, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇻🇳 [联通专线] 越南 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55774, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇻🇳 [移动专线] 越南 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58537, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇩🇪 [电信专线] 德国 xA区 - 南北云', server: zf-ct.bgblwow.org, port: 54881, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇩🇪 [联通专线] 德国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 51577, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇩🇪 [移动专线] 德国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58056, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇰🇷 [电信专线] 韩国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 57459, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇰🇷 [联通专线] 韩国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55064, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇰🇷 [移动专线] 韩国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55782, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇫🇷 [电信专线] 法国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59720, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇫🇷 [联通专线] 法国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50748, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
+- {name: '🇫🇷 [移动专线] 法国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59741, type: ss, cipher: chacha20-ietf-poly1305, password: 3165033e-0ad9-4617-b0ea-9704a7775053, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
