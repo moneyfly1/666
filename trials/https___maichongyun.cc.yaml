@@ -45,6 +45,7 @@ proxy-groups:
   - 🇺🇸 US-Los Angeles-01 - 脉冲云
   - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
   - 🇫🇷 FR-Paris - 脉冲云
+  - 🇹🇭 TH-Thailand - 脉冲云
   - 🇲🇾 MY-Malaysia-PQ - 脉冲云
   - 🇦🇺 AU-Sydney - 脉冲云
   - 🇳🇱 NL-Amsterdam - 脉冲云
@@ -161,6 +162,7 @@ proxy-groups:
   tolerance: 100
   proxies: &id007
   - 🇫🇷 FR-Paris - 脉冲云
+  - 🇹🇭 TH-Thailand - 脉冲云
   - 🇲🇾 MY-Malaysia-PQ - 脉冲云
   - 🇦🇺 AU-Sydney - 脉冲云
   - 🇳🇱 NL-Amsterdam - 脉冲云
@@ -204,6 +206,7 @@ proxies:
 - {name: 🇺🇸 US-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: 12ae57b2-5cc6-471a-9a38-369aa289558d, udp: true}
 - {name: 🇺🇸 US-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: 12ae57b2-5cc6-471a-9a38-369aa289558d, udp: true}
 - {name: 🇫🇷 FR-Paris - 脉冲云, server: gyjd.yy9866.com, port: 16947, type: ss, cipher: chacha20-ietf-poly1305, password: 12ae57b2-5cc6-471a-9a38-369aa289558d, udp: true}
+- {name: 🇹🇭 TH-Thailand - 脉冲云, server: gyjd.yy9866.com, port: 36659, type: ss, cipher: chacha20-ietf-poly1305, password: 12ae57b2-5cc6-471a-9a38-369aa289558d, udp: true}
 - {name: 🇲🇾 MY-Malaysia-PQ - 脉冲云, server: gyjd.yy9866.com, port: 37681, type: ss, cipher: chacha20-ietf-poly1305, password: 12ae57b2-5cc6-471a-9a38-369aa289558d, udp: true}
 - {name: 🇦🇺 AU-Sydney - 脉冲云, server: gyjd.yy9866.com, port: 39263, type: ss, cipher: chacha20-ietf-poly1305, password: 12ae57b2-5cc6-471a-9a38-369aa289558d, udp: true}
 - {name: 🇳🇱 NL-Amsterdam - 脉冲云, server: gyjd.yy9866.com, port: 23262, type: ss, cipher: chacha20-ietf-poly1305, password: 12ae57b2-5cc6-471a-9a38-369aa289558d, udp: true}
