@@ -29,17 +29,43 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - TW
-  - SG
-  - JP
-  - US
-  - Other
+  proxies: &id001
+  - 🇭🇰标准|香港-01 - 美乐云
+  - 🇭🇰标准|香港-02 - 美乐云
+  - 🇭🇰标准|香港-03 - 美乐云
+  - 🇭🇰标准|香港-04 - 美乐云
+  - 🇭🇰标准|香港-05 - 美乐云
+  - 🇭🇰标准|香港-06 - 美乐云
+  - 🇭🇰IPLC高级|香港-01 X3 - 美乐云
+  - 🇹🇼标准|台湾-01 - 美乐云
+  - 🇹🇼标准|台湾-02 - 美乐云
+  - 🇹🇼标准|台湾-03 - 美乐云
+  - 🇹🇼标准|台湾-04 - 美乐云
+  - 🇹🇼IPLC高级|台湾X3 - 美乐云
+  - 🇸🇬标准|新加坡-01 - 美乐云
+  - 🇸🇬标准|新加坡-02 - 美乐云
+  - 🇸🇬标准|新加坡-03 - 美乐云
+  - 🇸🇬标准|新加坡-04 - 美乐云
+  - 🇸🇬IPLC高级|新加坡x3 - 美乐云
+  - 🇯🇵标准|日本-01 - 美乐云
+  - 🇯🇵标准|日本-02 - 美乐云
+  - 🇯🇵标准|日本-03 - 美乐云
+  - 🇯🇵标准|日本-04 - 美乐云
+  - 🇯🇵IPLC高级|日本x3 - 美乐云
+  - 🇺🇸标准|美国-01 - 美乐云
+  - 🇺🇸标准|美国-02 - 美乐云
+  - 🇺🇸标准|美国-03 - 美乐云
+  - 🇺🇸标准|美国-04 - 美乐云
+  - 🇺🇸IPLC高级|美国x3 - 美乐云
+  - 🇹🇭标准|泰国-01 - 美乐云
+  - 🇹🇭标准|泰国-02 - 美乐云
+  - 🇹🇭IPLC高级|泰国x3 - 美乐云
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -88,116 +114,140 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 🇭🇰标准|香港-01 - 美乐云
+  - 🇭🇰标准|香港-02 - 美乐云
+  - 🇭🇰标准|香港-03 - 美乐云
+  - 🇭🇰标准|香港-04 - 美乐云
+  - 🇭🇰标准|香港-05 - 美乐云
+  - 🇭🇰标准|香港-06 - 美乐云
+  - 🇭🇰IPLC高级|香港-01 X3 - 美乐云
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - TW
+  proxies: &id003
+  - 🇹🇼标准|台湾-01 - 美乐云
+  - 🇹🇼标准|台湾-02 - 美乐云
+  - 🇹🇼标准|台湾-03 - 美乐云
+  - 🇹🇼标准|台湾-04 - 美乐云
+  - 🇹🇼IPLC高级|台湾X3 - 美乐云
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - HK
-  - TW
+  proxies: &id004
+  - 🇭🇰标准|香港-01 - 美乐云
+  - 🇭🇰标准|香港-02 - 美乐云
+  - 🇭🇰标准|香港-03 - 美乐云
+  - 🇭🇰标准|香港-04 - 美乐云
+  - 🇭🇰标准|香港-05 - 美乐云
+  - 🇭🇰标准|香港-06 - 美乐云
+  - 🇭🇰IPLC高级|香港-01 X3 - 美乐云
+  - 🇹🇼标准|台湾-01 - 美乐云
+  - 🇹🇼标准|台湾-02 - 美乐云
+  - 🇹🇼标准|台湾-03 - 美乐云
+  - 🇹🇼标准|台湾-04 - 美乐云
+  - 🇹🇼IPLC高级|台湾X3 - 美乐云
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - SG
+  proxies: &id005
+  - 🇸🇬标准|新加坡-01 - 美乐云
+  - 🇸🇬标准|新加坡-02 - 美乐云
+  - 🇸🇬标准|新加坡-03 - 美乐云
+  - 🇸🇬标准|新加坡-04 - 美乐云
+  - 🇸🇬IPLC高级|新加坡x3 - 美乐云
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - JP
+  proxies: &id006
+  - 🇯🇵标准|日本-01 - 美乐云
+  - 🇯🇵标准|日本-02 - 美乐云
+  - 🇯🇵标准|日本-03 - 美乐云
+  - 🇯🇵标准|日本-04 - 美乐云
+  - 🇯🇵IPLC高级|日本x3 - 美乐云
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - US
+  proxies: &id007
+  - 🇺🇸标准|美国-01 - 美乐云
+  - 🇺🇸标准|美国-02 - 美乐云
+  - 🇺🇸标准|美国-03 - 美乐云
+  - 🇺🇸标准|美国-04 - 美乐云
+  - 🇺🇸IPLC高级|美国x3 - 美乐云
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - Other
+  proxies: &id008
+  - 🇹🇭标准|泰国-01 - 美乐云
+  - 🇹🇭标准|泰国-02 - 美乐云
+  - 🇹🇭IPLC高级|泰国x3 - 美乐云
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
+  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___slian.slianvpn.top/HK.yaml
-    interval: 180
-    path: trials_providers/https___slian.slianvpn.top/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___slian.slianvpn.top/TW.yaml
-    interval: 180
-    path: trials_providers/https___slian.slianvpn.top/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___slian.slianvpn.top/SG.yaml
-    interval: 180
-    path: trials_providers/https___slian.slianvpn.top/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___slian.slianvpn.top/JP.yaml
-    interval: 180
-    path: trials_providers/https___slian.slianvpn.top/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___slian.slianvpn.top/US.yaml
-    interval: 180
-    path: trials_providers/https___slian.slianvpn.top/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___slian.slianvpn.top/Other.yaml
-    interval: 180
-    path: trials_providers/https___slian.slianvpn.top/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id008
+proxies:
+- {name: 🇭🇰标准|香港-01 - 美乐云, server: mlc.cac.cab, port: 51001, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: hk.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰标准|香港-02 - 美乐云, server: mlc.cac.cab, port: 51001, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: hk.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰标准|香港-03 - 美乐云, server: mlc.cac.cab, port: 51002, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: hk.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰标准|香港-04 - 美乐云, server: mlc.cac.cab, port: 51002, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: hk.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰标准|香港-05 - 美乐云, server: mlc.cac.cab, port: 51111, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇭🇰标准|香港-06 - 美乐云, server: mlc.cac.cab, port: 51111, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇭🇰IPLC高级|香港-01 X3 - 美乐云, server: mlc.cac.cab, port: 52111, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇹🇼标准|台湾-01 - 美乐云, server: mlc.cac.cab, port: 51003, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: tw.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼标准|台湾-02 - 美乐云, server: mlc.cac.cab, port: 51003, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: tw.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼标准|台湾-03 - 美乐云, server: mlc.cac.cab, port: 51112, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇹🇼标准|台湾-04 - 美乐云, server: mlc.cac.cab, port: 51112, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇹🇼IPLC高级|台湾X3 - 美乐云, server: mlc.cac.cab, port: 52112, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇸🇬标准|新加坡-01 - 美乐云, server: mlc.cac.cab, port: 51004, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: sg.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬标准|新加坡-02 - 美乐云, server: mlc.cac.cab, port: 51004, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: sg.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬标准|新加坡-03 - 美乐云, server: mlc.cac.cab, port: 51113, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇸🇬标准|新加坡-04 - 美乐云, server: mlc.cac.cab, port: 51113, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇸🇬IPLC高级|新加坡x3 - 美乐云, server: mlc.cac.cab, port: 52113, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇯🇵标准|日本-01 - 美乐云, server: mlc.cac.cab, port: 51005, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: jp.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵标准|日本-02 - 美乐云, server: mlc.cac.cab, port: 51005, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: jp.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵标准|日本-03 - 美乐云, server: mlc.cac.cab, port: 51114, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇯🇵标准|日本-04 - 美乐云, server: mlc.cac.cab, port: 51114, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇯🇵IPLC高级|日本x3 - 美乐云, server: mlc.cac.cab, port: 52114, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇺🇸标准|美国-01 - 美乐云, server: mlc.cac.cab, port: 51006, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: us.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸标准|美国-02 - 美乐云, server: mlc.cac.cab, port: 51006, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: us.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸标准|美国-03 - 美乐云, server: mlc.cac.cab, port: 51115, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇺🇸标准|美国-04 - 美乐云, server: mlc.cac.cab, port: 51115, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇺🇸IPLC高级|美国x3 - 美乐云, server: mlc.cac.cab, port: 52115, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇹🇭标准|泰国-01 - 美乐云, server: mlc.cac.cab, port: 51116, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇹🇭标准|泰国-02 - 美乐云, server: mlc.cac.cab, port: 51116, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
+- {name: 🇹🇭IPLC高级|泰国x3 - 美乐云, server: mlc.cac.cab, port: 52116, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
