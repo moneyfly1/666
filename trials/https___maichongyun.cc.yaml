@@ -44,6 +44,7 @@ proxy-groups:
   - 🇯🇵 JP-Tokyo-wap-02 - 脉冲云
   - 🇺🇸 US-Los Angeles-01 - 脉冲云
   - 🇺🇸 US-Los Angeles-02-wap - 脉冲云
+  - 🇰🇷 KR-Seoul - 脉冲云
   - 🇫🇷 FR-Paris - 脉冲云
   - 🇹🇭 TH-Thailand - 脉冲云
   - 🇲🇾 MY-Malaysia-PQ - 脉冲云
@@ -55,7 +56,6 @@ proxy-groups:
   - 🇮🇹 IT-Milan - 脉冲云
   - 🇦🇹 AT-Vienna - 脉冲云
   - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
   - 🇬🇧 OR英国-新疆国外节点 - 脉冲云
   - 🇨🇳 CN-TaiBei-01 - 脉冲云
   - 🇨🇳 CN-TaiBei-02-wap - 脉冲云
@@ -161,6 +161,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id007
+  - 🇰🇷 KR-Seoul - 脉冲云
   - 🇫🇷 FR-Paris - 脉冲云
   - 🇹🇭 TH-Thailand - 脉冲云
   - 🇲🇾 MY-Malaysia-PQ - 脉冲云
@@ -172,7 +173,6 @@ proxy-groups:
   - 🇮🇹 IT-Milan - 脉冲云
   - 🇦🇹 AT-Vienna - 脉冲云
   - 🇩🇪 DE-Nuremberg - 脉冲云
-  - 🇰🇷 KR-Seoul - 脉冲云
   - 🇬🇧 OR英国-新疆国外节点 - 脉冲云
 - name: 👆🏻🇭🇰 ‍香港
   type: select
@@ -193,34 +193,34 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
-- {name: 🇭🇰 HK1-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19523, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇭🇰 HK2-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19528, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇭🇰 HK1-PQ(官网:mccc.yy9866.com) - 脉冲云, server: gyjd.yy9866.com, port: 49763, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇭🇰 HK2-PQ(官网:mccc.yy9866.com) - 脉冲云, server: gyjd.yy9866.com, port: 48388, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇨🇳 CN-TaiBei-01 - 脉冲云, server: gyjd.yy9866.com, port: 21525, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇨🇳 CN-TaiBei-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21589, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇸🇬 Singapore-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇸🇬 Singapore-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇯🇵 JP-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇯🇵 JP-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇺🇸 US-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇺🇸 US-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇫🇷 FR-Paris - 脉冲云, server: gyjd.yy9866.com, port: 16947, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇹🇭 TH-Thailand - 脉冲云, server: gyjd.yy9866.com, port: 36659, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇲🇾 MY-Malaysia-PQ - 脉冲云, server: gyjd.yy9866.com, port: 37681, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇦🇺 AU-Sydney - 脉冲云, server: gyjd.yy9866.com, port: 39263, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇳🇱 NL-Amsterdam - 脉冲云, server: gyjd.yy9866.com, port: 23262, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇨🇦 CA-Toronto - 脉冲云, server: gyjd.yy9866.com, port: 28322, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇬🇧 GB-London - 脉冲云, server: gyjd.yy9866.com, port: 45092, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇪🇸 ES-Madrid - 脉冲云, server: gyjd.yy9866.com, port: 34502, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇮🇹 IT-Milan - 脉冲云, server: gyjd.yy9866.com, port: 39062, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇦🇹 AT-Vienna - 脉冲云, server: gyjd.yy9866.com, port: 23896, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇩🇪 DE-Nuremberg - 脉冲云, server: gyjd.yy9866.com, port: 22425, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇰🇷 KR-Seoul - 脉冲云, server: gyjd.yy9866.com, port: 27828, type: ss, cipher: chacha20-ietf-poly1305, password: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, udp: true}
-- {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇬🇧 OR英国-新疆国外节点 - 脉冲云, server: 79.72.95.9, port: 18419, type: vmess, uuid: 25b7234a-98a6-4df4-accf-f6d9fa2e192f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 HK1-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19523, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇭🇰 HK2-SJY(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 19528, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇭🇰 HK1-PQ(官网:mccc.yy9866.com) - 脉冲云, server: gyjd.yy9866.com, port: 49763, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇭🇰 HK2-PQ(官网:mccc.yy9866.com) - 脉冲云, server: gyjd.yy9866.com, port: 48388, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇨🇳 CN-TaiBei-01 - 脉冲云, server: gyjd.yy9866.com, port: 21525, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇨🇳 CN-TaiBei-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21589, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇸🇬 Singapore-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇸🇬 Singapore-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇰🇷 KR-Seoul - 脉冲云, server: gyjd.yy9866.com, port: 27828, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇯🇵 JP-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇯🇵 JP-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇺🇸 US-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇺🇸 US-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇫🇷 FR-Paris - 脉冲云, server: gyjd.yy9866.com, port: 16947, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇹🇭 TH-Thailand - 脉冲云, server: gyjd.yy9866.com, port: 36659, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇲🇾 MY-Malaysia-PQ - 脉冲云, server: gyjd.yy9866.com, port: 37681, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇦🇺 AU-Sydney - 脉冲云, server: gyjd.yy9866.com, port: 39263, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇳🇱 NL-Amsterdam - 脉冲云, server: gyjd.yy9866.com, port: 23262, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇨🇦 CA-Toronto - 脉冲云, server: gyjd.yy9866.com, port: 28322, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇬🇧 GB-London - 脉冲云, server: gyjd.yy9866.com, port: 45092, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇪🇸 ES-Madrid - 脉冲云, server: gyjd.yy9866.com, port: 34502, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇮🇹 IT-Milan - 脉冲云, server: gyjd.yy9866.com, port: 39062, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇦🇹 AT-Vienna - 脉冲云, server: gyjd.yy9866.com, port: 23896, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇩🇪 DE-Nuremberg - 脉冲云, server: gyjd.yy9866.com, port: 22425, type: ss, cipher: chacha20-ietf-poly1305, password: c5474862-6a08-443c-92b2-bb7493475cef, udp: true}
+- {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: c5474862-6a08-443c-92b2-bb7493475cef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: c5474862-6a08-443c-92b2-bb7493475cef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: c5474862-6a08-443c-92b2-bb7493475cef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇬🇧 OR英国-新疆国外节点 - 脉冲云, server: 79.72.95.9, port: 18419, type: vmess, uuid: c5474862-6a08-443c-92b2-bb7493475cef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

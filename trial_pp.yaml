@@ -48,6 +48,10 @@ proxy-groups:
   - p_All_All_All_All_SG_SG_SG_SG
   - p_All_All_All_All_SG_SG_SG_SG
   - p_All_All_All_All_SG_SG_SG_SG
+  - p_All_All_All_All_Other_Other_Other_Other
+  - p_All_All_All_All_Other_Other_Other_Other
+  - p_All_All_All_All_Other_Other_Other_Other
+  - p_All_All_All_All_Other_Other_Other_Other
   - p_All_All_All_All_JP_JP_JP_JP
   - p_All_All_All_All_JP_JP_JP_JP
   - p_All_All_All_All_JP_JP_JP_JP
@@ -56,10 +60,6 @@ proxy-groups:
   - p_All_All_All_All_US_US_US_US
   - p_All_All_All_All_US_US_US_US
   - p_All_All_All_All_US_US_US_US
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
-  - p_All_All_All_All_Other_Other_Other_Other
   - p_All_All_Other_Other
   - p_All_All_Other_Other
   - p_All_All_HK_HK_CN_CN
@@ -340,6 +340,15 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
+  p_All_All_All_All_Other_Other_Other_Other:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/p_All_All_All_All_Other_Other_Other_Other.yaml
+    interval: 180
+    path: trials_providers/p_All_All_All_All_Other_Other_Other_Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
   p_All_All_All_All_JP_JP_JP_JP:
     type: http
     url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/p_All_All_All_All_JP_JP_JP_JP.yaml
@@ -354,15 +363,6 @@ proxy-providers:
     url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/p_All_All_All_All_US_US_US_US.yaml
     interval: 180
     path: trials_providers/p_All_All_All_All_US_US_US_US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_Other_Other_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/p_All_All_All_All_Other_Other_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_Other_Other_Other_Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
