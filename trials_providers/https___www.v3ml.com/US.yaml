@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸标准|美国-01 - 美乐云, server: mlc.cac.cab, port: 51006, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: us.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸标准|美国-02 - 美乐云, server: mlc.cac.cab, port: 51006, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: us.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸标准|美国-03 - 美乐云, server: mlc.cac.cab, port: 51115, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
-- {name: 🇺🇸标准|美国-04 - 美乐云, server: mlc.cac.cab, port: 51115, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
-- {name: 🇺🇸IPLC高级|美国x3 - 美乐云, server: mlc.cac.cab, port: 52115, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
