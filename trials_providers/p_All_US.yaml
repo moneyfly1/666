@@ -9,10 +9,10 @@ proxies:
 - {name: 🇺🇸 美国04 - 悦云, server: layercloud.189.ovh, port: 10021, type: trojan, password: 4dde9133-daaf-4911-b7a2-057187b79700, sni: layercloud.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国05 - 悦云, server: advin.189.ovh, port: 10027, type: trojan, password: 4dde9133-daaf-4911-b7a2-057187b79700, sni: advin.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国07 - 悦云, server: vir694.189.ovh, port: 10021, type: trojan, password: 4dde9133-daaf-4911-b7a2-057187b79700, sni: vir694.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 60e31743-13da-4040-8cca-aabc6acc9c2d, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 9eac7e7a-b61a-4631-ac12-e170d62eaf29, udp: true}
-- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 9eac7e7a-b61a-4631-ac12-e170d62eaf29, udp: true}
-- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 9eac7e7a-b61a-4631-ac12-e170d62eaf29, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: a4a18234-bca7-45bf-854b-1fcfb7f8d472, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 7471c540-5d8c-4eee-be96-322bc72c94ba, udp: true}
+- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 7471c540-5d8c-4eee-be96-322bc72c94ba, udp: true}
+- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 7471c540-5d8c-4eee-be96-322bc72c94ba, udp: true}
 - {name: 🇺🇸标准|美国-01 - 美乐云, server: mlc.cac.cab, port: 51006, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: us.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸标准|美国-02 - 美乐云, server: mlc.cac.cab, port: 51006, type: trojan, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, sni: us.01.naiun.bilibili.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸标准|美国-03 - 美乐云, server: mlc.cac.cab, port: 51115, type: ss, cipher: chacha20-ietf-poly1305, password: 68c8b706-d2a0-42e1-84b2-fabc863783b1, udp: true}
