@@ -4,6 +4,4 @@ proxies:
 - {name: ℹ️ 官网:kuaiyun666.xyz - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: ℹ️ 客服qq:1586932845 - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: ℹ️ 节点超时请更新订阅 - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇰🇷 韩国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 30967, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇹🇭 泰国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 48494, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇮🇩 印度尼西亚边缘节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 22665, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇰🇷 韩国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 22665, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
