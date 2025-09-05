@@ -11,6 +11,10 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
+  - 🇭🇰 ‍香港
+  - 🇺🇸 ‍美国
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇺🇸 ‍美国
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -19,8 +23,8 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - soga002 - v2b123
-  - soga001 - v2b123
+  - 🇭🇰 [vmess]VM香港HK - 新谷歌--好链接
+  - 🇺🇸 [vmess]VM美国US01 - 新谷歌--好链接
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -40,12 +44,16 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -54,9 +62,29 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 [vmess]VM香港HK - 新谷歌--好链接
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id003
+  - 🇺🇸 [vmess]VM美国US01 - 新谷歌--好链接
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id003
 proxies:
-- {name: soga002 - v2b123, server: 107.172.89.34, port: 39002, type: ss, cipher: chacha20-ietf-poly1305, password: 89ce110f-75ec-498d-8137-c3da8645fec1, udp: true}
-- {name: soga001 - v2b123, server: 107.172.89.34, port: 39001, type: ss, cipher: chacha20-ietf-poly1305, password: 89ce110f-75ec-498d-8137-c3da8645fec1, udp: true}
+- {name: '🇺🇸 [vmess]VM美国US01 - 新谷歌--好链接', server: vm1.zongse001.top, port: 42201, type: vmess, uuid: 1f50b7e3-b354-4eb3-b589-d54a3a5c7199, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vmess]VM香港HK - 新谷歌--好链接', server: vm2.zongse001.top, port: 42202, type: vmess, uuid: 1f50b7e3-b354-4eb3-b589-d54a3a5c7199, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
