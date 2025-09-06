@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇯🇵 [ss]联通线路-日本 - 机场', server: zz002.airport.lat, port: 43123, type: ss, cipher: aes-128-gcm, password: bba8c5d6-70f3-4014-baee-6f5a3ff8cdff, udp: true}
+- {name: '🇯🇵 [ss]直连-日本 - 机场', server: jp01.airport.lat, port: 20730, type: ss, cipher: aes-128-gcm, password: bba8c5d6-70f3-4014-baee-6f5a3ff8cdff, udp: true}
