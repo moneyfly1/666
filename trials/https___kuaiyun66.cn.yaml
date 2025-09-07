@@ -29,18 +29,19 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港核心节点-01 - 快云加速
-  - 🇭🇰 香港网关-02 - 快云加速
-  - 🇸🇬 新加坡核心节点-01 - 快云加速
-  - 🇸🇬 新加坡核心节点-02 - 快云加速
-  - 🇯🇵 日本核心节点-01 - 快云加速
-  - 🇯🇵 日本核心节点-02 - 快云加速
-  - 🇺🇸 美国核心节点-01 - 快云加速
-  - 🇺🇸 美国核心节点-02 - 快云加速
+  - 🇭🇰 香港节点-5G-01 - 快云加速
+  - 🇭🇰 香港节点-5G-02 - 快云加速
+  - 🇭🇰 香港节点-10G-03 - 快云加速
+  - 🇸🇬 新加坡节点-5G-01 - 快云加速
+  - 🇸🇬 新加坡节点-5G-02 - 快云加速
+  - 🇯🇵 日本节点-5G-01 - 快云加速
+  - 🇯🇵 日本节点-5G-02 - 快云加速
+  - 🇺🇸 美国节点-5G-02 - 快云加速
+  - 🇺🇸 美国节点-5G-01 - 快云加速
   - ℹ️ 官网:kuaiyun666.xyz - 快云加速
   - ℹ️ 客服qq:1586932845 - 快云加速
   - ℹ️ 节点超时请更新订阅 - 快云加速
-  - 🇰🇷 韩国核心节点-01 - 快云加速
+  - 🇰🇷 韩国节点-5G-01 - 快云加速
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -90,32 +91,33 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港核心节点-01 - 快云加速
-  - 🇭🇰 香港网关-02 - 快云加速
+  - 🇭🇰 香港节点-5G-01 - 快云加速
+  - 🇭🇰 香港节点-5G-02 - 快云加速
+  - 🇭🇰 香港节点-10G-03 - 快云加速
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇸🇬 新加坡核心节点-01 - 快云加速
-  - 🇸🇬 新加坡核心节点-02 - 快云加速
+  - 🇸🇬 新加坡节点-5G-01 - 快云加速
+  - 🇸🇬 新加坡节点-5G-02 - 快云加速
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇯🇵 日本核心节点-01 - 快云加速
-  - 🇯🇵 日本核心节点-02 - 快云加速
+  - 🇯🇵 日本节点-5G-01 - 快云加速
+  - 🇯🇵 日本节点-5G-02 - 快云加速
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
   proxies: &id005
-  - 🇺🇸 美国核心节点-01 - 快云加速
-  - 🇺🇸 美国核心节点-02 - 快云加速
+  - 🇺🇸 美国节点-5G-02 - 快云加速
+  - 🇺🇸 美国节点-5G-01 - 快云加速
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -125,7 +127,7 @@ proxy-groups:
   - ℹ️ 官网:kuaiyun666.xyz - 快云加速
   - ℹ️ 客服qq:1586932845 - 快云加速
   - ℹ️ 节点超时请更新订阅 - 快云加速
-  - 🇰🇷 韩国核心节点-01 - 快云加速
+  - 🇰🇷 韩国节点-5G-01 - 快云加速
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -145,15 +147,16 @@ proxies:
 - {name: ℹ️ 官网:kuaiyun666.xyz - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: ℹ️ 客服qq:1586932845 - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: ℹ️ 节点超时请更新订阅 - 快云加速, server: ddns.kuaiyun1.cn, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇭🇰 香港核心节点-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 32975, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇭🇰 香港网关-02 - 快云加速, server: ddns.kuaiyun1.cn, port: 15815, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本核心节点-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本核心节点-02 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇸🇬 新加坡核心节点-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 17869, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇸🇬 新加坡核心节点-02 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇺🇸 美国核心节点-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 30967, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇺🇸 美国核心节点-02 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 48494, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇰🇷 韩国核心节点-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 22665, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点-5G-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 32975, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点-5G-02 - 快云加速, server: ddns.kuaiyun1.cn, port: 15815, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点-5G-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 16540, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点-5G-02 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点-5G-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 17869, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点-5G-02 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇺🇸 美国节点-5G-02 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 48494, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇰🇷 韩国节点-5G-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 22665, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇺🇸 美国节点-5G-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 30967, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点-10G-03 - 快云加速, server: ddns.kuaiyun1.cn, port: 22224, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
