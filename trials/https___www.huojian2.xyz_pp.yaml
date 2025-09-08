@@ -12,9 +12,9 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
-  - 🇺🇸 ‍美国
+  - 🇯🇵 ‍日本
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇯🇵 ‍日本
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -22,7 +22,7 @@ proxy-groups:
   tolerance: 100
   use: &id001
   - HK
-  - US
+  - JP
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -49,9 +49,9 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
+  - 🇯🇵 ‍日本
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -65,32 +65,32 @@ proxy-groups:
   tolerance: 100
   use: &id002
   - HK
-- name: 🇺🇸 ‍美国
+- name: 🇯🇵 ‍日本
   type: url-test
-  tolerance: 300
+  tolerance: 100
   use: &id003
-  - US
+  - JP
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id003
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___xingoogle001.top/HK.yaml
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___www.huojian2.xyz/HK.yaml
     interval: 180
-    path: trials_providers/https___xingoogle001.top/HK.yaml
+    path: trials_providers/https___www.huojian2.xyz/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  US:
+  JP:
     type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___xingoogle001.top/US.yaml
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___www.huojian2.xyz/JP.yaml
     interval: 180
-    path: trials_providers/https___xingoogle001.top/US.yaml
+    path: trials_providers/https___www.huojian2.xyz/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
