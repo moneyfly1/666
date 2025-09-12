@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇺🇸 [vmess]VM美国US01 - 新谷歌--好链接', server: vm1.zongse001.top, port: 42201, type: vmess, uuid: 1f50b7e3-b354-4eb3-b589-d54a3a5c7199, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
