@@ -12,15 +12,11 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -29,17 +25,26 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - TW
-  - SG
-  - JP
-  - US
-  - Other
+  proxies: &id001
+  - 🇭🇰 香港节点-5G-01 - 快云加速
+  - 🇭🇰 香港节点-5G-02 - 快云加速
+  - 🇭🇰 香港节点-10G-03 - 快云加速
+  - 🇸🇬 新加坡节点-5G-01 - 快云加速
+  - 🇸🇬 新加坡节点-5G-02 - 快云加速
+  - 🇯🇵 日本节点-5G-02 - 快云加速
+  - 🇯🇵 日本办公VPN-5G - 快云加速
+  - 🇺🇸 美国节点-5G-02 - 快云加速
+  - 🇺🇸 美国节点-5G-01 - 快云加速
+  - ℹ️ 官网:kuaiyun666.xyz - 快云加速
+  - ℹ️ 售后客服qq:1586932845 - 快云加速
+  - ℹ️ 有问题联系售后客服qq - 快云加速
+  - 🇰🇷 韩国节点-5G-01 - 快云加速
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -57,24 +62,18 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
@@ -88,116 +87,76 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  tolerance: 100
-  use: &id003
-  - TW
-- name: 🇨🇳 ‍中国
-  type: url-test
-  tolerance: 100
-  use: &id004
-  - HK
-  - TW
+  proxies: &id002
+  - 🇭🇰 香港节点-5G-01 - 快云加速
+  - 🇭🇰 香港节点-5G-02 - 快云加速
+  - 🇭🇰 香港节点-10G-03 - 快云加速
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - SG
+  proxies: &id003
+  - 🇸🇬 新加坡节点-5G-01 - 快云加速
+  - 🇸🇬 新加坡节点-5G-02 - 快云加速
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - JP
+  proxies: &id004
+  - 🇯🇵 日本节点-5G-02 - 快云加速
+  - 🇯🇵 日本办公VPN-5G - 快云加速
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - US
+  proxies: &id005
+  - 🇺🇸 美国节点-5G-02 - 快云加速
+  - 🇺🇸 美国节点-5G-01 - 快云加速
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - Other
+  proxies: &id006
+  - ℹ️ 官网:kuaiyun666.xyz - 快云加速
+  - ℹ️ 售后客服qq:1586932845 - 快云加速
+  - ℹ️ 有问题联系售后客服qq - 快云加速
+  - 🇰🇷 韩国节点-5G-01 - 快云加速
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  use: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  use: *id004
+  proxies: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id003
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  proxies: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id005
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldld.whtjdasha.com/HK.yaml
-    interval: 180
-    path: trials_providers/https___ldld.whtjdasha.com/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldld.whtjdasha.com/TW.yaml
-    interval: 180
-    path: trials_providers/https___ldld.whtjdasha.com/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldld.whtjdasha.com/SG.yaml
-    interval: 180
-    path: trials_providers/https___ldld.whtjdasha.com/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldld.whtjdasha.com/JP.yaml
-    interval: 180
-    path: trials_providers/https___ldld.whtjdasha.com/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldld.whtjdasha.com/US.yaml
-    interval: 180
-    path: trials_providers/https___ldld.whtjdasha.com/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldld.whtjdasha.com/Other.yaml
-    interval: 180
-    path: trials_providers/https___ldld.whtjdasha.com/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id006
+proxies:
+- {name: ℹ️ 官网:kuaiyun666.xyz - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: ℹ️ 售后客服qq:1586932845 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 30967, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: ℹ️ 有问题联系售后客服qq - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 30967, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点-5G-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 42977, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点-5G-02 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 15815, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点-5G-02 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点-5G-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 17869, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点-5G-02 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇺🇸 美国节点-5G-02 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 48494, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇰🇷 韩国节点-5G-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 22665, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇺🇸 美国节点-5G-01 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 30967, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点-10G-03 - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 22224, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本办公VPN-5G - 快云加速, server: aa.cs.retardfindercoinbsc.com, port: 35026, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
