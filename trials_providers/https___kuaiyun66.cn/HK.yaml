@@ -3,6 +3,6 @@
 proxies:
 - {name: 🇭🇰 香港节点-5G-01 - 快云加速, server: ddns.kuaiyun66.cn, port: 25721, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇭🇰 香港节点-5G-02 - 快云加速, server: 47.83.135.61, port: 10004, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇭🇰 香港节点-10G-03 - 快云加速, server: 154.85.17.60, port: 10002, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点-10G-03 - 快云加速, server: ddns.kuaiyun66.cn, port: 22224, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇭🇰 香港节点-5G-03 - 快云加速, server: ddns.kuaiyun66.cn, port: 11904, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇭🇰 香港节点-5G-04 - 快云加速, server: ddns.kuaiyun66.cn, port: 15815, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
