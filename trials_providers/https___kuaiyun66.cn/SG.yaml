@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡节点-5G-01 - 快云加速, server: 54.255.87.145, port: 10007, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇸🇬 新加坡节点-5G-02 - 快云加速, server: 13.229.108.52, port: 30002, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点-5G-01 - 快云加速, server: dns.kuaiyun66.cn, port: 27881, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点-5G-02 - 快云加速, server: dns.kuaiyun66.cn, port: 13087, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇸🇬 新加坡节点-5G-03 - 快云加速, server: ddns.kuaiyun66.cn, port: 21018, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇸🇬 新加坡节点-5G-04 - 快云加速, server: ddns.kuaiyun66.cn, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
