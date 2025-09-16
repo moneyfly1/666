@@ -12,15 +12,11 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -33,42 +29,26 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
-  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
-  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
-  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
-  - 🇸🇬 [电信专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [联通专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [移动专线] 新加坡 x A区 - 南北云
-  - 🇯🇵 [电信专线] 日本 x A区 - 南北云
-  - 🇯🇵 [联通专线] 日本 x A区 - 南北云
-  - 🇯🇵 [移动专线] 日本 x A区 - 南北云
-  - 🇺🇸 [电信专线] 美国 x A区 - 南北云
-  - 🇺🇸 [联通专线] 美国 x A区 - 南北云
-  - 🇺🇸 [移动专线] 美国 x A区 - 南北云
-  - 🇮🇳 [电信专线] 印度 x A区 - 南北云
-  - 🇮🇳 [联通专线] 印度 x A区 - 南北云
-  - 🇮🇳 [移动专线] 印度 x A区 - 南北云
-  - 🇧🇷 [电信专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [联通专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [移动专线] 巴西 x A区 - 南北云
-  - 🇻🇳 [电信专线] 越南 x A区 - 南北云
-  - 🇻🇳 [联通专线] 越南 x A区 - 南北云
-  - 🇻🇳 [移动专线] 越南 x A区 - 南北云
-  - 🇩🇪 [电信专线] 德国 xA区 - 南北云
-  - 🇩🇪 [联通专线] 德国 x A区 - 南北云
-  - 🇩🇪 [移动专线] 德国 x A区 - 南北云
-  - 🇰🇷 [电信专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [联通专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [移动专线] 韩国 x A区 - 南北云
-  - 🇫🇷 [电信专线] 法国 x A区 - 南北云
-  - 🇫🇷 [联通专线] 法国 x A区 - 南北云
-  - 🇫🇷 [移动专线] 法国 x A区 - 南北云
-  - 🇨🇳官网地址：tsxspace.com - 南北云
-  - 🇨🇳注册试用1小时限1MB - 南北云
-  - 🇨🇳 ---------------------- - 南北云
+  - 🇭🇰 香港节点-5G-01 - 快云加速
+  - 🇭🇰 香港节点-5G-02 - 快云加速
+  - 🇭🇰 香港节点-10G-03 - 快云加速
+  - 🇭🇰 香港节点-5G-03 - 快云加速
+  - 🇸🇬 新加坡节点-5G-01 - 快云加速
+  - 🇸🇬 新加坡节点-5G-02 - 快云加速
+  - 🇸🇬 新加坡节点-5G-03 - 快云加速
+  - 🇸🇬 新加坡节点-5G-04 - 快云加速
+  - 🇯🇵 日本节点-5G-01 - 快云加速
+  - 🇯🇵 日本节点-5G-02 - 快云加速
+  - 🇯🇵 日本节点-5G-03 - 快云加速
+  - 🇺🇸 美国节点-5G-02 - 快云加速
+  - 🇺🇸 美国节点-5G-01 - 快云加速
+  - 🇺🇸 美国节点-5G-03 - 快云加速
+  - 🇺🇸 美国节点-5G-04 - 快云加速
+  - ℹ️ 官网:kuaiyun666.xyz - 快云加速
+  - ℹ️ 售后客服qq:1586932845 - 快云加速
+  - ℹ️ 有问题联系售后客服qq - 快云加速
+  - 🇰🇷 韩国节点-5G-01 - 快云加速
+  - 🇰🇷 韩国节点-5G-02 - 快云加速
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -89,24 +69,18 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
@@ -124,142 +98,86 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
-  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
-  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
-  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
-  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
-  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
-  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
-  - 🇨🇳官网地址：tsxspace.com - 南北云
-  - 🇨🇳注册试用1小时限1MB - 南北云
-  - 🇨🇳 ---------------------- - 南北云
+  - 🇭🇰 香港节点-5G-01 - 快云加速
+  - 🇭🇰 香港节点-5G-02 - 快云加速
+  - 🇭🇰 香港节点-10G-03 - 快云加速
+  - 🇭🇰 香港节点-5G-03 - 快云加速
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id005
-  - 🇸🇬 [电信专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [联通专线] 新加坡 x A区 - 南北云
-  - 🇸🇬 [移动专线] 新加坡 x A区 - 南北云
+  proxies: &id003
+  - 🇸🇬 新加坡节点-5G-01 - 快云加速
+  - 🇸🇬 新加坡节点-5G-02 - 快云加速
+  - 🇸🇬 新加坡节点-5G-03 - 快云加速
+  - 🇸🇬 新加坡节点-5G-04 - 快云加速
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id006
-  - 🇯🇵 [电信专线] 日本 x A区 - 南北云
-  - 🇯🇵 [联通专线] 日本 x A区 - 南北云
-  - 🇯🇵 [移动专线] 日本 x A区 - 南北云
+  proxies: &id004
+  - 🇯🇵 日本节点-5G-01 - 快云加速
+  - 🇯🇵 日本节点-5G-02 - 快云加速
+  - 🇯🇵 日本节点-5G-03 - 快云加速
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 [电信专线] 美国 x A区 - 南北云
-  - 🇺🇸 [联通专线] 美国 x A区 - 南北云
-  - 🇺🇸 [移动专线] 美国 x A区 - 南北云
+  proxies: &id005
+  - 🇺🇸 美国节点-5G-02 - 快云加速
+  - 🇺🇸 美国节点-5G-01 - 快云加速
+  - 🇺🇸 美国节点-5G-03 - 快云加速
+  - 🇺🇸 美国节点-5G-04 - 快云加速
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id008
-  - 🇮🇳 [电信专线] 印度 x A区 - 南北云
-  - 🇮🇳 [联通专线] 印度 x A区 - 南北云
-  - 🇮🇳 [移动专线] 印度 x A区 - 南北云
-  - 🇧🇷 [电信专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [联通专线] 巴西 x A区 - 南北云
-  - 🇧🇷 [移动专线] 巴西 x A区 - 南北云
-  - 🇻🇳 [电信专线] 越南 x A区 - 南北云
-  - 🇻🇳 [联通专线] 越南 x A区 - 南北云
-  - 🇻🇳 [移动专线] 越南 x A区 - 南北云
-  - 🇩🇪 [电信专线] 德国 xA区 - 南北云
-  - 🇩🇪 [联通专线] 德国 x A区 - 南北云
-  - 🇩🇪 [移动专线] 德国 x A区 - 南北云
-  - 🇰🇷 [电信专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [联通专线] 韩国 x A区 - 南北云
-  - 🇰🇷 [移动专线] 韩国 x A区 - 南北云
-  - 🇫🇷 [电信专线] 法国 x A区 - 南北云
-  - 🇫🇷 [联通专线] 法国 x A区 - 南北云
-  - 🇫🇷 [移动专线] 法国 x A区 - 南北云
+  proxies: &id006
+  - ℹ️ 官网:kuaiyun666.xyz - 快云加速
+  - ℹ️ 售后客服qq:1586932845 - 快云加速
+  - ℹ️ 有问题联系售后客服qq - 快云加速
+  - 🇰🇷 韩国节点-5G-01 - 快云加速
+  - 🇰🇷 韩国节点-5G-02 - 快云加速
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  proxies: *id003
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  proxies: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  proxies: *id005
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id006
 proxies:
-- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇮🇳 [电信专线] 印度 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59069, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇮🇳 [联通专线] 印度 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50369, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇮🇳 [移动专线] 印度 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 54274, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇧🇷 [电信专线] 巴西 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59469, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇧🇷 [联通专线] 巴西 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57609, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇧🇷 [移动专线] 巴西 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 53131, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇻🇳 [电信专线] 越南 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52384, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇻🇳 [联通专线] 越南 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55774, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇻🇳 [移动专线] 越南 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58537, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇩🇪 [电信专线] 德国 xA区 - 南北云', server: zf-ct.bgblwow.org, port: 54881, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇩🇪 [联通专线] 德国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 51577, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇩🇪 [移动专线] 德国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58056, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇰🇷 [电信专线] 韩国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 57459, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇰🇷 [联通专线] 韩国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55064, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇰🇷 [移动专线] 韩国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55782, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇫🇷 [电信专线] 法国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59720, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇫🇷 [联通专线] 法国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50748, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇫🇷 [移动专线] 法国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59741, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
-- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: 2b1717f7-73ba-474d-b7d6-03d28372663a, udp: true}
+- {name: ℹ️ 官网:kuaiyun666.xyz - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: ℹ️ 售后客服qq:1586932845 - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: ℹ️ 有问题联系售后客服qq - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点-5G-01 - 快云加速, server: ddns.kuaiyun66.cn, port: 25721, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点-5G-02 - 快云加速, server: ddns.kuaiyun66.cn, port: 36030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点-5G-01 - 快云加速, server: 13.231.229.139, port: 10001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点-5G-02 - 快云加速, server: dns.kuaiyun66.cn, port: 17676, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点-5G-01 - 快云加速, server: dns.kuaiyun66.cn, port: 27881, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点-5G-02 - 快云加速, server: dns.kuaiyun66.cn, port: 13087, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇺🇸 美国节点-5G-02 - 快云加速, server: dns.kuaiyun66.cn, port: 37954, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇰🇷 韩国节点-5G-01 - 快云加速, server: ddns.kuaiyun66.cn, port: 47351, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇺🇸 美国节点-5G-01 - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点-10G-03 - 快云加速, server: ddns.kuaiyun66.cn, port: 22224, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点-5G-03 - 快云加速, server: ddns.kuaiyun66.cn, port: 11904, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点-5G-03 - 快云加速, server: ddns.kuaiyun66.cn, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点-5G-03 - 快云加速, server: ddns.kuaiyun66.cn, port: 21018, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点-5G-04 - 快云加速, server: ddns.kuaiyun66.cn, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇺🇸 美国节点-5G-03 - 快云加速, server: ddns.kuaiyun66.cn, port: 36937, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇺🇸 美国节点-5G-04 - 快云加速, server: ddns.kuaiyun66.cn, port: 21546, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇰🇷 韩国节点-5G-02 - 快云加速, server: ddns.kuaiyun66.cn, port: 48943, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
