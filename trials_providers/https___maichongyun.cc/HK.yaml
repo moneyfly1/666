@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云, server: gyaa.ptwqx.cn, port: 19523, type: ss, cipher: chacha20-ietf-poly1305, password: 706a9750-8b11-4256-8ba9-9b49f55b5bbd, udp: true}
-- {name: 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云, server: gyaa.ptwqx.cn, port: 19528, type: ss, cipher: chacha20-ietf-poly1305, password: 706a9750-8b11-4256-8ba9-9b49f55b5bbd, udp: true}
-- {name: 🇭🇰 HK香港1-PQ - 脉冲云, server: gyaa.ptwqx.cn, port: 49763, type: ss, cipher: chacha20-ietf-poly1305, password: 706a9750-8b11-4256-8ba9-9b49f55b5bbd, udp: true}
-- {name: 🇭🇰 HK香港2-PQ - 脉冲云, server: gyaa.ptwqx.cn, port: 48388, type: ss, cipher: chacha20-ietf-poly1305, password: 706a9750-8b11-4256-8ba9-9b49f55b5bbd, udp: true}
-- {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: 706a9750-8b11-4256-8ba9-9b49f55b5bbd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: 706a9750-8b11-4256-8ba9-9b49f55b5bbd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 HK香港1-SJY(官网:maichongvpn.com) - 脉冲云, server: gyaa.ptwqx.cn, port: 19523, type: ss, cipher: chacha20-ietf-poly1305, password: bd971ad6-1d39-4d7d-8192-9d76bf808e2b, udp: true}
+- {name: 🇭🇰 HK香港2-SJY(官网:maichongvpn.com) - 脉冲云, server: gyaa.ptwqx.cn, port: 19528, type: ss, cipher: chacha20-ietf-poly1305, password: bd971ad6-1d39-4d7d-8192-9d76bf808e2b, udp: true}
+- {name: 🇭🇰 HK香港1-PQ - 脉冲云, server: gyaa.ptwqx.cn, port: 49763, type: ss, cipher: chacha20-ietf-poly1305, password: bd971ad6-1d39-4d7d-8192-9d76bf808e2b, udp: true}
+- {name: 🇭🇰 HK香港2-PQ - 脉冲云, server: gyaa.ptwqx.cn, port: 48388, type: ss, cipher: chacha20-ietf-poly1305, password: bd971ad6-1d39-4d7d-8192-9d76bf808e2b, udp: true}
+- {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: bd971ad6-1d39-4d7d-8192-9d76bf808e2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: bd971ad6-1d39-4d7d-8192-9d76bf808e2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

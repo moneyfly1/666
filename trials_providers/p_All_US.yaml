@@ -5,9 +5,9 @@ proxies:
 - {name: 🇺🇸 美国节点5G-03 - 快云加速, server: 210.16.183.77, port: 36937, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇺🇸 美国节点5G-04 - 快云加速, server: 210.16.183.77, port: 21546, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇺🇸 美国节点5G-01 - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇺🇸 美国rn1-快速 - Wink, server: us-rn1.xaa.app, port: 443, type: trojan, password: 93f21ad7-a99c-490e-9c62-ab5c39f73370, sni: us-rn1.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国rn2-快速 - Wink, server: us-rn2.xaa.app, port: 443, type: trojan, password: 93f21ad7-a99c-490e-9c62-ab5c39f73370, sni: us-rn2.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国rn3-高速 - Wink, server: us-rn3.xaa.app, port: 443, type: trojan, password: 93f21ad7-a99c-490e-9c62-ab5c39f73370, sni: us-rn3.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn1-快速 - Wink, server: us-rn1.xaa.app, port: 443, type: trojan, password: e738c1a5-2dc4-4fc6-ba32-fb5d0d339c0c, sni: us-rn1.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn2-快速 - Wink, server: us-rn2.xaa.app, port: 443, type: trojan, password: e738c1a5-2dc4-4fc6-ba32-fb5d0d339c0c, sni: us-rn2.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn3-高速 - Wink, server: us-rn3.xaa.app, port: 443, type: trojan, password: e738c1a5-2dc4-4fc6-ba32-fb5d0d339c0c, sni: us-rn3.xaa.app, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-v6|01 - 悦云, server: dmitv61.616626.xyz, port: 22305, type: vmess, uuid: 9e5da623-a5d1-4071-8a54-fa9d3e9f3734, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国01 - 悦云, server: vir732.189.ovh, port: 10026, type: trojan, password: 9e5da623-a5d1-4071-8a54-fa9d3e9f3734, sni: vir732.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国02 - 悦云, server: vir11.189.ovh, port: 10022, type: trojan, password: 9e5da623-a5d1-4071-8a54-fa9d3e9f3734, sni: vir11.189.ovh, skip-cert-verify: true, udp: true}
@@ -17,7 +17,7 @@ proxies:
 - {name: 🇺🇸 美国07 - 悦云, server: vir694.189.ovh, port: 10021, type: trojan, password: 9e5da623-a5d1-4071-8a54-fa9d3e9f3734, sni: vir694.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-电信 | US-2 - 泡泡 VPN, server: tuntro005.instconn.com, port: 443, type: trojan, password: 293f35f0-6cab-4d0d-b73e-b3cedfffec57, sni: Phoenixrm2.686911.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-联通 | US-3 - 泡泡 VPN, server: tuntro006.instconn.com, port: 443, type: trojan, password: 293f35f0-6cab-4d0d-b73e-b3cedfffec57, sni: torontorm1.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: f34e6968-65bb-4748-a993-ca5c17940e1e, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 3838285c-4869-4c8e-9a8c-8d5735d18fec, udp: true}
-- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 3838285c-4869-4c8e-9a8c-8d5735d18fec, udp: true}
-- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 3838285c-4869-4c8e-9a8c-8d5735d18fec, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: c5575963-0785-4eec-894c-01050f9c4b0e, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 10b91af5-6b7c-4d02-9412-f8ae9432efbb, udp: true}
+- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 10b91af5-6b7c-4d02-9412-f8ae9432efbb, udp: true}
+- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 10b91af5-6b7c-4d02-9412-f8ae9432efbb, udp: true}
