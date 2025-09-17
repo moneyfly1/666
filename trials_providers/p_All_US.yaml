@@ -14,4 +14,7 @@ proxies:
 - {name: 🇺🇸 美国07 - 悦云, server: vir694.189.ovh, port: 10021, type: trojan, password: a886a853-0472-45dc-ae1a-ef58ada28a37, sni: vir694.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-电信 | US-2 - 泡泡 VPN, server: tuntro005.instconn.com, port: 443, type: trojan, password: c50a5546-7720-489f-889c-d8cdb11c0c9a, sni: Phoenixrm2.686911.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-联通 | US-3 - 泡泡 VPN, server: tuntro006.instconn.com, port: 443, type: trojan, password: c50a5546-7720-489f-889c-d8cdb11c0c9a, sni: torontorm1.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: b128fbe3-1557-4ce6-9d57-2b68d6347737, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 4f6ccbce-7cbf-4d65-8b62-ac3f035fd721, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: 8f969b81-68bf-4098-a2b6-283457ff55cb, udp: true}
+- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: 8f969b81-68bf-4098-a2b6-283457ff55cb, udp: true}
+- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: 8f969b81-68bf-4098-a2b6-283457ff55cb, udp: true}
