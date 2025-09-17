@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: 🇯🇵 日本节点-5G-01 - 快云加速, server: 13.231.229.139, port: 10001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本节点-5G-02 - 快云加速, server: dns.kuaiyun66.cn, port: 17676, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点-5G-02 - 快云加速, server: ddns.kuaiyun66.cn, port: 17676, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇯🇵 日本节点-5G-03 - 快云加速, server: ddns.kuaiyun66.cn, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇯🇵 日本01|BGP专线|SVIP03 - V2Board, server: 106.75.134.1, port: 12000, type: trojan, password: 25861985-9186-4f65-ae33-c51d84b1450d, sni: aliyun.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|02 - 悦云, server: greenchais2.668918.xyz, port: 22307, type: vmess, uuid: a886a853-0472-45dc-ae1a-ef58ada28a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -16,6 +16,6 @@ proxies:
 - {name: 🇯🇵 日本-全网 | JP-4 - 泡泡 VPN, server: tuntro003.instconn.com, port: 443, type: trojan, password: c50a5546-7720-489f-889c-d8cdb11c0c9a, sni: cherry.686911.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-中转 | JP-2 - 泡泡 VPN, server: tuntro002.instconn.com, port: 20253, type: trojan, password: c50a5546-7720-489f-889c-d8cdb11c0c9a, sni: bing.3668989.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JP01 12小时试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 46887, type: ss, cipher: aes-128-gcm, password: 74e3510a-c9a9-45ea-acac-2363fb828dd4, udp: true}
-- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: 8f969b81-68bf-4098-a2b6-283457ff55cb, udp: true}
-- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: 8f969b81-68bf-4098-a2b6-283457ff55cb, udp: true}
-- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: 8f969b81-68bf-4098-a2b6-283457ff55cb, udp: true}
+- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: 3f48afa8-a641-4a54-aa45-9ec853998193, udp: true}
+- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: 3f48afa8-a641-4a54-aa45-9ec853998193, udp: true}
+- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: 3f48afa8-a641-4a54-aa45-9ec853998193, udp: true}
