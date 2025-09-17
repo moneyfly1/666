@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN, server: tuntro000.instconn.com, port: 443, type: trojan, password: 293f35f0-6cab-4d0d-b73e-b3cedfffec57, sni: hkip5.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾-中转 | TW - 泡泡 VPN, server: tuntro011.instconn.com, port: 30130, type: trojan, password: 293f35f0-6cab-4d0d-b73e-b3cedfffec57, sni: tuntro011.douyin.com, skip-cert-verify: true, udp: true}

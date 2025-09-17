@@ -41,14 +41,14 @@ proxy-groups:
   - 🇯🇵 日本节点5G-02 - 快云加速
   - 🇯🇵 日本节点5G-03 - 快云加速
   - 🇺🇸 美国节点5G-02 - 快云加速
-  - 🇺🇸 美国节点5G-01 - 快云加速
   - 🇺🇸 美国节点5G-03 - 快云加速
   - 🇺🇸 美国节点5G-04 - 快云加速
+  - 🇺🇸 美国节点5G-01 - 快云加速
   - ℹ️ 官网:kuaiyun666.xyz - 快云加速
   - ℹ️ 售后客服qq:1586932845 - 快云加速
   - ℹ️ 有问题联系售后客服qq - 快云加速
-  - 🇰🇷 韩国节点5G-01 - 快云加速
   - 🇰🇷 韩国节点5G-02 - 快云加速
+  - 🇰🇷 韩国节点5G-01 - 快云加速
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -128,9 +128,9 @@ proxy-groups:
   tolerance: 300
   proxies: &id005
   - 🇺🇸 美国节点5G-02 - 快云加速
-  - 🇺🇸 美国节点5G-01 - 快云加速
   - 🇺🇸 美国节点5G-03 - 快云加速
   - 🇺🇸 美国节点5G-04 - 快云加速
+  - 🇺🇸 美国节点5G-01 - 快云加速
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -140,8 +140,8 @@ proxy-groups:
   - ℹ️ 官网:kuaiyun666.xyz - 快云加速
   - ℹ️ 售后客服qq:1586932845 - 快云加速
   - ℹ️ 有问题联系售后客服qq - 快云加速
-  - 🇰🇷 韩国节点5G-01 - 快云加速
   - 🇰🇷 韩国节点5G-02 - 快云加速
+  - 🇰🇷 韩国节点5G-01 - 快云加速
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -161,23 +161,23 @@ proxies:
 - {name: ℹ️ 官网:kuaiyun666.xyz - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: ℹ️ 售后客服qq:1586932845 - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: ℹ️ 有问题联系售后客服qq - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇭🇰 香港节点5G-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 25721, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇭🇰 香港节点5G-02 - 快云加速, server: ddns.kuaiyun1.cn, port: 36030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本节点5G-01 - 快云加速, server: ddns.kuaiyun1.cn, port: 43486, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本节点5G-02 - 快云加速, server: ddns.haiwaihao.cc, port: 17676, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇸🇬 新加坡节点5G-01 - 快云加速, server: ddns.haiwaihao.cc, port: 27881, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇸🇬 新加坡节点5G-02 - 快云加速, server: ddns.haiwaihao.cc, port: 13087, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇺🇸 美国节点5G-02 - 快云加速, server: ddns.haiwaihao.cc, port: 37954, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇰🇷 韩国节点5G-01 - 快云加速, server: ddns.haiwaihao.cc, port: 47351, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点5G-01 - 快云加速, server: 210.16.183.77, port: 25721, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点5G-02 - 快云加速, server: 210.16.183.77, port: 36030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点5G-01 - 快云加速, server: 210.16.183.77, port: 43486, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点5G-02 - 快云加速, server: 210.16.183.77, port: 17676, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点5G-01 - 快云加速, server: 210.16.183.77, port: 27881, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点5G-02 - 快云加速, server: 210.16.183.77, port: 13087, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点5G-03 - 快云加速, server: 210.16.183.77, port: 21018, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇸🇬 新加坡节点5G-04 - 快云加速, server: 210.16.183.77, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇺🇸 美国节点5G-02 - 快云加速, server: 210.16.183.77, port: 37954, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点5G-03 - 快云加速, server: 210.16.183.77, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇺🇸 美国节点5G-03 - 快云加速, server: 210.16.183.77, port: 36937, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇺🇸 美国节点5G-04 - 快云加速, server: 210.16.183.77, port: 21546, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇰🇷 韩国节点5G-02 - 快云加速, server: 210.16.183.77, port: 48943, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇰🇷 韩国节点5G-01 - 快云加速, server: 210.16.183.77, port: 47351, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇺🇸 美国节点5G-01 - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇭🇰 香港节点10G-03 - 快云加速, server: ddns.haiwaihao.cc, port: 22224, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇭🇰 香港节点5G-03 - 快云加速, server: ddns.haiwaihao.cc, port: 11904, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本节点5G-03 - 快云加速, server: ddns.haiwaihao.cc, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇸🇬 新加坡节点5G-03 - 快云加速, server: ddns.haiwaihao.cc, port: 21018, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇸🇬 新加坡节点5G-04 - 快云加速, server: ddns.haiwaihao.cc, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇺🇸 美国节点5G-03 - 快云加速, server: ddns.haiwaihao.cc, port: 36937, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇺🇸 美国节点5G-04 - 快云加速, server: ten-poor-167.gym0boy.com, port: 21546, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇰🇷 韩国节点5G-02 - 快云加速, server: ten-poor-167.gym0boy.com, port: 48943, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点10G-03 - 快云加速, server: 210.16.183.77, port: 22224, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇭🇰 香港节点5G-03 - 快云加速, server: 210.16.183.77, port: 11904, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
