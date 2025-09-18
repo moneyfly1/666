@@ -29,17 +29,27 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - TW
-  - SG
-  - JP
-  - US
-  - Other
+  proxies: &id001
+  - 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN
+  - 🇹🇼 台湾-中转 | TW - 泡泡 VPN
+  - 🇸🇬 新加坡-移动 | SG-1 - 泡泡 VPN
+  - 🇸🇬 新加坡-移动 | SG-2 - 泡泡 VPN
+  - 🇯🇵 日本-全网 | JP-4 - 泡泡 VPN
+  - 🇯🇵 日本-中转 | JP-2 - 泡泡 VPN
+  - 🇺🇸 美国-电信 | US-2 - 泡泡 VPN
+  - 🇺🇸 美国-联通 | US-3 - 泡泡 VPN
+  - ℹ️ 购买节点 www.paopao.cx - 泡泡 VPN
+  - 🇩🇪 德国-联通 | DE - 泡泡 VPN
+  - 🇦🇪 迪拜-电信 | DXB - 泡泡 VPN
+  - 🇰🇷 首尔-全网 | SEL - 泡泡 VPN
+  - 🇻🇳 越南-移动 | VN - 泡泡 VPN
+  - 🇹🇷 土耳其-中转 | TR-0 - 泡泡 VPN
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -88,116 +98,98 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - TW
+  proxies: &id003
+  - 🇹🇼 台湾-中转 | TW - 泡泡 VPN
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - HK
-  - TW
+  proxies: &id004
+  - 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN
+  - 🇹🇼 台湾-中转 | TW - 泡泡 VPN
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - SG
+  proxies: &id005
+  - 🇸🇬 新加坡-移动 | SG-1 - 泡泡 VPN
+  - 🇸🇬 新加坡-移动 | SG-2 - 泡泡 VPN
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - JP
+  proxies: &id006
+  - 🇯🇵 日本-全网 | JP-4 - 泡泡 VPN
+  - 🇯🇵 日本-中转 | JP-2 - 泡泡 VPN
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - US
+  proxies: &id007
+  - 🇺🇸 美国-电信 | US-2 - 泡泡 VPN
+  - 🇺🇸 美国-联通 | US-3 - 泡泡 VPN
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - Other
+  proxies: &id008
+  - ℹ️ 购买节点 www.paopao.cx - 泡泡 VPN
+  - 🇩🇪 德国-联通 | DE - 泡泡 VPN
+  - 🇦🇪 迪拜-电信 | DXB - 泡泡 VPN
+  - 🇰🇷 首尔-全网 | SEL - 泡泡 VPN
+  - 🇻🇳 越南-移动 | VN - 泡泡 VPN
+  - 🇹🇷 土耳其-中转 | TR-0 - 泡泡 VPN
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
+  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldldo.top_/HK.yaml
-    interval: 180
-    path: trials_providers/https___ldldo.top_/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldldo.top_/TW.yaml
-    interval: 180
-    path: trials_providers/https___ldldo.top_/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldldo.top_/SG.yaml
-    interval: 180
-    path: trials_providers/https___ldldo.top_/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldldo.top_/JP.yaml
-    interval: 180
-    path: trials_providers/https___ldldo.top_/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldldo.top_/US.yaml
-    interval: 180
-    path: trials_providers/https___ldldo.top_/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___ldldo.top_/Other.yaml
-    interval: 180
-    path: trials_providers/https___ldldo.top_/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id008
+proxies:
+- {name: ℹ️ 购买节点 www.paopao.cx - 泡泡 VPN, server: tuntro001.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: awshk.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN, server: tuntro000.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: hkip5.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-全网 | JP-4 - 泡泡 VPN, server: tuntro003.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: cherry.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-中转 | JP-2 - 泡泡 VPN, server: tuntro002.instconn.com, port: 20253, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: bing.3668989.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-电信 | US-2 - 泡泡 VPN, server: tuntro005.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: Phoenixrm2.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-联通 | US-3 - 泡泡 VPN, server: tuntro006.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: torontorm1.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-移动 | SG-1 - 泡泡 VPN, server: tuntro008.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: azure.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡-移动 | SG-2 - 泡泡 VPN, server: tuntro009.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: sgam2.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国-联通 | DE - 泡泡 VPN, server: tuntro010.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: frankfurtrm2.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾-中转 | TW - 泡泡 VPN, server: tuntro011.instconn.com, port: 30130, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: tuntro011.douyin.com, skip-cert-verify: true, udp: true}
+- {name: 🇦🇪 迪拜-电信 | DXB - 泡泡 VPN, server: tuntro012.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: dibai.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 首尔-全网 | SEL - 泡泡 VPN, server: tuntro013.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: vS7hO0kU.ppaoyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南-移动 | VN - 泡泡 VPN, server: tuntro019.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: tuntro019.instconn.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其-中转 | TR-0 - 泡泡 VPN, server: tuntro020.instconn.com, port: 51056, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: bing.686911.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
