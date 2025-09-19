@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本-自用 - Wink, server: jp.xaa.app, port: 443, type: trojan, password: f7cccbf5-f4ad-444d-9e6f-429ae24a17de, sni: jp.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-自用 - Wink, server: jp.xaa.app, port: 443, type: trojan, password: 3edb1f50-b520-4a25-935c-2a1462dd061a, sni: jp.xaa.app, skip-cert-verify: true, udp: true}
