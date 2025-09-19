@@ -18,6 +18,6 @@ proxies:
 - {name: 🇭🇰 香港03 - 悦云, server: hytro.91ai.de, port: 10022, type: trojan, password: a6b44f62-6303-4e2f-ae69-a06cde453e65, sni: hytro.91ai.de, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN, server: tuntro000.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: hkip5.686911.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK02 12小时联通试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 64088, type: ss, cipher: aes-128-gcm, password: 74e3510a-c9a9-45ea-acac-2363fb828dd4, udp: true}
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 0ce6ec12-11ef-43e0-ba33-21975831ba69, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 0ce6ec12-11ef-43e0-ba33-21975831ba69, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 0ce6ec12-11ef-43e0-ba33-21975831ba69, udp: true}
+- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: c46a701e-b892-4c65-b57d-7c3598de9454, udp: true}
+- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: c46a701e-b892-4c65-b57d-7c3598de9454, udp: true}
+- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: c46a701e-b892-4c65-b57d-7c3598de9454, udp: true}
