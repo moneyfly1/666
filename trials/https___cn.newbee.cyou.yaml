@@ -12,14 +12,12 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
@@ -33,20 +31,27 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN
-  - 🇹🇼 台湾-中转 | TW - 泡泡 VPN
-  - 🇸🇬 新加坡-移动 | SG-1 - 泡泡 VPN
-  - 🇸🇬 新加坡-移动 | SG-2 - 泡泡 VPN
-  - 🇯🇵 日本-全网 | JP-4 - 泡泡 VPN
-  - 🇯🇵 日本-中转 | JP-2 - 泡泡 VPN
-  - 🇺🇸 美国-电信 | US-2 - 泡泡 VPN
-  - 🇺🇸 美国-联通 | US-3 - 泡泡 VPN
-  - ℹ️ 购买节点 www.paopao.cx - 泡泡 VPN
-  - 🇩🇪 德国-联通 | DE - 泡泡 VPN
-  - 🇦🇪 迪拜-电信 | DXB - 泡泡 VPN
-  - 🇰🇷 首尔-全网 | SEL - 泡泡 VPN
-  - 🇻🇳 越南-移动 | VN - 泡泡 VPN
-  - 🇹🇷 土耳其-中转 | TR-0 - 泡泡 VPN
+  - 🇭🇰 (2x)IEPL专线 香港1 - NewBee国际机场
+  - 🇭🇰 (2x)IEPL专线 香港2 - NewBee国际机场
+  - 🇭🇰 (2x)IEPL专线 香港3 - NewBee国际机场
+  - 🇸🇬 (1.5x)IEPL专线 新加坡1 - NewBee国际机场
+  - 🇸🇬 (1.5x)IEPL专线 新加坡2 - NewBee国际机场
+  - 🇸🇬 (1.5x)IEPL专线 新加坡3 - NewBee国际机场
+  - 🇯🇵 (2x)IEPL专线 日本1 - NewBee国际机场
+  - 🇯🇵 (2x)IEPL专线 日本2 - NewBee国际机场
+  - 🇯🇵 (2x)IEPL专线 日本3 - NewBee国际机场
+  - 🇺🇸 (1.5x)IEPL专线 美国原生1 - NewBee国际机场
+  - 🇺🇸 (1.5x)IEPL专线 美国原生2 - NewBee国际机场
+  - 🇺🇸 (1.5x)IEPL专线 美国1 - NewBee国际机场
+  - 🇺🇸 (1.5x)IEPL专线 美国2 - NewBee国际机场
+  - ℹ️ 国内直连官网：https://cn4.newbee888.cc - NewBee国际机场
+  - ℹ️ 备用官网：https://cn5.newbee888.cc - NewBee国际机场
+  - 🇦🇺 (1.5x)IEPL专线 澳大利亚1 - NewBee国际机场
+  - 🇦🇺 (1.5x)IEPL专线 澳大利亚2 - NewBee国际机场
+  - 🇮🇳 (1.5x)IEPL专线 印度1 - NewBee国际机场
+  - 🇮🇳 (1.5x)IEPL专线 印度2 - NewBee国际机场
+  - 🇮🇳 (1.5x)IEPL专线 印度3 - NewBee国际机场
+  - 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -67,24 +72,20 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
@@ -102,94 +103,100 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 台湾-中转 | TW - 泡泡 VPN
+  - 🇭🇰 (2x)IEPL专线 香港1 - NewBee国际机场
+  - 🇭🇰 (2x)IEPL专线 香港2 - NewBee国际机场
+  - 🇭🇰 (2x)IEPL专线 香港3 - NewBee国际机场
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN
-  - 🇹🇼 台湾-中转 | TW - 泡泡 VPN
+  proxies: &id003
+  - 🇭🇰 (2x)IEPL专线 香港1 - NewBee国际机场
+  - 🇭🇰 (2x)IEPL专线 香港2 - NewBee国际机场
+  - 🇭🇰 (2x)IEPL专线 香港3 - NewBee国际机场
+  - 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡-移动 | SG-1 - 泡泡 VPN
-  - 🇸🇬 新加坡-移动 | SG-2 - 泡泡 VPN
+  proxies: &id004
+  - 🇸🇬 (1.5x)IEPL专线 新加坡1 - NewBee国际机场
+  - 🇸🇬 (1.5x)IEPL专线 新加坡2 - NewBee国际机场
+  - 🇸🇬 (1.5x)IEPL专线 新加坡3 - NewBee国际机场
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本-全网 | JP-4 - 泡泡 VPN
-  - 🇯🇵 日本-中转 | JP-2 - 泡泡 VPN
+  proxies: &id005
+  - 🇯🇵 (2x)IEPL专线 日本1 - NewBee国际机场
+  - 🇯🇵 (2x)IEPL专线 日本2 - NewBee国际机场
+  - 🇯🇵 (2x)IEPL专线 日本3 - NewBee国际机场
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国-电信 | US-2 - 泡泡 VPN
-  - 🇺🇸 美国-联通 | US-3 - 泡泡 VPN
+  proxies: &id006
+  - 🇺🇸 (1.5x)IEPL专线 美国原生1 - NewBee国际机场
+  - 🇺🇸 (1.5x)IEPL专线 美国原生2 - NewBee国际机场
+  - 🇺🇸 (1.5x)IEPL专线 美国1 - NewBee国际机场
+  - 🇺🇸 (1.5x)IEPL专线 美国2 - NewBee国际机场
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id008
-  - ℹ️ 购买节点 www.paopao.cx - 泡泡 VPN
-  - 🇩🇪 德国-联通 | DE - 泡泡 VPN
-  - 🇦🇪 迪拜-电信 | DXB - 泡泡 VPN
-  - 🇰🇷 首尔-全网 | SEL - 泡泡 VPN
-  - 🇻🇳 越南-移动 | VN - 泡泡 VPN
-  - 🇹🇷 土耳其-中转 | TR-0 - 泡泡 VPN
+  proxies: &id007
+  - ℹ️ 国内直连官网：https://cn4.newbee888.cc - NewBee国际机场
+  - ℹ️ 备用官网：https://cn5.newbee888.cc - NewBee国际机场
+  - 🇦🇺 (1.5x)IEPL专线 澳大利亚1 - NewBee国际机场
+  - 🇦🇺 (1.5x)IEPL专线 澳大利亚2 - NewBee国际机场
+  - 🇮🇳 (1.5x)IEPL专线 印度1 - NewBee国际机场
+  - 🇮🇳 (1.5x)IEPL专线 印度2 - NewBee国际机场
+  - 🇮🇳 (1.5x)IEPL专线 印度3 - NewBee国际机场
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  proxies: *id004
+  proxies: *id003
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  proxies: *id004
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  proxies: *id005
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  proxies: *id006
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id007
 proxies:
-- {name: ℹ️ 购买节点 www.paopao.cx - 泡泡 VPN, server: tuntro001.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: awshk.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-移动 | HK-1 - 泡泡 VPN, server: tuntro000.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: hkip5.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-全网 | JP-4 - 泡泡 VPN, server: tuntro003.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: cherry.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-中转 | JP-2 - 泡泡 VPN, server: tuntro002.instconn.com, port: 20253, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: bing.3668989.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-电信 | US-2 - 泡泡 VPN, server: tuntro005.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: Phoenixrm2.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-联通 | US-3 - 泡泡 VPN, server: tuntro006.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: torontorm1.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡-移动 | SG-1 - 泡泡 VPN, server: tuntro008.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: azure.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡-移动 | SG-2 - 泡泡 VPN, server: tuntro009.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: sgam2.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-联通 | DE - 泡泡 VPN, server: tuntro010.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: frankfurtrm2.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾-中转 | TW - 泡泡 VPN, server: tuntro011.instconn.com, port: 30130, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: tuntro011.douyin.com, skip-cert-verify: true, udp: true}
-- {name: 🇦🇪 迪拜-电信 | DXB - 泡泡 VPN, server: tuntro012.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: dibai.686911.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 首尔-全网 | SEL - 泡泡 VPN, server: tuntro013.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: vS7hO0kU.ppaoyun.top, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南-移动 | VN - 泡泡 VPN, server: tuntro019.instconn.com, port: 443, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: tuntro019.instconn.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其-中转 | TR-0 - 泡泡 VPN, server: tuntro020.instconn.com, port: 51056, type: trojan, password: d12f990f-9ba5-41ba-a087-00b4db3dd8f9, sni: bing.686911.xyz, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 国内直连官网：https://cn4.newbee888.cc - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 备用官网：https://cn5.newbee888.cc - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 (2x)IEPL专线 香港1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 (2x)IEPL专线 香港2 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 (2x)IEPL专线 香港3 - NewBee国际机场, server: gzdx.newbee8.me, port: 35660, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国原生1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国原生2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 (1.5x)IEPL专线 新加坡1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 (1.5x)IEPL专线 新加坡2 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 (1.5x)IEPL专线 新加坡3 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 (2x)IEPL专线 日本1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 (2x)IEPL专线 日本2 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 (2x)IEPL专线 日本3 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 (1.5x)IEPL专线 澳大利亚1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22258, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 (1.5x)IEPL专线 澳大利亚2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35666, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 (1.5x)IEPL专线 印度1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22256, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 (1.5x)IEPL专线 印度2 - NewBee国际机场, server: hn3x.newbee8.me, port: 22256, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 (1.5x)IEPL专线 印度3 - NewBee国际机场, server: gzdx.newbee8.me, port: 35665, type: vmess, uuid: 8f597882-2c58-44dd-b097-61abbf03fbb3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
