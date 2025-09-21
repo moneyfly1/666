@@ -5,13 +5,13 @@ proxies:
 - {name: 🇺🇸 美国节点5G-03 - 快云加速, server: 210.16.183.77, port: 36937, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇺🇸 美国节点5G-04 - 快云加速, server: 210.16.183.77, port: 21546, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇺🇸 美国节点5G-01 - 快云加速, server: 54.218.187.115, port: 30001, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇺🇸 美国rn1-快速 - Wink, server: us-rn1.xaa.app, port: 443, type: trojan, password: f0626086-0ccc-45b1-bb9c-401727d1cc37, sni: us-rn1.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国rn2-快速 - Wink, server: us-rn2.xaa.app, port: 443, type: trojan, password: f0626086-0ccc-45b1-bb9c-401727d1cc37, sni: us-rn2.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国rn3-高速 - Wink, server: us-rn3.xaa.app, port: 443, type: trojan, password: f0626086-0ccc-45b1-bb9c-401727d1cc37, sni: us-rn3.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 (1.5x)IEPL专线 美国原生1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: 169adec5-42a8-48e1-b180-605b3139d395, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 (1.5x)IEPL专线 美国原生2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: 169adec5-42a8-48e1-b180-605b3139d395, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 (1.5x)IEPL专线 美国1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: 169adec5-42a8-48e1-b180-605b3139d395, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 (1.5x)IEPL专线 美国2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 169adec5-42a8-48e1-b180-605b3139d395, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn1-快速 - Wink, server: us-rn1.xaa.app, port: 443, type: trojan, password: 5f7ca326-21b5-4c48-8462-ede72b600e3c, sni: us-rn1.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn2-快速 - Wink, server: us-rn2.xaa.app, port: 443, type: trojan, password: 5f7ca326-21b5-4c48-8462-ede72b600e3c, sni: us-rn2.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn3-高速 - Wink, server: us-rn3.xaa.app, port: 443, type: trojan, password: 5f7ca326-21b5-4c48-8462-ede72b600e3c, sni: us-rn3.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国原生1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: be8af464-d723-4e73-bb28-2ed40ccfc4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国原生2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: be8af464-d723-4e73-bb28-2ed40ccfc4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: be8af464-d723-4e73-bb28-2ed40ccfc4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 (1.5x)IEPL专线 美国2 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: be8af464-d723-4e73-bb28-2ed40ccfc4e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国-v6|01 - 悦云, server: dmitv61.616626.xyz, port: 22305, type: vmess, uuid: 465ae1cc-e7be-4a8b-a4ef-070e107a85d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国01 - 悦云, server: vir732.189.ovh, port: 10026, type: trojan, password: 465ae1cc-e7be-4a8b-a4ef-070e107a85d0, sni: vir732.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国02 - 悦云, server: vir11.189.ovh, port: 10022, type: trojan, password: 465ae1cc-e7be-4a8b-a4ef-070e107a85d0, sni: vir11.189.ovh, skip-cert-verify: true, udp: true}
@@ -19,7 +19,7 @@ proxies:
 - {name: 🇺🇸 美国04 - 悦云, server: layercloud.189.ovh, port: 10021, type: trojan, password: 465ae1cc-e7be-4a8b-a4ef-070e107a85d0, sni: layercloud.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国05 - 悦云, server: advin.189.ovh, port: 10027, type: trojan, password: 465ae1cc-e7be-4a8b-a4ef-070e107a85d0, sni: advin.189.ovh, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国07 - 悦云, server: vir694.189.ovh, port: 10021, type: trojan, password: 465ae1cc-e7be-4a8b-a4ef-070e107a85d0, sni: vir694.189.ovh, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: d803eb42-c898-42c5-a66a-7d7d3db08e96, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: bbe023a3-c288-4f11-9e7c-c8ad7b0ca4b8, udp: true}
-- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: bbe023a3-c288-4f11-9e7c-c8ad7b0ca4b8, udp: true}
-- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: bbe023a3-c288-4f11-9e7c-c8ad7b0ca4b8, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: f78fbf7a-ab0d-486d-aecc-5d2cfbca8146, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: dfed8c90-4464-4da3-8045-08457994b9aa, udp: true}
+- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: dfed8c90-4464-4da3-8045-08457994b9aa, udp: true}
+- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: dfed8c90-4464-4da3-8045-08457994b9aa, udp: true}
