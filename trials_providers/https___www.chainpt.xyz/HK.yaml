@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 53546, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
+- {name: 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 32511, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
+- {name: 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 48537, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
+- {name: 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 27886, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
+- {name: 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 25447, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
