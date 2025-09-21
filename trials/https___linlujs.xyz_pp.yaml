@@ -11,13 +11,18 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
+  - 🇯🇵 ‍日本
+  - 🎏 ‍其他
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
   tolerance: 100
   use: &id001
-  - All
+  - JP
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -42,7 +47,11 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -51,12 +60,37 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇯🇵 ‍日本
+  type: url-test
+  tolerance: 100
+  use: &id002
+  - JP
+- name: 🎏 ‍其他
+  type: url-test
+  tolerance: 100
+  use: &id003
+  - Other
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  use: *id002
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id003
 proxy-providers:
-  All:
+  JP:
     type: http
-    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___linlujs.xyz/All.yaml
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___linlujs.xyz/JP.yaml
     interval: 180
-    path: trials_providers/https___linlujs.xyz/All.yaml
+    path: trials_providers/https___linlujs.xyz/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/moneyfly1/666/main/trials_providers/https___linlujs.xyz/Other.yaml
+    interval: 180
+    path: trials_providers/https___linlujs.xyz/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
