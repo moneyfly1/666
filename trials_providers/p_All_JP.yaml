@@ -4,10 +4,10 @@ proxies:
 - {name: 🇯🇵 日本节点5G-01 - 快云加速, server: 210.16.183.77, port: 43486, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇯🇵 日本节点5G-02 - 快云加速, server: 210.16.183.77, port: 17676, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇯🇵 日本节点5G-03 - 快云加速, server: 210.16.183.77, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本-自用 - Wink, server: jp.xaa.app, port: 443, type: trojan, password: b8a27af6-094a-4270-a5d5-983b9efcd251, sni: jp.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 (2x)IEPL专线 日本1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: bf70ebd6-ca11-40db-9a00-cb1bdbdb5c13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 (2x)IEPL专线 日本2 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: bf70ebd6-ca11-40db-9a00-cb1bdbdb5c13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 (2x)IEPL专线 日本3 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: bf70ebd6-ca11-40db-9a00-cb1bdbdb5c13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-自用 - Wink, server: jp.xaa.app, port: 443, type: trojan, password: f388ce78-5f14-43a0-9556-a41c03437e30, sni: jp.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 (2x)IEPL专线 日本1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: dbd4b727-f56d-4391-b0fc-d5f555644199, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 (2x)IEPL专线 日本2 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: dbd4b727-f56d-4391-b0fc-d5f555644199, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 (2x)IEPL专线 日本3 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: dbd4b727-f56d-4391-b0fc-d5f555644199, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本01|BGP专线|SVIP03 - V2Board, server: 106.75.134.1, port: 12000, type: trojan, password: 25861985-9186-4f65-ae33-c51d84b1450d, sni: aliyun.com, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|02 - 悦云, server: greenchais2.668918.xyz, port: 22307, type: vmess, uuid: 465ae1cc-e7be-4a8b-a4ef-070e107a85d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-v6|04 - 悦云, server: greenip1.668918.xyz, port: 22306, type: vmess, uuid: 465ae1cc-e7be-4a8b-a4ef-070e107a85d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -19,9 +19,3 @@ proxies:
 - {name: 🇯🇵 日本03 - 悦云, server: cloud.yueyun.de, port: 10389, type: trojan, password: 465ae1cc-e7be-4a8b-a4ef-070e107a85d0, sni: cloud.yueyun.de, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JP01 12小时试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 46887, type: ss, cipher: aes-128-gcm, password: 74e3510a-c9a9-45ea-acac-2363fb828dd4, udp: true}
 - {name: 🇯🇵 日本01 - LinluJS, server: jp-nb-01.linlujs.pw, port: 39955, type: ss, cipher: aes-128-gcm, password: 87dcc2d6-bf59-4fc4-84e1-e9643668c44c, udp: true}
-- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: b4b571c6-28d8-4e48-832b-02bf0266651e, udp: true}
-- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: b4b571c6-28d8-4e48-832b-02bf0266651e, udp: true}
-- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: b4b571c6-28d8-4e48-832b-02bf0266651e, udp: true}
-- {name: 🇯🇵日本01 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 34378, type: ss, cipher: chacha20-ietf-poly1305, password: 6fa034b5-90f4-4811-85de-ecd65e87bad9, udp: true}
-- {name: 🇯🇵日本02 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 11672, type: ss, cipher: chacha20-ietf-poly1305, password: 6fa034b5-90f4-4811-85de-ecd65e87bad9, udp: true}
-- {name: 🇯🇵日本03 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 58377, type: ss, cipher: chacha20-ietf-poly1305, password: 6fa034b5-90f4-4811-85de-ecd65e87bad9, udp: true}

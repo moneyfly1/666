@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼台湾 - 爬梯看世界, server: ptcdn.chainpt.art, port: 12721, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
