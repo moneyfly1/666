@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP日本-Tokyo-01 - 脉冲云, server: gyaa.ptwqx.cn, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: a90c3827-a0ca-4e8b-95e0-945b71adb650, udp: true}
-- {name: 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云, server: gyaa.ptwqx.cn, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: a90c3827-a0ca-4e8b-95e0-945b71adb650, udp: true}
+- {name: 🇯🇵 JP日本-Tokyo-01 - 脉冲云, server: gyaa.ptwqx.cn, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 4b84c567-9272-48f0-a6a8-29573709eb93, udp: true}
+- {name: 🇯🇵 JP日本-Tokyo-wap-02 - 脉冲云, server: gyaa.ptwqx.cn, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 4b84c567-9272-48f0-a6a8-29573709eb93, udp: true}

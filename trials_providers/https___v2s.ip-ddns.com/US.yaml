@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国rn1-快速 - Wink, server: us-rn1.xaa.app, port: 443, type: trojan, password: a168fb31-fc38-467f-81fa-d41cb8f6c1a1, sni: us-rn1.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国rn2-快速 - Wink, server: us-rn2.xaa.app, port: 443, type: trojan, password: a168fb31-fc38-467f-81fa-d41cb8f6c1a1, sni: us-rn2.xaa.app, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国rn3-高速 - Wink, server: us-rn3.xaa.app, port: 443, type: trojan, password: a168fb31-fc38-467f-81fa-d41cb8f6c1a1, sni: us-rn3.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn1-快速 - Wink, server: us-rn1.xaa.app, port: 443, type: trojan, password: d60bfd74-ea50-4659-99c8-c4e2e03917b8, sni: us-rn1.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn2-快速 - Wink, server: us-rn2.xaa.app, port: 443, type: trojan, password: d60bfd74-ea50-4659-99c8-c4e2e03917b8, sni: us-rn2.xaa.app, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国rn3-高速 - Wink, server: us-rn3.xaa.app, port: 443, type: trojan, password: d60bfd74-ea50-4659-99c8-c4e2e03917b8, sni: us-rn3.xaa.app, skip-cert-verify: true, udp: true}

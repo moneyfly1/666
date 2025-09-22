@@ -14,12 +14,14 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
@@ -31,21 +33,42 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界
-  - 🇹🇼台湾 - 爬梯看世界
-  - 🇯🇵日本01 | IPLC三网直连 - 爬梯看世界
-  - 🇯🇵日本02 | IPLC三网直连 - 爬梯看世界
-  - 🇯🇵日本03 | IPLC三网直连 - 爬梯看世界
-  - 🇺🇸美国01 (支持GPT) - 爬梯看世界
-  - 🇺🇸美国02 - 爬梯看世界
-  - 🇺🇸美国03 | 芝加哥(支持GPT) - 爬梯看世界
-  - 🇺🇸美国04 | 圣何塞(支持GPT) - 爬梯看世界
-  - 🇺🇸美国05 | 纽约城(支持GPT) - 爬梯看世界
-  - ℹ️ 永久官网：www.ptchain.app - 爬梯看世界
+  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
+  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
+  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
+  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
+  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
+  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
+  - 🇸🇬 [电信专线] 新加坡 x A区 - 南北云
+  - 🇸🇬 [联通专线] 新加坡 x A区 - 南北云
+  - 🇸🇬 [移动专线] 新加坡 x A区 - 南北云
+  - 🇯🇵 [电信专线] 日本 x A区 - 南北云
+  - 🇯🇵 [联通专线] 日本 x A区 - 南北云
+  - 🇯🇵 [移动专线] 日本 x A区 - 南北云
+  - 🇺🇸 [电信专线] 美国 x A区 - 南北云
+  - 🇺🇸 [联通专线] 美国 x A区 - 南北云
+  - 🇺🇸 [移动专线] 美国 x A区 - 南北云
+  - 🇮🇳 [电信专线] 印度 x A区 - 南北云
+  - 🇮🇳 [联通专线] 印度 x A区 - 南北云
+  - 🇮🇳 [移动专线] 印度 x A区 - 南北云
+  - 🇧🇷 [电信专线] 巴西 x A区 - 南北云
+  - 🇧🇷 [联通专线] 巴西 x A区 - 南北云
+  - 🇧🇷 [移动专线] 巴西 x A区 - 南北云
+  - 🇻🇳 [电信专线] 越南 x A区 - 南北云
+  - 🇻🇳 [联通专线] 越南 x A区 - 南北云
+  - 🇻🇳 [移动专线] 越南 x A区 - 南北云
+  - 🇩🇪 [电信专线] 德国 xA区 - 南北云
+  - 🇩🇪 [联通专线] 德国 x A区 - 南北云
+  - 🇩🇪 [移动专线] 德国 x A区 - 南北云
+  - 🇰🇷 [电信专线] 韩国 x A区 - 南北云
+  - 🇰🇷 [联通专线] 韩国 x A区 - 南北云
+  - 🇰🇷 [移动专线] 韩国 x A区 - 南北云
+  - 🇫🇷 [电信专线] 法国 x A区 - 南北云
+  - 🇫🇷 [联通专线] 法国 x A区 - 南北云
+  - 🇫🇷 [移动专线] 法国 x A区 - 南北云
+  - 🇨🇳官网地址：tsxspace.com - 南北云
+  - 🇨🇳注册试用1小时限1MB - 南北云
+  - 🇨🇳 ---------------------- - 南北云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -78,11 +101,13 @@ proxy-groups:
   proxies:
   - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
@@ -99,57 +124,84 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界
+  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
+  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
+  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼台湾 - 爬梯看世界
+  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
+  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
+  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界
-  - 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界
-  - 🇹🇼台湾 - 爬梯看世界
-- name: 🇯🇵 ‍日本
+  - 🇭🇰 [电信专线] 香港 x A区 - 南北云
+  - 🇭🇰 [联通专线] 香港 x A区 - 南北云
+  - 🇭🇰 [移动专线] 香港 x A区 - 南北云
+  - 🇹🇼 [电信专线] 台湾 x A区 - 南北云
+  - 🇹🇼 [联通专线] 台湾 x A区 - 南北云
+  - 🇹🇼 [移动专线] 台湾 x A区 - 南北云
+  - 🇨🇳官网地址：tsxspace.com - 南北云
+  - 🇨🇳注册试用1小时限1MB - 南北云
+  - 🇨🇳 ---------------------- - 南北云
+- name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇯🇵日本01 | IPLC三网直连 - 爬梯看世界
-  - 🇯🇵日本02 | IPLC三网直连 - 爬梯看世界
-  - 🇯🇵日本03 | IPLC三网直连 - 爬梯看世界
+  - 🇸🇬 [电信专线] 新加坡 x A区 - 南北云
+  - 🇸🇬 [联通专线] 新加坡 x A区 - 南北云
+  - 🇸🇬 [移动专线] 新加坡 x A区 - 南北云
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id006
+  - 🇯🇵 [电信专线] 日本 x A区 - 南北云
+  - 🇯🇵 [联通专线] 日本 x A区 - 南北云
+  - 🇯🇵 [移动专线] 日本 x A区 - 南北云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id006
-  - 🇺🇸美国01 (支持GPT) - 爬梯看世界
-  - 🇺🇸美国02 - 爬梯看世界
-  - 🇺🇸美国03 | 芝加哥(支持GPT) - 爬梯看世界
-  - 🇺🇸美国04 | 圣何塞(支持GPT) - 爬梯看世界
-  - 🇺🇸美国05 | 纽约城(支持GPT) - 爬梯看世界
+  proxies: &id007
+  - 🇺🇸 [电信专线] 美国 x A区 - 南北云
+  - 🇺🇸 [联通专线] 美国 x A区 - 南北云
+  - 🇺🇸 [移动专线] 美国 x A区 - 南北云
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id007
-  - ℹ️ 永久官网：www.ptchain.app - 爬梯看世界
+  proxies: &id008
+  - 🇮🇳 [电信专线] 印度 x A区 - 南北云
+  - 🇮🇳 [联通专线] 印度 x A区 - 南北云
+  - 🇮🇳 [移动专线] 印度 x A区 - 南北云
+  - 🇧🇷 [电信专线] 巴西 x A区 - 南北云
+  - 🇧🇷 [联通专线] 巴西 x A区 - 南北云
+  - 🇧🇷 [移动专线] 巴西 x A区 - 南北云
+  - 🇻🇳 [电信专线] 越南 x A区 - 南北云
+  - 🇻🇳 [联通专线] 越南 x A区 - 南北云
+  - 🇻🇳 [移动专线] 越南 x A区 - 南北云
+  - 🇩🇪 [电信专线] 德国 xA区 - 南北云
+  - 🇩🇪 [联通专线] 德国 x A区 - 南北云
+  - 🇩🇪 [移动专线] 德国 x A区 - 南北云
+  - 🇰🇷 [电信专线] 韩国 x A区 - 南北云
+  - 🇰🇷 [联通专线] 韩国 x A区 - 南北云
+  - 🇰🇷 [移动专线] 韩国 x A区 - 南北云
+  - 🇫🇷 [电信专线] 法国 x A区 - 南北云
+  - 🇫🇷 [联通专线] 法国 x A区 - 南北云
+  - 🇫🇷 [移动专线] 法国 x A区 - 南北云
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -159,31 +211,55 @@ proxy-groups:
 - name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id005
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id006
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: ℹ️ 永久官网：www.ptchain.app - 爬梯看世界, server: ptcdn.chainpt.art, port: 48537, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 53546, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 32511, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 48537, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 27886, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 25447, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇯🇵日本01 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 34378, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇯🇵日本02 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 11672, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇯🇵日本03 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 58377, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇺🇸美国01 (支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 30130, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇺🇸美国02 - 爬梯看世界, server: ptcdn.chainpt.art, port: 36481, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇺🇸美国03 | 芝加哥(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 36575, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇺🇸美国04 | 圣何塞(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 54885, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇺🇸美国05 | 纽约城(支持GPT) - 爬梯看世界, server: ptcdn.chainpt.art, port: 37467, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇹🇼台湾 - 爬梯看世界, server: ptcdn.chainpt.art, port: 12721, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
+- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇮🇳 [电信专线] 印度 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59069, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇮🇳 [联通专线] 印度 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50369, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇮🇳 [移动专线] 印度 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 54274, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇹🇼 [电信专线] 台湾 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59345, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇹🇼 [联通专线] 台湾 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 56963, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇹🇼 [移动专线] 台湾 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 57989, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇧🇷 [电信专线] 巴西 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59469, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇧🇷 [联通专线] 巴西 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57609, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇧🇷 [移动专线] 巴西 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 53131, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇻🇳 [电信专线] 越南 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52384, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇻🇳 [联通专线] 越南 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55774, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇻🇳 [移动专线] 越南 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58537, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇯🇵 [电信专线] 日本 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 52707, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇯🇵 [联通专线] 日本 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 59719, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇯🇵 [移动专线] 日本 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55439, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇩🇪 [电信专线] 德国 xA区 - 南北云', server: zf-ct.bgblwow.org, port: 54881, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇩🇪 [联通专线] 德国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 51577, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇩🇪 [移动专线] 德国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 58056, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇰🇷 [电信专线] 韩国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 57459, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇰🇷 [联通专线] 韩国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55064, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇰🇷 [移动专线] 韩国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 55782, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇫🇷 [电信专线] 法国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 59720, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇫🇷 [联通专线] 法国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 50748, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇫🇷 [移动专线] 法国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59741, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇺🇸 [电信专线] 美国 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58850, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇺🇸 [联通专线] 美国 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 57572, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: '🇺🇸 [移动专线] 美国 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 50984, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本节点5G-01 - 快云加速, server: 210.16.183.77, port: 43486, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本节点5G-02 - 快云加速, server: 210.16.183.77, port: 17676, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇯🇵 日本节点5G-03 - 快云加速, server: 210.16.183.77, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点5G-01 - 快云加速, server: 180.188.33.36, port: 43486, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本节点5G-02 - 快云加速, server: 180.188.33.36, port: 17676, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
+- {name: 🇯🇵 日本直连5G-03 - 快云加速, server: 54.238.156.132, port: 39030, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}

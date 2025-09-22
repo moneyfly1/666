@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本01|BGP专线|SVIP03 - V2Board, server: 106.75.134.1, port: 12000, type: trojan, password: 25861985-9186-4f65-ae33-c51d84b1450d, sni: aliyun.com, skip-cert-verify: true, udp: true}

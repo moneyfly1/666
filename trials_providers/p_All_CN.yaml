@@ -1,5 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: dbd4b727-f56d-4391-b0fc-d5f555644199, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 5b0c209a-df3d-4241-9c92-4eb7f24c2d26, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: a1d6f454-6f13-4234-a7bc-8d4abb5c7fd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 432c2fef-d9fa-4980-aad9-4d5ddbba527f, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳官网地址：tsxspace.com - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: 🇨🇳注册试用1小时限1MB - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
+- {name: 🇨🇳 ---------------------- - 南北云, server: zf-cm.bgblwow.org, port: 57304, type: ss, cipher: chacha20-ietf-poly1305, password: beb1c184-b76d-4d6f-affe-3ccb633cb5a5, udp: true}
