@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: 免费机场 请勿倒卖 - 灵鹿加速, server: mianfei02, port: 3333, type: vmess, uuid: b769f508-1257-466c-9fc0-68482538b9a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 网站注册地址:linlujs.xyz - 灵鹿加速, server: mianfei, port: 1111, type: vmess, uuid: b769f508-1257-466c-9fc0-68482538b9a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 网站注册地址:linlujs.men - 灵鹿加速, server: mianfei, port: 1111, type: vmess, uuid: b769f508-1257-466c-9fc0-68482538b9a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

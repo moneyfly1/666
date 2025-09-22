@@ -7,11 +7,6 @@ proxies:
 - {name: 🇭🇰 (2x)IEPL专线 香港1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 2e538384-8341-45ec-a86d-9da1781eb73b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 (2x)IEPL专线 香港2 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 2e538384-8341-45ec-a86d-9da1781eb73b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 (2x)IEPL专线 香港3 - NewBee国际机场, server: gzdx.newbee8.me, port: 35660, type: vmess, uuid: 2e538384-8341-45ec-a86d-9da1781eb73b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰香港01 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 53546, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇭🇰香港02 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 32511, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇭🇰香港03 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 48537, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇭🇰香港04 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 27886, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
-- {name: 🇭🇰香港05 | IPLC三网直连 - 爬梯看世界, server: ptcdn.chainpt.art, port: 25447, type: ss, cipher: chacha20-ietf-poly1305, password: 8272a589-717f-4e6c-a6a7-4a1b5efc911a, udp: true}
 - {name: 🇭🇰 香港-v6|05*0.5倍率 - 悦云, server: nathk.91ai.de, port: 18002, type: vmess, uuid: 7617cd99-77dd-42fc-be38-aec12a2e78b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|06 - 悦云, server: greenhk0.616626.xyz, port: 10505, type: vmess, uuid: 7617cd99-77dd-42fc-be38-aec12a2e78b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|07 - 悦云, server: greenhk1.616626.xyz, port: 10506, type: vmess, uuid: 7617cd99-77dd-42fc-be38-aec12a2e78b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -23,6 +18,6 @@ proxies:
 - {name: 🇭🇰 香港直连01 - LinluJS, server: hk-hy-01.linlujs.pw, port: 45541, type: ss, cipher: aes-128-gcm, password: 87dcc2d6-bf59-4fc4-84e1-e9643668c44c, udp: true}
 - {name: 🇭🇰 香港中转01 - 灵鹿加速, server: dx.miloli.me, port: 60399, type: ss, cipher: aes-128-gcm, password: b769f508-1257-466c-9fc0-68482538b9a3, udp: true}
 - {name: 🇭🇰 香港直连01 - 灵鹿加速, server: hk-hy-01.linlujs.pw, port: 45541, type: ss, cipher: aes-128-gcm, password: b769f508-1257-466c-9fc0-68482538b9a3, udp: true}
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: ab25ad70-93f5-4a5b-950c-b7a4d5e6d6de, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: ab25ad70-93f5-4a5b-950c-b7a4d5e6d6de, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: ab25ad70-93f5-4a5b-950c-b7a4d5e6d6de, udp: true}
+- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 4e7451b1-9b04-4950-9e78-ff0b982b19b6, udp: true}
+- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 4e7451b1-9b04-4950-9e78-ff0b982b19b6, udp: true}
+- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 4e7451b1-9b04-4950-9e78-ff0b982b19b6, udp: true}

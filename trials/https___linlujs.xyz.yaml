@@ -29,7 +29,7 @@ proxy-groups:
   - 🇭🇰 香港直连01 - LinluJS
   - 🇯🇵 日本01 - LinluJS
   - 免费机场 请勿倒卖 - LinluJS
-  - ℹ️ 网站注册地址:linlujs.xyz - LinluJS
+  - ℹ️ 网站注册地址:linlujs.men - LinluJS
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -91,7 +91,7 @@ proxy-groups:
   tolerance: 100
   proxies: &id004
   - 免费机场 请勿倒卖 - LinluJS
-  - ℹ️ 网站注册地址:linlujs.xyz - LinluJS
+  - ℹ️ 网站注册地址:linlujs.men - LinluJS
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -103,7 +103,7 @@ proxy-groups:
   proxies: *id004
 proxies:
 - {name: 免费机场 请勿倒卖 - LinluJS, server: mianfei02, port: 3333, type: vmess, uuid: 87dcc2d6-bf59-4fc4-84e1-e9643668c44c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 网站注册地址:linlujs.xyz - LinluJS, server: mianfei, port: 1111, type: vmess, uuid: 87dcc2d6-bf59-4fc4-84e1-e9643668c44c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 网站注册地址:linlujs.men - LinluJS, server: mianfei, port: 1111, type: vmess, uuid: 87dcc2d6-bf59-4fc4-84e1-e9643668c44c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港中转01 - LinluJS, server: dx.miloli.me, port: 60399, type: ss, cipher: aes-128-gcm, password: 87dcc2d6-bf59-4fc4-84e1-e9643668c44c, udp: true}
 - {name: 🇯🇵 日本01 - LinluJS, server: jp-nb-01.linlujs.pw, port: 39955, type: ss, cipher: aes-128-gcm, password: 87dcc2d6-bf59-4fc4-84e1-e9643668c44c, udp: true}
 - {name: 🇭🇰 香港直连01 - LinluJS, server: hk-hy-01.linlujs.pw, port: 45541, type: ss, cipher: aes-128-gcm, password: 87dcc2d6-bf59-4fc4-84e1-e9643668c44c, udp: true}
