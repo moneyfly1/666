@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡-1Gbps - 西米露云, server: v-sg.camael.top, port: 9527, type: vmess, uuid: 7f9cd2ab-969e-4dd9-b847-6a96171cfeec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

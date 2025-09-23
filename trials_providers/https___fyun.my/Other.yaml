@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇲🇾 马来西亚 吉隆坡 | Evo | 直连1 - E云-跨境电商服务, server: ml.evozl.tiksg.icu, port: 2005, type: ss, cipher: chacha20-ietf-poly1305, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
+- {name: 🇲🇾 马来西亚 吉隆坡 | Evo | 直连2 - E云-跨境电商服务, server: ml.evozl.tiksg.icu, port: 2007, type: ss, cipher: chacha20-ietf-poly1305, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
+- {name: 🇲🇾 马来西亚 吉隆坡 | Egg | 高速1 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10251, type: ss, cipher: chacha20-ietf-poly1305, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
+- {name: 🇲🇾 马来西亚 吉隆坡 | Egg | 高速2 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10252, type: ss, cipher: chacha20-ietf-poly1305, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
+- {name: 🇫🇷 FR法国 | Ggd1 | 高速 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10291, type: ss, cipher: chacha20-ietf-poly1305, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
+- {name: 🇫🇷 FR法国 | Ggd2 | 高速 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10292, type: ss, cipher: chacha20-ietf-poly1305, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
+- {name: 🇫🇷 FR法国 | Ggd3 | 高速 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10293, type: ss, cipher: chacha20-ietf-poly1305, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
+- {name: 🇫🇷 FR法国 | Ggd4 | 高速 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10294, type: ss, cipher: chacha20-ietf-poly1305, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
