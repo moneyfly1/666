@@ -1,10 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 【高速】HK香港1 | Agg - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10231, type: ss, cipher: aes-128-gcm, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
-- {name: 🇭🇰 【高速】HK香港2 | Agg - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10232, type: ss, cipher: aes-128-gcm, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
-- {name: 🇭🇰 【高速】HK香港3 | Agg - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10233, type: ss, cipher: aes-128-gcm, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
-- {name: 🇭🇰 【高速】HK香港4 | Agg - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10234, type: ss, cipher: chacha20-ietf-poly1305, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
+- {name: 🇭🇰 【直连】HK香港5 | evo - E云-跨境电商服务, server: hk.ligzl.tiksg.icu, port: 2005, type: ss, cipher: aes-128-gcm, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
+- {name: 🇭🇰 【直连】HK香港7 | evo - E云-跨境电商服务, server: hk.ligzl.tiksg.icu, port: 2007, type: ss, cipher: aes-128-gcm, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
 - {name: 🇭🇰 HK香港 | Evo5 | 直连 - E云-跨境电商服务, server: hk.ggzl.tiksg.icu, port: 2205, type: ss, cipher: chacha20-ietf-poly1305, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
 - {name: 🇭🇰 HK香港 | Evo7 | 直连 - E云-跨境电商服务, server: hk.ggzl.tiksg.icu, port: 2207, type: ss, cipher: chacha20-ietf-poly1305, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
 - {name: 🇭🇰 【高速】HK香港5 | Egg - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10241, type: ss, cipher: aes-128-gcm, password: 0e6974e2-371b-48ad-a405-75cfee26e089, udp: true}
