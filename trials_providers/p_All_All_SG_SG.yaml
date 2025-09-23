@@ -1,14 +1,16 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f862e8ef-4d38-4c1f-89fb-e46f83a32d8d, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f862e8ef-4d38-4c1f-89fb-e46f83a32d8d, udp: true}
-- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f862e8ef-4d38-4c1f-89fb-e46f83a32d8d, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f862e8ef-4d38-4c1f-89fb-e46f83a32d8d, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f862e8ef-4d38-4c1f-89fb-e46f83a32d8d, udp: true}
-- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: f862e8ef-4d38-4c1f-89fb-e46f83a32d8d, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
+- {name: 🇸🇬 新加坡解锁(广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
+- {name: 🇸🇬 新加坡解锁(广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 36199, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
 - {name: 🇸🇬 SG新加坡 | gg5 | 直连 - E云-跨境电商服务, server: sg.ggzl.tiksg.icu, port: 2005, type: ss, cipher: chacha20-ietf-poly1305, password: 60e0b12c-24df-47a4-8be6-f7ef59a2e8ac, udp: true}
 - {name: 🇸🇬 SG新加坡 | gg7 | 直连 - E云-跨境电商服务, server: sg.ggzl.tiksg.icu, port: 2007, type: ss, cipher: chacha20-ietf-poly1305, password: 60e0b12c-24df-47a4-8be6-f7ef59a2e8ac, udp: true}
 - {name: 🇸🇬 SG新加坡 | Ggg1 | 高速 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10261, type: ss, cipher: chacha20-ietf-poly1305, password: 60e0b12c-24df-47a4-8be6-f7ef59a2e8ac, udp: true}
 - {name: 🇸🇬 SG新加坡 | Ggg2 | 高速 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10262, type: ss, cipher: chacha20-ietf-poly1305, password: 60e0b12c-24df-47a4-8be6-f7ef59a2e8ac, udp: true}
 - {name: 🇸🇬 SG新加坡 | Ggg3 | IPv4 - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10263, type: ss, cipher: chacha20-ietf-poly1305, password: 60e0b12c-24df-47a4-8be6-f7ef59a2e8ac, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: c2b9e108-21a4-4f10-8f9b-072480f1a3de, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: c2b9e108-21a4-4f10-8f9b-072480f1a3de, udp: true}
