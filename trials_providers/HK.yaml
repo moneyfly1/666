@@ -13,12 +13,12 @@ proxies:
 - &id004 {name: 🇭🇰 HK香港2-PQ - 脉冲云, server: gyaa.ptwqx.cn, port: 48388, type: ss, cipher: chacha20-ietf-poly1305, password: 681cc615-bae1-4ab5-aac2-a9147b083c96, udp: true}
 - &id005 {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: 681cc615-bae1-4ab5-aac2-a9147b083c96, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - &id006 {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: 681cc615-bae1-4ab5-aac2-a9147b083c96, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- &id017 {name: 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
-- &id018 {name: 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
-- &id019 {name: 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
-- &id020 {name: 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
-- &id021 {name: 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
-- &id022 {name: 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 0e9ee01b-c2bb-4539-9679-1bfb42857d55, udp: true}
+- &id017 {name: 🇭🇰 香港 (广港)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 413f3162-6adf-43e1-9ac2-c48aa9588017, udp: true}
+- &id018 {name: 🇭🇰 香港 (广港)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 413f3162-6adf-43e1-9ac2-c48aa9588017, udp: true}
+- &id019 {name: 🇭🇰 香港 (广港)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 413f3162-6adf-43e1-9ac2-c48aa9588017, udp: true}
+- &id020 {name: 🇭🇰 香港 (广新)1 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 413f3162-6adf-43e1-9ac2-c48aa9588017, udp: true}
+- &id021 {name: 🇭🇰 香港  (广新)2 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 413f3162-6adf-43e1-9ac2-c48aa9588017, udp: true}
+- &id022 {name: 🇭🇰 香港 (广新)3 x1 - ⚡闪连一元公益机场, server: slur.izenny.com, port: 55407, type: ss, cipher: chacha20-ietf-poly1305, password: 413f3162-6adf-43e1-9ac2-c48aa9588017, udp: true}
 - {name: 🇭🇰 香港-v6|05*0.5倍率 - 悦云, server: nathk.91ai.de, port: 18002, type: vmess, uuid: 66193090-12a2-4d42-bb60-df88dabc3e8f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|06 - 悦云, server: greenhk0.616626.xyz, port: 10505, type: vmess, uuid: 66193090-12a2-4d42-bb60-df88dabc3e8f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-v6|07 - 悦云, server: greenhk1.616626.xyz, port: 10506, type: vmess, uuid: 66193090-12a2-4d42-bb60-df88dabc3e8f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -33,8 +33,8 @@ proxies:
 - &id012 {name: 🇭🇰 【高速】HK香港6 | Egg - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10242, type: ss, cipher: aes-128-gcm, password: 60e0b12c-24df-47a4-8be6-f7ef59a2e8ac, udp: true}
 - &id013 {name: 🇭🇰 【高速】HK香港7 | Egg - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10243, type: ss, cipher: aes-128-gcm, password: 60e0b12c-24df-47a4-8be6-f7ef59a2e8ac, udp: true}
 - &id014 {name: 🇭🇰 【高速】HK香港8 | Egg - E云-跨境电商服务, server: iepl.eyun-niihost.ayun.mom, port: 10244, type: ss, cipher: chacha20-ietf-poly1305, password: 60e0b12c-24df-47a4-8be6-f7ef59a2e8ac, udp: true}
-- &id015 {name: 🇭🇰 ss(广移)香港1 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: c2b9e108-21a4-4f10-8f9b-072480f1a3de, udp: true}
-- &id016 {name: 🇭🇰 ss(广移)香港2 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: c2b9e108-21a4-4f10-8f9b-072480f1a3de, udp: true}
+- &id015 {name: 🇭🇰 ss(广移)香港1 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 935ac4c6-d6d0-4262-9733-0dbd13c3ab03, udp: true}
+- &id016 {name: 🇭🇰 ss(广移)香港2 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 935ac4c6-d6d0-4262-9733-0dbd13c3ab03, udp: true}
 - *id001
 - *id002
 - *id003
@@ -64,13 +64,11 @@ proxies:
 - *id021
 - *id022
 - {name: 🇭🇰 HK02 12小时联通试用线路 满意在订购 - 火箭, server: qqb12.198139.xyz, port: 64088, type: ss, cipher: aes-128-gcm, password: 74e3510a-c9a9-45ea-acac-2363fb828dd4, udp: true}
-- {name: 🇭🇰 香港中转01 - LinluJS, server: dx.miloli.me, port: 60399, type: ss, cipher: aes-128-gcm, password: 87dcc2d6-bf59-4fc4-84e1-e9643668c44c, udp: true}
 - {name: 🇭🇰 香港直连01 - LinluJS, server: hk-hy-01.linlujs.pw, port: 45541, type: ss, cipher: aes-128-gcm, password: 87dcc2d6-bf59-4fc4-84e1-e9643668c44c, udp: true}
-- {name: 🇭🇰 香港中转01 - 灵鹿加速, server: dx.miloli.me, port: 60399, type: ss, cipher: aes-128-gcm, password: b769f508-1257-466c-9fc0-68482538b9a3, udp: true}
 - {name: 🇭🇰 香港直连01 - 灵鹿加速, server: hk-hy-01.linlujs.pw, port: 45541, type: ss, cipher: aes-128-gcm, password: b769f508-1257-466c-9fc0-68482538b9a3, udp: true}
-- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 746cda12-24d4-472a-9d36-bf69633c2606, udp: true}
-- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 746cda12-24d4-472a-9d36-bf69633c2606, udp: true}
-- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 746cda12-24d4-472a-9d36-bf69633c2606, udp: true}
+- {name: '🇭🇰 [电信专线] 香港 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 58911, type: ss, cipher: chacha20-ietf-poly1305, password: 8595a3bd-3420-4859-b23e-2decf88f6ff1, udp: true}
+- {name: '🇭🇰 [联通专线] 香港 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 53754, type: ss, cipher: chacha20-ietf-poly1305, password: 8595a3bd-3420-4859-b23e-2decf88f6ff1, udp: true}
+- {name: '🇭🇰 [移动专线] 香港 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59543, type: ss, cipher: chacha20-ietf-poly1305, password: 8595a3bd-3420-4859-b23e-2decf88f6ff1, udp: true}
 - *id001
 - *id002
 - *id003
