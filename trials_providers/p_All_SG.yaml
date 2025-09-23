@@ -5,11 +5,11 @@ proxies:
 - {name: 🇸🇬 新加坡节点5G-02 - 快云加速, server: 180.188.33.40, port: 13087, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇸🇬 新加坡直连5G-03 - 快云加速, server: 18.143.178.255, port: 21018, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
 - {name: 🇸🇬 新加坡直连5G-04 - 快云加速, server: 13.229.108.52, port: 29760, type: ss, cipher: aes-256-gcm, password: 5f10654c-42a5-4f27-96c4-f7b6558242dc, udp: true}
-- {name: 🇸🇬 新加坡-ss2 - Wink, server: sg3.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: e0522a39-c3ea-4358-9099-aa67c190f105, udp: true}
-- {name: 🇸🇬 新加坡-ss3 - Wink, server: sg2.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: e0522a39-c3ea-4358-9099-aa67c190f105, udp: true}
-- {name: 🇸🇬 (1.5x)IEPL专线 新加坡1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 2e538384-8341-45ec-a86d-9da1781eb73b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 (1.5x)IEPL专线 新加坡2 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 2e538384-8341-45ec-a86d-9da1781eb73b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 (1.5x)IEPL专线 新加坡3 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: 2e538384-8341-45ec-a86d-9da1781eb73b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: 4e7451b1-9b04-4950-9e78-ff0b982b19b6, udp: true}
-- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: 4e7451b1-9b04-4950-9e78-ff0b982b19b6, udp: true}
-- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: 4e7451b1-9b04-4950-9e78-ff0b982b19b6, udp: true}
+- {name: 🇸🇬 新加坡-ss2 - Wink, server: sg3.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: f7c5d76b-d62f-43eb-bb93-f9cc3e63d543, udp: true}
+- {name: 🇸🇬 新加坡-ss3 - Wink, server: sg2.xaa.app, port: 9527, type: ss, cipher: chacha20-ietf-poly1305, password: f7c5d76b-d62f-43eb-bb93-f9cc3e63d543, udp: true}
+- {name: 🇸🇬 (1.5x)IEPL专线 新加坡1 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 39921dac-ef0a-4b66-ad4b-17740ccb7e45, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 (1.5x)IEPL专线 新加坡2 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 39921dac-ef0a-4b66-ad4b-17740ccb7e45, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 (1.5x)IEPL专线 新加坡3 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: 39921dac-ef0a-4b66-ad4b-17740ccb7e45, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [电信专线] 新加坡 x A区 - 南北云', server: zf-ct.bgblwow.org, port: 50412, type: ss, cipher: chacha20-ietf-poly1305, password: 250df106-9235-4fd1-a9f8-53011f620757, udp: true}
+- {name: '🇸🇬 [联通专线] 新加坡 x A区 - 南北云', server: zf-cu.bgblwow.org, port: 55375, type: ss, cipher: chacha20-ietf-poly1305, password: 250df106-9235-4fd1-a9f8-53011f620757, udp: true}
+- {name: '🇸🇬 [移动专线] 新加坡 x A区 - 南北云', server: zf-cm.bgblwow.org, port: 59384, type: ss, cipher: chacha20-ietf-poly1305, password: 250df106-9235-4fd1-a9f8-53011f620757, udp: true}
